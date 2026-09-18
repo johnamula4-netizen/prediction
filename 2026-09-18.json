@@ -1,0 +1,3875 @@
+{
+  "count": 42,
+  "predictions": [
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 1,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.5859908341974938,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 2,
+          "horse_name": "ソラニワラエバ",
+          "ai_score": 0.584257830725535
+        },
+        {
+          "rank": 2,
+          "horse_num": 11,
+          "horse_name": "イキフン",
+          "ai_score": 0.581291668560782
+        },
+        {
+          "rank": 3,
+          "horse_num": 9,
+          "horse_name": "サクセスボーイ",
+          "ai_score": 0.501608576565697
+        },
+        {
+          "rank": 4,
+          "horse_num": 8,
+          "horse_name": "ヴィシーチェック",
+          "ai_score": 0.4823744665754097
+        },
+        {
+          "rank": 5,
+          "horse_num": 1,
+          "horse_name": "ゼラニウム",
+          "ai_score": 0.2365093535265946
+        },
+        {
+          "rank": 6,
+          "horse_num": 3,
+          "horse_name": "ハイトラクション",
+          "ai_score": 0.19936018431874852
+        },
+        {
+          "rank": 7,
+          "horse_num": 7,
+          "horse_name": "グラスクラージュ",
+          "ai_score": 0.18346117992531755
+        },
+        {
+          "rank": 8,
+          "horse_num": 12,
+          "horse_name": "ニシノマキロイ",
+          "ai_score": 0.15864654134352568
+        },
+        {
+          "rank": 9,
+          "horse_num": 6,
+          "horse_name": "ナムラダックス",
+          "ai_score": 0.1581956711986746
+        },
+        {
+          "rank": 10,
+          "horse_num": 5,
+          "horse_name": "ハチキンキリシマ",
+          "ai_score": 0.05558164160658915
+        },
+        {
+          "rank": 11,
+          "horse_num": 4,
+          "horse_name": "シャイニーヒーロー",
+          "ai_score": 0.051470150882920805
+        },
+        {
+          "rank": 12,
+          "horse_num": 10,
+          "horse_name": "マジックファイト",
+          "ai_score": 0.02707582450344241
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 2,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.5390572396938997,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 9,
+          "horse_name": "ヨドノプレミアム",
+          "ai_score": 0.5352254382409798
+        },
+        {
+          "rank": 2,
+          "horse_num": 1,
+          "horse_name": "プレママドンナ",
+          "ai_score": 0.5280662092896931
+        },
+        {
+          "rank": 3,
+          "horse_num": 2,
+          "horse_name": "イントゥーザブルー",
+          "ai_score": 0.4493909875623588
+        },
+        {
+          "rank": 4,
+          "horse_num": 10,
+          "horse_name": "アイファーマーリン",
+          "ai_score": 0.4245229459738898
+        },
+        {
+          "rank": 5,
+          "horse_num": 11,
+          "horse_name": "スピカテソーロ",
+          "ai_score": 0.40280317471034816
+        },
+        {
+          "rank": 6,
+          "horse_num": 6,
+          "horse_name": "マーズワース",
+          "ai_score": 0.3993992220727466
+        },
+        {
+          "rank": 7,
+          "horse_num": 4,
+          "horse_name": "モーモーゼロ",
+          "ai_score": 0.21511752028979175
+        },
+        {
+          "rank": 8,
+          "horse_num": 7,
+          "horse_name": "コスモティタノ",
+          "ai_score": 0.15320144850953657
+        },
+        {
+          "rank": 9,
+          "horse_num": 5,
+          "horse_name": "ヒズストーリー",
+          "ai_score": 0.03617845013400445
+        },
+        {
+          "rank": 10,
+          "horse_num": 3,
+          "horse_name": "コスモデュアリズム",
+          "ai_score": 0.029112384439500864
+        },
+        {
+          "rank": 11,
+          "horse_num": 8,
+          "horse_name": "アミノショコラ",
+          "ai_score": 0.02829577540694427
+        },
+        {
+          "rank": 12,
+          "horse_num": 12,
+          "horse_name": "ビシット",
+          "ai_score": 0.02658374728881318
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 3,
+      "race_title": "3歳未勝利",
+      "race_confidence": 0.5585802837639811,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 8,
+          "horse_name": "ハングローズ",
+          "ai_score": 0.5009716545537242
+        },
+        {
+          "rank": 2,
+          "horse_num": 2,
+          "horse_name": "セイウンヤオヨロズ",
+          "ai_score": 0.3859778646125032
+        },
+        {
+          "rank": 3,
+          "horse_num": 15,
+          "horse_name": "ミッキーサウザンド",
+          "ai_score": 0.3850220650581476
+        },
+        {
+          "rank": 4,
+          "horse_num": 5,
+          "horse_name": "ツクバヴァンガード",
+          "ai_score": 0.35929042189773325
+        },
+        {
+          "rank": 5,
+          "horse_num": 9,
+          "horse_name": "エリースノー",
+          "ai_score": 0.31899989874971546
+        },
+        {
+          "rank": 6,
+          "horse_num": 10,
+          "horse_name": "ジーティーニッツァ",
+          "ai_score": 0.17433770459523426
+        },
+        {
+          "rank": 7,
+          "horse_num": 4,
+          "horse_name": "フレンチブラッサム",
+          "ai_score": 0.17205414012468367
+        },
+        {
+          "rank": 8,
+          "horse_num": 6,
+          "horse_name": "スマートレイナ",
+          "ai_score": 0.16629039574446342
+        },
+        {
+          "rank": 9,
+          "horse_num": 3,
+          "horse_name": "ジャメビュ",
+          "ai_score": 0.15361540004768803
+        },
+        {
+          "rank": 10,
+          "horse_num": 13,
+          "horse_name": "エンジェルサン",
+          "ai_score": 0.15191416537598207
+        },
+        {
+          "rank": 11,
+          "horse_num": 14,
+          "horse_name": "ブルーダイヤシチー",
+          "ai_score": 0.07159538468828557
+        },
+        {
+          "rank": 12,
+          "horse_num": 7,
+          "horse_name": "チェストー",
+          "ai_score": 0.05299517422198018
+        },
+        {
+          "rank": 13,
+          "horse_num": 1,
+          "horse_name": "ミクロスギガース",
+          "ai_score": 0.052099155563461064
+        },
+        {
+          "rank": 14,
+          "horse_num": 11,
+          "horse_name": "トリエンナーレ",
+          "ai_score": 0.04436653939557477
+        },
+        {
+          "rank": 15,
+          "horse_num": 16,
+          "horse_name": "ポンテヴェッキオ",
+          "ai_score": 0.03994147205981178
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 4,
+      "race_title": "3歳未勝利",
+      "race_confidence": 0.6161392288601161,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 2,
+          "horse_name": "ミナヅキ",
+          "ai_score": 0.5457183214407597
+        },
+        {
+          "rank": 2,
+          "horse_num": 11,
+          "horse_name": "エリュグレイス",
+          "ai_score": 0.41667572812368536
+        },
+        {
+          "rank": 3,
+          "horse_num": 12,
+          "horse_name": "ナイトバード",
+          "ai_score": 0.3343488604424587
+        },
+        {
+          "rank": 4,
+          "horse_num": 8,
+          "horse_name": "ヤマニンリンキング",
+          "ai_score": 0.3013267663063133
+        },
+        {
+          "rank": 5,
+          "horse_num": 16,
+          "horse_name": "ヒシナスキロ",
+          "ai_score": 0.19223138727418773
+        },
+        {
+          "rank": 6,
+          "horse_num": 7,
+          "horse_name": "アンヴデット",
+          "ai_score": 0.18496444409011764
+        },
+        {
+          "rank": 7,
+          "horse_num": 13,
+          "horse_name": "コスモアルペジオ",
+          "ai_score": 0.1684467404962703
+        },
+        {
+          "rank": 8,
+          "horse_num": 10,
+          "horse_name": "ジェイエルグリーン",
+          "ai_score": 0.15096511529893822
+        },
+        {
+          "rank": 9,
+          "horse_num": 3,
+          "horse_name": "シルバープレミア",
+          "ai_score": 0.13369648018672897
+        },
+        {
+          "rank": 10,
+          "horse_num": 6,
+          "horse_name": "グランフルス",
+          "ai_score": 0.10907274770177107
+        },
+        {
+          "rank": 11,
+          "horse_num": 14,
+          "horse_name": "ウインスターリング",
+          "ai_score": 0.10640708647365928
+        },
+        {
+          "rank": 12,
+          "horse_num": 15,
+          "horse_name": "イーガービーバー",
+          "ai_score": 0.0876297743457112
+        },
+        {
+          "rank": 13,
+          "horse_num": 5,
+          "horse_name": "モントーヤ",
+          "ai_score": 0.08138650404123889
+        },
+        {
+          "rank": 14,
+          "horse_num": 4,
+          "horse_name": "カーヴドヴァン",
+          "ai_score": 0.06112766989990236
+        },
+        {
+          "rank": 15,
+          "horse_num": 18,
+          "horse_name": "ベルバード",
+          "ai_score": 0.05074032969638831
+        },
+        {
+          "rank": 16,
+          "horse_num": 1,
+          "horse_name": "クールチェンジ",
+          "ai_score": 0.0361853062846955
+        },
+        {
+          "rank": 17,
+          "horse_num": 9,
+          "horse_name": "タイキヴィグルーズ",
+          "ai_score": 0.026214496549215545
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 7,
+      "race_title": "3歳未勝利",
+      "race_confidence": 0.6957007868195685,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 14,
+          "horse_name": "カシマライフウ",
+          "ai_score": 0.6162656205260533
+        },
+        {
+          "rank": 2,
+          "horse_num": 9,
+          "horse_name": "サングラント",
+          "ai_score": 0.4873680094185114
+        },
+        {
+          "rank": 3,
+          "horse_num": 3,
+          "horse_name": "ゴールドプレイヤー",
+          "ai_score": 0.4098933268143333
+        },
+        {
+          "rank": 4,
+          "horse_num": 8,
+          "horse_name": "ユイノサダハル",
+          "ai_score": 0.28077236467679995
+        },
+        {
+          "rank": 5,
+          "horse_num": 4,
+          "horse_name": "イントゥザウインド",
+          "ai_score": 0.23702314004730515
+        },
+        {
+          "rank": 6,
+          "horse_num": 6,
+          "horse_name": "マイネルトレマーズ",
+          "ai_score": 0.19072592838044114
+        },
+        {
+          "rank": 7,
+          "horse_num": 2,
+          "horse_name": "プロミスライン",
+          "ai_score": 0.18724468598954708
+        },
+        {
+          "rank": 8,
+          "horse_num": 16,
+          "horse_name": "カーボフリオ",
+          "ai_score": 0.1354741009444582
+        },
+        {
+          "rank": 9,
+          "horse_num": 7,
+          "horse_name": "イーサンミラー",
+          "ai_score": 0.1285045804884256
+        },
+        {
+          "rank": 10,
+          "horse_num": 10,
+          "horse_name": "カノープス",
+          "ai_score": 0.06263911848281843
+        },
+        {
+          "rank": 11,
+          "horse_num": 13,
+          "horse_name": "レッドジェルブロワ",
+          "ai_score": 0.054915334916875815
+        },
+        {
+          "rank": 12,
+          "horse_num": 12,
+          "horse_name": "ゼンノスタニング",
+          "ai_score": 0.049003383067760704
+        },
+        {
+          "rank": 13,
+          "horse_num": 11,
+          "horse_name": "タカラエイティ",
+          "ai_score": 0.04777887047275401
+        },
+        {
+          "rank": 14,
+          "horse_num": 15,
+          "horse_name": "テンカラットレター",
+          "ai_score": 0.047437759629497166
+        },
+        {
+          "rank": 15,
+          "horse_num": 1,
+          "horse_name": "パワポケグッド",
+          "ai_score": 0.04088215232838054
+        },
+        {
+          "rank": 16,
+          "horse_num": 5,
+          "horse_name": "ワンダーバリエンス",
+          "ai_score": 0.02972688716765726
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 8,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.5023522693842326,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 1,
+          "horse_name": "ヴァルカンテソーロ",
+          "ai_score": 0.5020787305087508
+        },
+        {
+          "rank": 2,
+          "horse_num": 13,
+          "horse_name": "ベルトラッキ",
+          "ai_score": 0.5015339177954049
+        },
+        {
+          "rank": 3,
+          "horse_num": 8,
+          "horse_name": "マイネルアウルム",
+          "ai_score": 0.4753430330641108
+        },
+        {
+          "rank": 4,
+          "horse_num": 5,
+          "horse_name": "ヤマニンヘルシェ",
+          "ai_score": 0.4094942179994856
+        },
+        {
+          "rank": 5,
+          "horse_num": 12,
+          "horse_name": "コスモナエマ",
+          "ai_score": 0.3716327807768363
+        },
+        {
+          "rank": 6,
+          "horse_num": 11,
+          "horse_name": "マーゴットドライ",
+          "ai_score": 0.36387206051479853
+        },
+        {
+          "rank": 7,
+          "horse_num": 7,
+          "horse_name": "ウインターブレス",
+          "ai_score": 0.15773392107878043
+        },
+        {
+          "rank": 8,
+          "horse_num": 4,
+          "horse_name": "ペネトレイトゴー",
+          "ai_score": 0.1094094113565307
+        },
+        {
+          "rank": 9,
+          "horse_num": 14,
+          "horse_name": "フォンドルレール",
+          "ai_score": 0.06622193202954056
+        },
+        {
+          "rank": 10,
+          "horse_num": 2,
+          "horse_name": "スノーディーヴァ",
+          "ai_score": 0.05126391221792175
+        },
+        {
+          "rank": 11,
+          "horse_num": 6,
+          "horse_name": "パーリーブラック",
+          "ai_score": 0.044413619836805196
+        },
+        {
+          "rank": 12,
+          "horse_num": 3,
+          "horse_name": "チャームドウイング",
+          "ai_score": 0.03617117089201549
+        },
+        {
+          "rank": 13,
+          "horse_num": 9,
+          "horse_name": "タイセイネクサス",
+          "ai_score": 0.024898876449792193
+        },
+        {
+          "rank": 14,
+          "horse_num": 10,
+          "horse_name": "ホウライブラック",
+          "ai_score": 0.023349891921232418
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 9,
+      "race_title": "御宿特別",
+      "race_confidence": 0.6639712947772324,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 12,
+          "horse_name": "シャンソンドール",
+          "ai_score": 0.6205821533540592
+        },
+        {
+          "rank": 2,
+          "horse_num": 2,
+          "horse_name": "ロケベンドラ",
+          "ai_score": 0.5506653160930004
+        },
+        {
+          "rank": 3,
+          "horse_num": 10,
+          "horse_name": "ルナルーチェット",
+          "ai_score": 0.2972258076767946
+        },
+        {
+          "rank": 4,
+          "horse_num": 8,
+          "horse_name": "ミーントゥビー",
+          "ai_score": 0.26505238586870244
+        },
+        {
+          "rank": 5,
+          "horse_num": 13,
+          "horse_name": "キスアンドクライ",
+          "ai_score": 0.24539032747036077
+        },
+        {
+          "rank": 6,
+          "horse_num": 1,
+          "horse_name": "ホウオウシンデレラ",
+          "ai_score": 0.22110596384986755
+        },
+        {
+          "rank": 7,
+          "horse_num": 6,
+          "horse_name": "マルカオペラ",
+          "ai_score": 0.10732314460566031
+        },
+        {
+          "rank": 8,
+          "horse_num": 7,
+          "horse_name": "レイユール",
+          "ai_score": 0.09866356921722776
+        },
+        {
+          "rank": 9,
+          "horse_num": 3,
+          "horse_name": "ベルビースタローン",
+          "ai_score": 0.07682473926301821
+        },
+        {
+          "rank": 10,
+          "horse_num": 14,
+          "horse_name": "ギフテッド",
+          "ai_score": 0.06516914863428444
+        },
+        {
+          "rank": 11,
+          "horse_num": 9,
+          "horse_name": "イブニングタイド",
+          "ai_score": 0.059469273246768976
+        },
+        {
+          "rank": 12,
+          "horse_num": 11,
+          "horse_name": "ミラーダカリエンテ",
+          "ai_score": 0.05290861672335402
+        },
+        {
+          "rank": 13,
+          "horse_num": 4,
+          "horse_name": "エリム",
+          "ai_score": 0.04075046855806191
+        },
+        {
+          "rank": 14,
+          "horse_num": 5,
+          "horse_name": "オーロラアーク",
+          "ai_score": 0.025257266110498024
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 10,
+      "race_title": "レインボーステークス",
+      "race_confidence": 0.6215889295888716,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 1,
+          "horse_name": "デルアヴァー",
+          "ai_score": 0.5496087407017998
+        },
+        {
+          "rank": 2,
+          "horse_num": 8,
+          "horse_name": "ショウナンサムデイ",
+          "ai_score": 0.4186425031649663
+        },
+        {
+          "rank": 3,
+          "horse_num": 4,
+          "horse_name": "マイネルフーガ",
+          "ai_score": 0.3929366933568549
+        },
+        {
+          "rank": 4,
+          "horse_num": 10,
+          "horse_name": "ダンツファイター",
+          "ai_score": 0.3925342891599096
+        },
+        {
+          "rank": 5,
+          "horse_num": 3,
+          "horse_name": "ルールーリマ",
+          "ai_score": 0.383446955623297
+        },
+        {
+          "rank": 6,
+          "horse_num": 9,
+          "horse_name": "ダノンジャイアン",
+          "ai_score": 0.3082248967271415
+        },
+        {
+          "rank": 7,
+          "horse_num": 2,
+          "horse_name": "マイネルブリックス",
+          "ai_score": 0.18293096417926266
+        },
+        {
+          "rank": 8,
+          "horse_num": 5,
+          "horse_name": "アマイ",
+          "ai_score": 0.10833642914835606
+        },
+        {
+          "rank": 9,
+          "horse_num": 11,
+          "horse_name": "キーパフォーマー",
+          "ai_score": 0.10741910560975552
+        },
+        {
+          "rank": 10,
+          "horse_num": 6,
+          "horse_name": "トーアライデン",
+          "ai_score": 0.1001919732112361
+        },
+        {
+          "rank": 11,
+          "horse_num": 7,
+          "horse_name": "キントリヒ",
+          "ai_score": 0.048835808420042426
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 11,
+      "race_title": "ラジオ日本賞",
+      "race_confidence": 0.45581750573389973,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 10,
+          "horse_name": "ゲイルライダー",
+          "ai_score": 0.43717888471945215
+        },
+        {
+          "rank": 2,
+          "horse_num": 9,
+          "horse_name": "ブレーザー",
+          "ai_score": 0.3945450300985721
+        },
+        {
+          "rank": 3,
+          "horse_num": 15,
+          "horse_name": "ユキマル",
+          "ai_score": 0.38928452198302604
+        },
+        {
+          "rank": 4,
+          "horse_num": 16,
+          "horse_name": "ロードフロンティア",
+          "ai_score": 0.2733480548682797
+        },
+        {
+          "rank": 5,
+          "horse_num": 5,
+          "horse_name": "ジョーローリット",
+          "ai_score": 0.23258279867802487
+        },
+        {
+          "rank": 6,
+          "horse_num": 14,
+          "horse_name": "ポールセン",
+          "ai_score": 0.1883994850045619
+        },
+        {
+          "rank": 7,
+          "horse_num": 7,
+          "horse_name": "バグラダス",
+          "ai_score": 0.1185241141949826
+        },
+        {
+          "rank": 8,
+          "horse_num": 13,
+          "horse_name": "ショウナンアビアス",
+          "ai_score": 0.10735417937317174
+        },
+        {
+          "rank": 9,
+          "horse_num": 6,
+          "horse_name": "ムーヴ",
+          "ai_score": 0.0889692659725723
+        },
+        {
+          "rank": 10,
+          "horse_num": 12,
+          "horse_name": "ゲッティヴィラ",
+          "ai_score": 0.08142322743776291
+        },
+        {
+          "rank": 11,
+          "horse_num": 2,
+          "horse_name": "プレゼンティーア",
+          "ai_score": 0.07541213818738218
+        },
+        {
+          "rank": 12,
+          "horse_num": 8,
+          "horse_name": "ヒルノドゴール",
+          "ai_score": 0.06461176527302717
+        },
+        {
+          "rank": 13,
+          "horse_num": 1,
+          "horse_name": "オーブルクール",
+          "ai_score": 0.05274500432844372
+        },
+        {
+          "rank": 14,
+          "horse_num": 11,
+          "horse_name": "ブラウンラチェット",
+          "ai_score": 0.05253440734472083
+        },
+        {
+          "rank": 15,
+          "horse_num": 3,
+          "horse_name": "イスラアネーロ",
+          "ai_score": 0.04165699819021608
+        },
+        {
+          "rank": 16,
+          "horse_num": 0,
+          "horse_name": "モンドプリューム",
+          "ai_score": 0.036435750929470365
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 12,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.7848021730305745,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 12,
+          "horse_name": "ユアフェリシティ",
+          "ai_score": 0.6444021758960825
+        },
+        {
+          "rank": 2,
+          "horse_num": 13,
+          "horse_name": "ジェネラスキング",
+          "ai_score": 0.42652582105718584
+        },
+        {
+          "rank": 3,
+          "horse_num": 14,
+          "horse_name": "ヨドノタイヨウ",
+          "ai_score": 0.4090164442409843
+        },
+        {
+          "rank": 4,
+          "horse_num": 3,
+          "horse_name": "ナリノシャーウッド",
+          "ai_score": 0.349054095017039
+        },
+        {
+          "rank": 5,
+          "horse_num": 8,
+          "horse_name": "インナーパッション",
+          "ai_score": 0.3236061116986248
+        },
+        {
+          "rank": 6,
+          "horse_num": 1,
+          "horse_name": "タイセツナヒ",
+          "ai_score": 0.1874867737242312
+        },
+        {
+          "rank": 7,
+          "horse_num": 4,
+          "horse_name": "スノースコール",
+          "ai_score": 0.15962098091658738
+        },
+        {
+          "rank": 8,
+          "horse_num": 11,
+          "horse_name": "ホノボノ",
+          "ai_score": 0.1321794248644892
+        },
+        {
+          "rank": 9,
+          "horse_num": 2,
+          "horse_name": "アバレリュウ",
+          "ai_score": 0.11089515062806453
+        },
+        {
+          "rank": 10,
+          "horse_num": 15,
+          "horse_name": "カーマンライン",
+          "ai_score": 0.10770481362564238
+        },
+        {
+          "rank": 11,
+          "horse_num": 7,
+          "horse_name": "タリスマン",
+          "ai_score": 0.09740507942720239
+        },
+        {
+          "rank": 12,
+          "horse_num": 9,
+          "horse_name": "ロードフロリゼル",
+          "ai_score": 0.09163154233513607
+        },
+        {
+          "rank": 13,
+          "horse_num": 16,
+          "horse_name": "スーパーホース",
+          "ai_score": 0.05738009513092462
+        },
+        {
+          "rank": 14,
+          "horse_num": 6,
+          "horse_name": "ボールドタワー",
+          "ai_score": 0.049911326334616306
+        },
+        {
+          "rank": 15,
+          "horse_num": 5,
+          "horse_name": "ターフクリスタル",
+          "ai_score": 0.049083864484046835
+        },
+        {
+          "rank": 16,
+          "horse_num": 10,
+          "horse_name": "スカイダンスタイム",
+          "ai_score": 0.029118430781868605
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 1,
+      "race_title": "障害3歳以上未勝利",
+      "race_confidence": 0.7216802476874183,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 1,
+          "horse_name": "メイショウトム",
+          "ai_score": 0.695041450543711
+        },
+        {
+          "rank": 2,
+          "horse_num": 6,
+          "horse_name": "ガストン",
+          "ai_score": 0.6567145318788334
+        },
+        {
+          "rank": 3,
+          "horse_num": 2,
+          "horse_name": "ホルトバージ",
+          "ai_score": 0.5444966133381428
+        },
+        {
+          "rank": 4,
+          "horse_num": 4,
+          "horse_name": "インターステラ",
+          "ai_score": 0.4148046533824404
+        },
+        {
+          "rank": 5,
+          "horse_num": 7,
+          "horse_name": "ツーエムクロノス",
+          "ai_score": 0.33868345129221405
+        },
+        {
+          "rank": 6,
+          "horse_num": 5,
+          "horse_name": "クリアクォーツ",
+          "ai_score": 0.24854676955039995
+        },
+        {
+          "rank": 7,
+          "horse_num": 8,
+          "horse_name": "バトラーズワーフ",
+          "ai_score": 0.15488600421566479
+        },
+        {
+          "rank": 8,
+          "horse_num": 3,
+          "horse_name": "シュエットアムール",
+          "ai_score": 0.09344906535580928
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 2,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.7877162544312459,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 5,
+          "horse_name": "ショウナンバトレニ",
+          "ai_score": 0.7233422846603369
+        },
+        {
+          "rank": 2,
+          "horse_num": 6,
+          "horse_name": "メイショウジェード",
+          "ai_score": 0.6343471144123574
+        },
+        {
+          "rank": 3,
+          "horse_num": 2,
+          "horse_name": "ハルカカナタ",
+          "ai_score": 0.6301769465298251
+        },
+        {
+          "rank": 4,
+          "horse_num": 1,
+          "horse_name": "ケイアイトリノ",
+          "ai_score": 0.5328467865305188
+        },
+        {
+          "rank": 5,
+          "horse_num": 7,
+          "horse_name": "マスリュウオー",
+          "ai_score": 0.5225878601184673
+        },
+        {
+          "rank": 6,
+          "horse_num": 3,
+          "horse_name": "シャプシュ",
+          "ai_score": 0.35282156830397265
+        },
+        {
+          "rank": 7,
+          "horse_num": 4,
+          "horse_name": "オーロラトレイル",
+          "ai_score": 0.08498929774560333
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 3,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.7161079645747329,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 7,
+          "horse_name": "ホットロッドハート",
+          "ai_score": 0.7089519477955334
+        },
+        {
+          "rank": 2,
+          "horse_num": 2,
+          "horse_name": "ジュンヴァグネル",
+          "ai_score": 0.698858151168765
+        },
+        {
+          "rank": 3,
+          "horse_num": 3,
+          "horse_name": "ゴールドシューター",
+          "ai_score": 0.5642969506022807
+        },
+        {
+          "rank": 4,
+          "horse_num": 6,
+          "horse_name": "アワジシマ",
+          "ai_score": 0.4976555428378105
+        },
+        {
+          "rank": 5,
+          "horse_num": 1,
+          "horse_name": "ナポリ",
+          "ai_score": 0.4470218682730843
+        },
+        {
+          "rank": 6,
+          "horse_num": 4,
+          "horse_name": "フランベリー",
+          "ai_score": 0.3139821274746336
+        },
+        {
+          "rank": 7,
+          "horse_num": 5,
+          "horse_name": "ベルメサージュ",
+          "ai_score": 0.10503866665468609
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 4,
+      "race_title": "3歳未勝利",
+      "race_confidence": 0.469888061333562,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 6,
+          "horse_name": "コスモフィレンツェ",
+          "ai_score": 0.4612777689772805
+        },
+        {
+          "rank": 2,
+          "horse_num": 2,
+          "horse_name": "テンダーワーズ",
+          "ai_score": 0.44261159224959706
+        },
+        {
+          "rank": 3,
+          "horse_num": 9,
+          "horse_name": "ファランギーナ",
+          "ai_score": 0.4252375257113337
+        },
+        {
+          "rank": 4,
+          "horse_num": 10,
+          "horse_name": "メイショウプレマ",
+          "ai_score": 0.33180614468377123
+        },
+        {
+          "rank": 5,
+          "horse_num": 16,
+          "horse_name": "ペガサスジルシ",
+          "ai_score": 0.3050478683357628
+        },
+        {
+          "rank": 6,
+          "horse_num": 17,
+          "horse_name": "アステルディーヴァ",
+          "ai_score": 0.28948116926828843
+        },
+        {
+          "rank": 7,
+          "horse_num": 13,
+          "horse_name": "イルミナジーティー",
+          "ai_score": 0.18789448851979781
+        },
+        {
+          "rank": 8,
+          "horse_num": 4,
+          "horse_name": "アイルドゥレーヴェ",
+          "ai_score": 0.1634438980755788
+        },
+        {
+          "rank": 9,
+          "horse_num": 8,
+          "horse_name": "バックドラフト",
+          "ai_score": 0.15814373072204133
+        },
+        {
+          "rank": 10,
+          "horse_num": 15,
+          "horse_name": "ビロングトゥミー",
+          "ai_score": 0.10691850750987834
+        },
+        {
+          "rank": 11,
+          "horse_num": 5,
+          "horse_name": "ラッキーストーン",
+          "ai_score": 0.054610762836757094
+        },
+        {
+          "rank": 12,
+          "horse_num": 1,
+          "horse_name": "ランスオブラヴ",
+          "ai_score": 0.047593629488137994
+        },
+        {
+          "rank": 13,
+          "horse_num": 11,
+          "horse_name": "ダノンケリー",
+          "ai_score": 0.0468796476709991
+        },
+        {
+          "rank": 14,
+          "horse_num": 3,
+          "horse_name": "ウインリーブル",
+          "ai_score": 0.02982054213715047
+        },
+        {
+          "rank": 15,
+          "horse_num": 14,
+          "horse_name": "レイアン",
+          "ai_score": 0.029383724887679305
+        },
+        {
+          "rank": 16,
+          "horse_num": 7,
+          "horse_name": "ダリアフレイバー",
+          "ai_score": 0.025514934785158528
+        },
+        {
+          "rank": 17,
+          "horse_num": 18,
+          "horse_name": "シンゼンイセ",
+          "ai_score": 0.023680280153728153
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 7,
+      "race_title": "3歳未勝利",
+      "race_confidence": 0.6579759399107953,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 15,
+          "horse_name": "プペアンビスキュイ",
+          "ai_score": 0.5690737754535553
+        },
+        {
+          "rank": 2,
+          "horse_num": 4,
+          "horse_name": "ナムラロダン",
+          "ai_score": 0.41285121118869456
+        },
+        {
+          "rank": 3,
+          "horse_num": 13,
+          "horse_name": "ユウトザイシン",
+          "ai_score": 0.38336665831412264
+        },
+        {
+          "rank": 4,
+          "horse_num": 9,
+          "horse_name": "イッタレイッタレ",
+          "ai_score": 0.3310065995134069
+        },
+        {
+          "rank": 5,
+          "horse_num": 10,
+          "horse_name": "アスクハッピーマン",
+          "ai_score": 0.27603947342435436
+        },
+        {
+          "rank": 6,
+          "horse_num": 6,
+          "horse_name": "マイベスティー",
+          "ai_score": 0.1992410675962728
+        },
+        {
+          "rank": 7,
+          "horse_num": 11,
+          "horse_name": "バルフルール",
+          "ai_score": 0.19612489074388081
+        },
+        {
+          "rank": 8,
+          "horse_num": 1,
+          "horse_name": "キャスケード",
+          "ai_score": 0.16158592944540529
+        },
+        {
+          "rank": 9,
+          "horse_num": 7,
+          "horse_name": "シャインゴーツ",
+          "ai_score": 0.12067681928939207
+        },
+        {
+          "rank": 10,
+          "horse_num": 8,
+          "horse_name": "タフクッキー",
+          "ai_score": 0.11755790821906648
+        },
+        {
+          "rank": 11,
+          "horse_num": 3,
+          "horse_name": "メイショウヒタカミ",
+          "ai_score": 0.1158491104304282
+        },
+        {
+          "rank": 12,
+          "horse_num": 16,
+          "horse_name": "ハピネスサンライズ",
+          "ai_score": 0.1021843042384459
+        },
+        {
+          "rank": 13,
+          "horse_num": 12,
+          "horse_name": "ビーアイジーニー",
+          "ai_score": 0.0447438571129048
+        },
+        {
+          "rank": 14,
+          "horse_num": 5,
+          "horse_name": "スノーガーネット",
+          "ai_score": 0.03746843949133075
+        },
+        {
+          "rank": 15,
+          "horse_num": 14,
+          "horse_name": "ローレルアイビー",
+          "ai_score": 0.03097817102029394
+        },
+        {
+          "rank": 16,
+          "horse_num": 2,
+          "horse_name": "ファイナルコマンド",
+          "ai_score": 0.029394288477805838
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 8,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.720913321429837,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 4,
+          "horse_name": "アクセス",
+          "ai_score": 0.6552953533840458
+        },
+        {
+          "rank": 2,
+          "horse_num": 7,
+          "horse_name": "サトノアグード",
+          "ai_score": 0.5551604024692713
+        },
+        {
+          "rank": 3,
+          "horse_num": 6,
+          "horse_name": "コレオシークエンス",
+          "ai_score": 0.4296790825462059
+        },
+        {
+          "rank": 4,
+          "horse_num": 11,
+          "horse_name": "ダノンテムズ",
+          "ai_score": 0.3440521117916682
+        },
+        {
+          "rank": 5,
+          "horse_num": 1,
+          "horse_name": "マイリトルヒーロー",
+          "ai_score": 0.2597597603378369
+        },
+        {
+          "rank": 6,
+          "horse_num": 12,
+          "horse_name": "エンジェルボイス",
+          "ai_score": 0.17600009128581165
+        },
+        {
+          "rank": 7,
+          "horse_num": 10,
+          "horse_name": "ピエタンツァ",
+          "ai_score": 0.13588734595010774
+        },
+        {
+          "rank": 8,
+          "horse_num": 3,
+          "horse_name": "バークシャーシチー",
+          "ai_score": 0.08195779840678169
+        },
+        {
+          "rank": 9,
+          "horse_num": 13,
+          "horse_name": "ダノンブギ",
+          "ai_score": 0.05843947431814416
+        },
+        {
+          "rank": 10,
+          "horse_num": 2,
+          "horse_name": "オーシンエス",
+          "ai_score": 0.05005961738481831
+        },
+        {
+          "rank": 11,
+          "horse_num": 14,
+          "horse_name": "デリュージョン",
+          "ai_score": 0.04569051350878502
+        },
+        {
+          "rank": 12,
+          "horse_num": 8,
+          "horse_name": "スウィートリワード",
+          "ai_score": 0.0410613373161886
+        },
+        {
+          "rank": 13,
+          "horse_num": 9,
+          "horse_name": "ウィテカービート",
+          "ai_score": 0.039742602136570215
+        },
+        {
+          "rank": 14,
+          "horse_num": 5,
+          "horse_name": "サイモンノーブル",
+          "ai_score": 0.027940739168320537
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 9,
+      "race_title": "瀬戸内海特別",
+      "race_confidence": 0.5639095669082776,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 12,
+          "horse_name": "ロンドボス",
+          "ai_score": 0.5362782990744124
+        },
+        {
+          "rank": 2,
+          "horse_num": 2,
+          "horse_name": "ライラ",
+          "ai_score": 0.48475417833047135
+        },
+        {
+          "rank": 3,
+          "horse_num": 4,
+          "horse_name": "ダガーリング",
+          "ai_score": 0.4407173761107801
+        },
+        {
+          "rank": 4,
+          "horse_num": 8,
+          "horse_name": "ワンコールアウェイ",
+          "ai_score": 0.3141385710660678
+        },
+        {
+          "rank": 5,
+          "horse_num": 6,
+          "horse_name": "アムールリーベ",
+          "ai_score": 0.24668767563314037
+        },
+        {
+          "rank": 6,
+          "horse_num": 11,
+          "horse_name": "アジュマン",
+          "ai_score": 0.1890408372382918
+        },
+        {
+          "rank": 7,
+          "horse_num": 13,
+          "horse_name": "キャッスルレイク",
+          "ai_score": 0.1505556334199518
+        },
+        {
+          "rank": 8,
+          "horse_num": 7,
+          "horse_name": "ネッタイヤライ",
+          "ai_score": 0.1413551173263711
+        },
+        {
+          "rank": 9,
+          "horse_num": 5,
+          "horse_name": "プレセピオ",
+          "ai_score": 0.13221001014432832
+        },
+        {
+          "rank": 10,
+          "horse_num": 10,
+          "horse_name": "キングケープ",
+          "ai_score": 0.10329337495876191
+        },
+        {
+          "rank": 11,
+          "horse_num": 1,
+          "horse_name": "カウンティフェア",
+          "ai_score": 0.0770764783131929
+        },
+        {
+          "rank": 12,
+          "horse_num": 3,
+          "horse_name": "リアライズ",
+          "ai_score": 0.06447553525566857
+        },
+        {
+          "rank": 13,
+          "horse_num": 9,
+          "horse_name": "ジッピーレーサー",
+          "ai_score": 0.026078410286489252
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 10,
+      "race_title": "竹田城ステークス",
+      "race_confidence": 0.5529785603077824,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 5,
+          "horse_name": "パシアンジャン",
+          "ai_score": 0.5314726075799653
+        },
+        {
+          "rank": 2,
+          "horse_num": 7,
+          "horse_name": "マテンロウブレイブ",
+          "ai_score": 0.4910077700303061
+        },
+        {
+          "rank": 3,
+          "horse_num": 15,
+          "horse_name": "ルクスフレンジー",
+          "ai_score": 0.37738500843271994
+        },
+        {
+          "rank": 4,
+          "horse_num": 10,
+          "horse_name": "レヴァンテシチー",
+          "ai_score": 0.34233777192668363
+        },
+        {
+          "rank": 5,
+          "horse_num": 2,
+          "horse_name": "ペンナヴェローチェ",
+          "ai_score": 0.33189637305808195
+        },
+        {
+          "rank": 6,
+          "horse_num": 13,
+          "horse_name": "タガノマカシヤ",
+          "ai_score": 0.290899943280649
+        },
+        {
+          "rank": 7,
+          "horse_num": 3,
+          "horse_name": "インザモーメント",
+          "ai_score": 0.10527952208196534
+        },
+        {
+          "rank": 8,
+          "horse_num": 12,
+          "horse_name": "ポルポラジール",
+          "ai_score": 0.08116971970860477
+        },
+        {
+          "rank": 9,
+          "horse_num": 9,
+          "horse_name": "タイセイアディクト",
+          "ai_score": 0.07030152860332994
+        },
+        {
+          "rank": 10,
+          "horse_num": 8,
+          "horse_name": "プリンセッサ",
+          "ai_score": 0.06410251658269739
+        },
+        {
+          "rank": 11,
+          "horse_num": 14,
+          "horse_name": "ブルーワール",
+          "ai_score": 0.06173942814293746
+        },
+        {
+          "rank": 12,
+          "horse_num": 6,
+          "horse_name": "プルートマスター",
+          "ai_score": 0.05106404826053758
+        },
+        {
+          "rank": 13,
+          "horse_num": 4,
+          "horse_name": "スズカダブル",
+          "ai_score": 0.04672307993206361
+        },
+        {
+          "rank": 14,
+          "horse_num": 1,
+          "horse_name": "クロニクル",
+          "ai_score": 0.0421952723934396
+        },
+        {
+          "rank": 15,
+          "horse_num": 11,
+          "horse_name": "ノーランサンライズ",
+          "ai_score": 0.041049751742790574
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 11,
+      "race_title": "チャレンジカップ",
+      "race_confidence": 0.6134899125464365,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 9,
+          "horse_name": "マテンロウゲイル",
+          "ai_score": 0.558736088618814
+        },
+        {
+          "rank": 2,
+          "horse_num": 11,
+          "horse_name": "マリアイリダータ",
+          "ai_score": 0.46074022788432467
+        },
+        {
+          "rank": 3,
+          "horse_num": 15,
+          "horse_name": "ジョバンニ",
+          "ai_score": 0.38426120455032
+        },
+        {
+          "rank": 4,
+          "horse_num": 10,
+          "horse_name": "タガノデュード",
+          "ai_score": 0.30154737794981457
+        },
+        {
+          "rank": 5,
+          "horse_num": 4,
+          "horse_name": "ガイアメンテ",
+          "ai_score": 0.19783612553044386
+        },
+        {
+          "rank": 6,
+          "horse_num": 8,
+          "horse_name": "カラマティアノス",
+          "ai_score": 0.1467341037311387
+        },
+        {
+          "rank": 7,
+          "horse_num": 7,
+          "horse_name": "ジーティーアダマン",
+          "ai_score": 0.1198176704570488
+        },
+        {
+          "rank": 8,
+          "horse_num": 5,
+          "horse_name": "ピースワンデュック",
+          "ai_score": 0.10316921448254446
+        },
+        {
+          "rank": 9,
+          "horse_num": 14,
+          "horse_name": "ミッキーゴールド",
+          "ai_score": 0.09032864960995855
+        },
+        {
+          "rank": 10,
+          "horse_num": 2,
+          "horse_name": "ジーティーダーリン",
+          "ai_score": 0.08867368484401565
+        },
+        {
+          "rank": 11,
+          "horse_num": 13,
+          "horse_name": "グランヴィノス",
+          "ai_score": 0.08159430211314153
+        },
+        {
+          "rank": 12,
+          "horse_num": 3,
+          "horse_name": "センツブラッド",
+          "ai_score": 0.07293422486415703
+        },
+        {
+          "rank": 13,
+          "horse_num": 1,
+          "horse_name": "フィーリウス",
+          "ai_score": 0.05676177243819562
+        },
+        {
+          "rank": 14,
+          "horse_num": 12,
+          "horse_name": "レーゼドラマ",
+          "ai_score": 0.054991717249319616
+        },
+        {
+          "rank": 15,
+          "horse_num": 16,
+          "horse_name": "マテンロウスカイ",
+          "ai_score": 0.03868653042696427
+        },
+        {
+          "rank": 16,
+          "horse_num": 6,
+          "horse_name": "カネフラ",
+          "ai_score": 0.032217670369325574
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-12",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 12,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.6491773259377296,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 13,
+          "horse_name": "ヒルノプーリア",
+          "ai_score": 0.5988700793946162
+        },
+        {
+          "rank": 2,
+          "horse_num": 10,
+          "horse_name": "ゴールドアーチ",
+          "ai_score": 0.5148664728127549
+        },
+        {
+          "rank": 3,
+          "horse_num": 16,
+          "horse_name": "ビスケットアソート",
+          "ai_score": 0.42086633797896333
+        },
+        {
+          "rank": 4,
+          "horse_num": 15,
+          "horse_name": "ガビーズブラザー",
+          "ai_score": 0.2945484227833721
+        },
+        {
+          "rank": 5,
+          "horse_num": 12,
+          "horse_name": "ケイアイマウンガ",
+          "ai_score": 0.17108297886359822
+        },
+        {
+          "rank": 6,
+          "horse_num": 8,
+          "horse_name": "アームズレジェンド",
+          "ai_score": 0.16308156445921632
+        },
+        {
+          "rank": 7,
+          "horse_num": 7,
+          "horse_name": "オプティモ",
+          "ai_score": 0.15184232531900024
+        },
+        {
+          "rank": 8,
+          "horse_num": 14,
+          "horse_name": "スターフュージョン",
+          "ai_score": 0.15104067645511626
+        },
+        {
+          "rank": 9,
+          "horse_num": 3,
+          "horse_name": "ステライヴ",
+          "ai_score": 0.12502952332774916
+        },
+        {
+          "rank": 10,
+          "horse_num": 6,
+          "horse_name": "サトノロザリー",
+          "ai_score": 0.11653057983885708
+        },
+        {
+          "rank": 11,
+          "horse_num": 11,
+          "horse_name": "ミヤラティーニ",
+          "ai_score": 0.08865884804999609
+        },
+        {
+          "rank": 12,
+          "horse_num": 2,
+          "horse_name": "ゼットスパンキー",
+          "ai_score": 0.08221125292180363
+        },
+        {
+          "rank": 13,
+          "horse_num": 1,
+          "horse_name": "タイセイブロウ",
+          "ai_score": 0.07847428373228109
+        },
+        {
+          "rank": 14,
+          "horse_num": 5,
+          "horse_name": "ビーグラッド",
+          "ai_score": 0.07299516904903748
+        },
+        {
+          "rank": 15,
+          "horse_num": 9,
+          "horse_name": "スレッドザニードル",
+          "ai_score": 0.06385209519196455
+        },
+        {
+          "rank": 16,
+          "horse_num": 4,
+          "horse_name": "サンライズブレイク",
+          "ai_score": 0.05992164971802444
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 1,
+      "race_title": "障害3歳以上未勝利",
+      "race_confidence": 0.04921975177087675,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 7,
+          "horse_name": "グロリアラウス",
+          "ai_score": 0.04912719248031502
+        },
+        {
+          "rank": 2,
+          "horse_num": 6,
+          "horse_name": "プレミアブルー",
+          "ai_score": 0.04724311798127212
+        },
+        {
+          "rank": 3,
+          "horse_num": 8,
+          "horse_name": "サラフィエル",
+          "ai_score": 0.04476491552283855
+        },
+        {
+          "rank": 4,
+          "horse_num": 5,
+          "horse_name": "セイウンビッグバン",
+          "ai_score": 0.04340780063187915
+        },
+        {
+          "rank": 5,
+          "horse_num": 10,
+          "horse_name": "ゴールデンルーキー",
+          "ai_score": 0.04262074278010469
+        },
+        {
+          "rank": 6,
+          "horse_num": 2,
+          "horse_name": "シークレットキー",
+          "ai_score": 0.04192959800774981
+        },
+        {
+          "rank": 7,
+          "horse_num": 9,
+          "horse_name": "ストラクチャー",
+          "ai_score": 0.0405574260747767
+        },
+        {
+          "rank": 8,
+          "horse_num": 1,
+          "horse_name": "ヴィーデ",
+          "ai_score": 0.03897845866758105
+        },
+        {
+          "rank": 9,
+          "horse_num": 4,
+          "horse_name": "モナコブル",
+          "ai_score": 0.038383968801482676
+        },
+        {
+          "rank": 10,
+          "horse_num": 3,
+          "horse_name": "スノーリン",
+          "ai_score": 0.032519436856245705
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 2,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.06244513356264364,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 8,
+          "horse_name": "シュートザワークス",
+          "ai_score": 0.06202593706935759
+        },
+        {
+          "rank": 2,
+          "horse_num": 7,
+          "horse_name": "ウィナーズチェック",
+          "ai_score": 0.05526753061727449
+        },
+        {
+          "rank": 3,
+          "horse_num": 3,
+          "horse_name": "テキサス",
+          "ai_score": 0.0445095145607913
+        },
+        {
+          "rank": 4,
+          "horse_num": 4,
+          "horse_name": "サンタンヌ",
+          "ai_score": 0.03743828279336437
+        },
+        {
+          "rank": 5,
+          "horse_num": 5,
+          "horse_name": "サーギュスターヴ",
+          "ai_score": 0.03726643855392719
+        },
+        {
+          "rank": 6,
+          "horse_num": 1,
+          "horse_name": "ライヴテキーラ",
+          "ai_score": 0.0368382120340173
+        },
+        {
+          "rank": 7,
+          "horse_num": 2,
+          "horse_name": "マイネルリシャール",
+          "ai_score": 0.03468263396567758
+        },
+        {
+          "rank": 8,
+          "horse_num": 6,
+          "horse_name": "ギガントシュラーク",
+          "ai_score": 0.03400326003044045
+        },
+        {
+          "rank": 9,
+          "horse_num": 10,
+          "horse_name": "アルバスタキヤ",
+          "ai_score": 0.03332891344227995
+        },
+        {
+          "rank": 10,
+          "horse_num": 9,
+          "horse_name": "マイネルウルカヌス",
+          "ai_score": 0.03179690733611205
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 3,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.15400151199306847,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 7,
+          "horse_name": "アレックスケー",
+          "ai_score": 0.14614257775349018
+        },
+        {
+          "rank": 2,
+          "horse_num": 10,
+          "horse_name": "パレスラン",
+          "ai_score": 0.09236677633828208
+        },
+        {
+          "rank": 3,
+          "horse_num": 5,
+          "horse_name": "ソラティオ",
+          "ai_score": 0.08801994353799773
+        },
+        {
+          "rank": 4,
+          "horse_num": 6,
+          "horse_name": "ラフエルガ",
+          "ai_score": 0.08734087944796831
+        },
+        {
+          "rank": 5,
+          "horse_num": 9,
+          "horse_name": "アドバンスアゲイン",
+          "ai_score": 0.08070364955864884
+        },
+        {
+          "rank": 6,
+          "horse_num": 2,
+          "horse_name": "キンバリー",
+          "ai_score": 0.08038786964279654
+        },
+        {
+          "rank": 7,
+          "horse_num": 8,
+          "horse_name": "サイモンオリエント",
+          "ai_score": 0.07877037561467458
+        },
+        {
+          "rank": 8,
+          "horse_num": 15,
+          "horse_name": "セイカタカキヤチク",
+          "ai_score": 0.07565537189901123
+        },
+        {
+          "rank": 9,
+          "horse_num": 13,
+          "horse_name": "シュネルアステリア",
+          "ai_score": 0.06634222401730362
+        },
+        {
+          "rank": 10,
+          "horse_num": 3,
+          "horse_name": "コスモベスケーデン",
+          "ai_score": 0.06469096386593483
+        },
+        {
+          "rank": 11,
+          "horse_num": 4,
+          "horse_name": "アルニタク",
+          "ai_score": 0.06080227634240944
+        },
+        {
+          "rank": 12,
+          "horse_num": 11,
+          "horse_name": "サンアンドスターズ",
+          "ai_score": 0.0605801261861644
+        },
+        {
+          "rank": 13,
+          "horse_num": 14,
+          "horse_name": "ヴァンデエス",
+          "ai_score": 0.060213225482390866
+        },
+        {
+          "rank": 14,
+          "horse_num": 12,
+          "horse_name": "キセキノユニコーン",
+          "ai_score": 0.04442867746693421
+        },
+        {
+          "rank": 15,
+          "horse_num": 16,
+          "horse_name": "イサチルサリーレ",
+          "ai_score": 0.0409802297255274
+        },
+        {
+          "rank": 16,
+          "horse_num": 1,
+          "horse_name": "ブレイヴアーサー",
+          "ai_score": 0.03970889360757999
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 4,
+      "race_title": "3歳未勝利",
+      "race_confidence": 0.3406233655234148,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 5,
+          "horse_name": "グランマエストロ",
+          "ai_score": 0.33577957265885455
+        },
+        {
+          "rank": 2,
+          "horse_num": 2,
+          "horse_name": "ランウェイミューズ",
+          "ai_score": 0.32135405884273716
+        },
+        {
+          "rank": 3,
+          "horse_num": 13,
+          "horse_name": "オンナキュヌヴィ",
+          "ai_score": 0.31465801892407885
+        },
+        {
+          "rank": 4,
+          "horse_num": 8,
+          "horse_name": "ワインダークシー",
+          "ai_score": 0.2796932162725194
+        },
+        {
+          "rank": 5,
+          "horse_num": 6,
+          "horse_name": "ショウナンバーボン",
+          "ai_score": 0.2727061175949356
+        },
+        {
+          "rank": 6,
+          "horse_num": 10,
+          "horse_name": "ウインドオブヘヴン",
+          "ai_score": 0.23226750338724497
+        },
+        {
+          "rank": 7,
+          "horse_num": 1,
+          "horse_name": "ジャジャミン",
+          "ai_score": 0.2039549714950194
+        },
+        {
+          "rank": 8,
+          "horse_num": 16,
+          "horse_name": "ラグアイリータ",
+          "ai_score": 0.18719710191756134
+        },
+        {
+          "rank": 9,
+          "horse_num": 4,
+          "horse_name": "ダイユウルミナス",
+          "ai_score": 0.15158812298843954
+        },
+        {
+          "rank": 10,
+          "horse_num": 14,
+          "horse_name": "アリアス",
+          "ai_score": 0.13966237365694062
+        },
+        {
+          "rank": 11,
+          "horse_num": 7,
+          "horse_name": "ピコプリンセス",
+          "ai_score": 0.12489815862607519
+        },
+        {
+          "rank": 12,
+          "horse_num": 15,
+          "horse_name": "ポポラヴィスタ",
+          "ai_score": 0.090790745481027
+        },
+        {
+          "rank": 13,
+          "horse_num": 12,
+          "horse_name": "ニシノオールワン",
+          "ai_score": 0.08011120117491137
+        },
+        {
+          "rank": 14,
+          "horse_num": 9,
+          "horse_name": "ワッフル",
+          "ai_score": 0.04785871373606055
+        },
+        {
+          "rank": 15,
+          "horse_num": 3,
+          "horse_name": "ブライティアロード",
+          "ai_score": 0.046547273299671586
+        },
+        {
+          "rank": 16,
+          "horse_num": 11,
+          "horse_name": "ロジタイガー",
+          "ai_score": 0.03272138620104351
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 6,
+      "race_title": "3歳未勝利",
+      "race_confidence": 0.4320221673025913,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 8,
+          "horse_name": "ルシアージュ",
+          "ai_score": 0.4168849059993057
+        },
+        {
+          "rank": 2,
+          "horse_num": 9,
+          "horse_name": "ホウオウファミリー",
+          "ai_score": 0.3805744973338725
+        },
+        {
+          "rank": 3,
+          "horse_num": 15,
+          "horse_name": "ゴールデンダガー",
+          "ai_score": 0.3553987849672138
+        },
+        {
+          "rank": 4,
+          "horse_num": 1,
+          "horse_name": "マイネルオランチア",
+          "ai_score": 0.28378976384363713
+        },
+        {
+          "rank": 5,
+          "horse_num": 13,
+          "horse_name": "フィクセルリリア",
+          "ai_score": 0.2352322255724881
+        },
+        {
+          "rank": 6,
+          "horse_num": 14,
+          "horse_name": "オウケンサクラコ",
+          "ai_score": 0.17545924572095511
+        },
+        {
+          "rank": 7,
+          "horse_num": 12,
+          "horse_name": "ロンバルドシチー",
+          "ai_score": 0.16913427467831077
+        },
+        {
+          "rank": 8,
+          "horse_num": 2,
+          "horse_name": "ヨーゼフ",
+          "ai_score": 0.16305731112613608
+        },
+        {
+          "rank": 9,
+          "horse_num": 4,
+          "horse_name": "タニセンローマ",
+          "ai_score": 0.1414283001777515
+        },
+        {
+          "rank": 10,
+          "horse_num": 6,
+          "horse_name": "パワポケウォーズ",
+          "ai_score": 0.1361297629666823
+        },
+        {
+          "rank": 11,
+          "horse_num": 5,
+          "horse_name": "ヨドノサファイア",
+          "ai_score": 0.1352215583231211
+        },
+        {
+          "rank": 12,
+          "horse_num": 7,
+          "horse_name": "オートカリテ",
+          "ai_score": 0.1223166511443364
+        },
+        {
+          "rank": 13,
+          "horse_num": 16,
+          "horse_name": "ディープマウンテン",
+          "ai_score": 0.09393395498579296
+        },
+        {
+          "rank": 14,
+          "horse_num": 3,
+          "horse_name": "ギャニミード",
+          "ai_score": 0.08072613147376902
+        },
+        {
+          "rank": 15,
+          "horse_num": 11,
+          "horse_name": "レッドフリーマン",
+          "ai_score": 0.07756021536909818
+        },
+        {
+          "rank": 16,
+          "horse_num": 10,
+          "horse_name": "ヤマトスイフト",
+          "ai_score": 0.047756577201856706
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 7,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.4067207496084434,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 7,
+          "horse_name": "ダイヤテソーロ",
+          "ai_score": 0.39802624896620803
+        },
+        {
+          "rank": 2,
+          "horse_num": 5,
+          "horse_name": "ダノンアスコルティ",
+          "ai_score": 0.3761822106274865
+        },
+        {
+          "rank": 3,
+          "horse_num": 8,
+          "horse_name": "ベアサナエチャン",
+          "ai_score": 0.36545168484575136
+        },
+        {
+          "rank": 4,
+          "horse_num": 9,
+          "horse_name": "ファンクション",
+          "ai_score": 0.29280612947964146
+        },
+        {
+          "rank": 5,
+          "horse_num": 15,
+          "horse_name": "タイセイアストロ",
+          "ai_score": 0.29007143882024544
+        },
+        {
+          "rank": 6,
+          "horse_num": 12,
+          "horse_name": "スペードギニー",
+          "ai_score": 0.18336149246646818
+        },
+        {
+          "rank": 7,
+          "horse_num": 6,
+          "horse_name": "ミスターマーボー",
+          "ai_score": 0.1815046247884031
+        },
+        {
+          "rank": 8,
+          "horse_num": 16,
+          "horse_name": "スワローシチー",
+          "ai_score": 0.17489315372372138
+        },
+        {
+          "rank": 9,
+          "horse_num": 3,
+          "horse_name": "ツインピークス",
+          "ai_score": 0.13571423412495012
+        },
+        {
+          "rank": 10,
+          "horse_num": 11,
+          "horse_name": "ナハトナナレオン",
+          "ai_score": 0.11657960332697767
+        },
+        {
+          "rank": 11,
+          "horse_num": 1,
+          "horse_name": "ラヴスコール",
+          "ai_score": 0.11428592268271198
+        },
+        {
+          "rank": 12,
+          "horse_num": 10,
+          "horse_name": "シャオママル",
+          "ai_score": 0.10688319693898478
+        },
+        {
+          "rank": 13,
+          "horse_num": 2,
+          "horse_name": "スマイルカーブ",
+          "ai_score": 0.10035141439119011
+        },
+        {
+          "rank": 14,
+          "horse_num": 4,
+          "horse_name": "ノーブルライナー",
+          "ai_score": 0.07041328893497674
+        },
+        {
+          "rank": 15,
+          "horse_num": 13,
+          "horse_name": "ソレエスピアージャ",
+          "ai_score": 0.06338206590340353
+        },
+        {
+          "rank": 16,
+          "horse_num": 14,
+          "horse_name": "クリノゴッホ",
+          "ai_score": 0.04504410959956932
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 8,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.36068387141068264,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 14,
+          "horse_name": "シルフレイ",
+          "ai_score": 0.34776599544488934
+        },
+        {
+          "rank": 2,
+          "horse_num": 1,
+          "horse_name": "ホウオウルクソール",
+          "ai_score": 0.3106206847043503
+        },
+        {
+          "rank": 3,
+          "horse_num": 16,
+          "horse_name": "グランルチャドール",
+          "ai_score": 0.31003855050800433
+        },
+        {
+          "rank": 4,
+          "horse_num": 10,
+          "horse_name": "エルムラント",
+          "ai_score": 0.2855311058760173
+        },
+        {
+          "rank": 5,
+          "horse_num": 2,
+          "horse_name": "テンハートビート",
+          "ai_score": 0.2735164337599619
+        },
+        {
+          "rank": 6,
+          "horse_num": 13,
+          "horse_name": "ラルフテソーロ",
+          "ai_score": 0.2037325823774899
+        },
+        {
+          "rank": 7,
+          "horse_num": 6,
+          "horse_name": "リラキトス",
+          "ai_score": 0.16930550597709246
+        },
+        {
+          "rank": 8,
+          "horse_num": 5,
+          "horse_name": "ペロ",
+          "ai_score": 0.11268769207852229
+        },
+        {
+          "rank": 9,
+          "horse_num": 3,
+          "horse_name": "クラシオン",
+          "ai_score": 0.09386930728168792
+        },
+        {
+          "rank": 10,
+          "horse_num": 11,
+          "horse_name": "トップマジシャン",
+          "ai_score": 0.09332865108923769
+        },
+        {
+          "rank": 11,
+          "horse_num": 15,
+          "horse_name": "ホウオウプレシャス",
+          "ai_score": 0.07928105127651247
+        },
+        {
+          "rank": 12,
+          "horse_num": 8,
+          "horse_name": "ブルーユンチェリー",
+          "ai_score": 0.07385846308641801
+        },
+        {
+          "rank": 13,
+          "horse_num": 9,
+          "horse_name": "ニシノヴィヴィ",
+          "ai_score": 0.07165398881623772
+        },
+        {
+          "rank": 14,
+          "horse_num": 7,
+          "horse_name": "レイフロレット",
+          "ai_score": 0.06411291559747781
+        },
+        {
+          "rank": 15,
+          "horse_num": 4,
+          "horse_name": "イラーナ",
+          "ai_score": 0.04339886405069134
+        },
+        {
+          "rank": 16,
+          "horse_num": 12,
+          "horse_name": "コヴェナント",
+          "ai_score": 0.034046808514301106
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 9,
+      "race_title": "習志野特別",
+      "race_confidence": 0.7121308991745644,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 1,
+          "horse_name": "イベントホライゾン",
+          "ai_score": 0.6271054564222925
+        },
+        {
+          "rank": 2,
+          "horse_num": 2,
+          "horse_name": "ブルーマエストロ",
+          "ai_score": 0.4915214938183763
+        },
+        {
+          "rank": 3,
+          "horse_num": 11,
+          "horse_name": "マイネルアレス",
+          "ai_score": 0.41152696933800986
+        },
+        {
+          "rank": 4,
+          "horse_num": 7,
+          "horse_name": "グロスビーク",
+          "ai_score": 0.3736833096789048
+        },
+        {
+          "rank": 5,
+          "horse_num": 4,
+          "horse_name": "グランカンタンテ",
+          "ai_score": 0.24764031993496216
+        },
+        {
+          "rank": 6,
+          "horse_num": 6,
+          "horse_name": "ヤマニンガラッシア",
+          "ai_score": 0.2308018856469152
+        },
+        {
+          "rank": 7,
+          "horse_num": 5,
+          "horse_name": "スナークピカソ",
+          "ai_score": 0.22137957465881444
+        },
+        {
+          "rank": 8,
+          "horse_num": 3,
+          "horse_name": "トレサフィール",
+          "ai_score": 0.21898644614249602
+        },
+        {
+          "rank": 9,
+          "horse_num": 10,
+          "horse_name": "ワンモアスマイル",
+          "ai_score": 0.14232070427541754
+        },
+        {
+          "rank": 10,
+          "horse_num": 9,
+          "horse_name": "レッセパッセ",
+          "ai_score": 0.10101684282029641
+        },
+        {
+          "rank": 11,
+          "horse_num": 8,
+          "horse_name": "ホークマン",
+          "ai_score": 0.03743656934616836
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 10,
+      "race_title": "初風ステークス",
+      "race_confidence": 0.5776963302734784,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 8,
+          "horse_name": "ワンダラー",
+          "ai_score": 0.5683089002515448
+        },
+        {
+          "rank": 2,
+          "horse_num": 10,
+          "horse_name": "イリフィ",
+          "ai_score": 0.5517907179429823
+        },
+        {
+          "rank": 3,
+          "horse_num": 2,
+          "horse_name": "ドンレパルス",
+          "ai_score": 0.5210282604697237
+        },
+        {
+          "rank": 4,
+          "horse_num": 9,
+          "horse_name": "アシャカトベ",
+          "ai_score": 0.3943446008325726
+        },
+        {
+          "rank": 5,
+          "horse_num": 5,
+          "horse_name": "アデランテ",
+          "ai_score": 0.24564997530652496
+        },
+        {
+          "rank": 6,
+          "horse_num": 3,
+          "horse_name": "コパノヴィンセント",
+          "ai_score": 0.24114225864722566
+        },
+        {
+          "rank": 7,
+          "horse_num": 7,
+          "horse_name": "メイショウコバト",
+          "ai_score": 0.21750160771207733
+        },
+        {
+          "rank": 8,
+          "horse_num": 4,
+          "horse_name": "スプランドゥール",
+          "ai_score": 0.18279568842397592
+        },
+        {
+          "rank": 9,
+          "horse_num": 1,
+          "horse_name": "パルデンス",
+          "ai_score": 0.07829738947265281
+        },
+        {
+          "rank": 10,
+          "horse_num": 6,
+          "horse_name": "ポッドソル",
+          "ai_score": 0.0641712408909702
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 11,
+      "race_title": "朝日杯セントライト記念",
+      "race_confidence": 0.4600685388489017,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 6,
+          "horse_name": "サヴォアフェール",
+          "ai_score": 0.459076436509579
+        },
+        {
+          "rank": 2,
+          "horse_num": 5,
+          "horse_name": "アスクエジンバラ",
+          "ai_score": 0.4569153533861111
+        },
+        {
+          "rank": 3,
+          "horse_num": 8,
+          "horse_name": "ゴーイントゥスカイ",
+          "ai_score": 0.44547000426840494
+        },
+        {
+          "rank": 4,
+          "horse_num": 9,
+          "horse_name": "サノノグレーター",
+          "ai_score": 0.3632741569226941
+        },
+        {
+          "rank": 5,
+          "horse_num": 10,
+          "horse_name": "バステール",
+          "ai_score": 0.2997591067848335
+        },
+        {
+          "rank": 6,
+          "horse_num": 2,
+          "horse_name": "アウダーシア",
+          "ai_score": 0.13495430754846663
+        },
+        {
+          "rank": 7,
+          "horse_num": 16,
+          "horse_name": "ラディアントスター",
+          "ai_score": 0.09859755635738443
+        },
+        {
+          "rank": 8,
+          "horse_num": 12,
+          "horse_name": "ラージアンサンブル",
+          "ai_score": 0.09310557293918525
+        },
+        {
+          "rank": 9,
+          "horse_num": 15,
+          "horse_name": "エリプティクカーブ",
+          "ai_score": 0.09105144255034513
+        },
+        {
+          "rank": 10,
+          "horse_num": 3,
+          "horse_name": "バドリナート",
+          "ai_score": 0.08535607265498422
+        },
+        {
+          "rank": 11,
+          "horse_num": 4,
+          "horse_name": "リッツパーティー",
+          "ai_score": 0.07518705210395123
+        },
+        {
+          "rank": 12,
+          "horse_num": 7,
+          "horse_name": "ジャスティンシカゴ",
+          "ai_score": 0.06907434902084449
+        },
+        {
+          "rank": 13,
+          "horse_num": 13,
+          "horse_name": "フウセン",
+          "ai_score": 0.055999154430152936
+        },
+        {
+          "rank": 14,
+          "horse_num": 11,
+          "horse_name": "ミリオンクラウン",
+          "ai_score": 0.03910311995011896
+        },
+        {
+          "rank": 15,
+          "horse_num": 1,
+          "horse_name": "ウェイクフィールド",
+          "ai_score": 0.038270668465038425
+        },
+        {
+          "rank": 16,
+          "horse_num": 14,
+          "horse_name": "ティラーノ",
+          "ai_score": 0.02764386088748952
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "中山",
+      "race_num": 12,
+      "race_title": "3歳以上2勝クラス",
+      "race_confidence": 0.6885173999697455,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 4,
+          "horse_name": "ジェイエルモーダル",
+          "ai_score": 0.5756642239128248
+        },
+        {
+          "rank": 2,
+          "horse_num": 7,
+          "horse_name": "ラストレガシー",
+          "ai_score": 0.3796242906165523
+        },
+        {
+          "rank": 3,
+          "horse_num": 12,
+          "horse_name": "コーリンカルベラ",
+          "ai_score": 0.3455296621563603
+        },
+        {
+          "rank": 4,
+          "horse_num": 8,
+          "horse_name": "カゼノタカトシ",
+          "ai_score": 0.3255628801069975
+        },
+        {
+          "rank": 5,
+          "horse_num": 3,
+          "horse_name": "ニシノケンタマン",
+          "ai_score": 0.3131105497921035
+        },
+        {
+          "rank": 6,
+          "horse_num": 9,
+          "horse_name": "ナイトスラッガー",
+          "ai_score": 0.27603696601955674
+        },
+        {
+          "rank": 7,
+          "horse_num": 11,
+          "horse_name": "ブレードサクセス",
+          "ai_score": 0.1879213282861297
+        },
+        {
+          "rank": 8,
+          "horse_num": 1,
+          "horse_name": "コスモコンフェルマ",
+          "ai_score": 0.1630847130568607
+        },
+        {
+          "rank": 9,
+          "horse_num": 6,
+          "horse_name": "バードウォッチャー",
+          "ai_score": 0.14666821946356218
+        },
+        {
+          "rank": 10,
+          "horse_num": 5,
+          "horse_name": "メイショウリリー",
+          "ai_score": 0.12585664217591253
+        },
+        {
+          "rank": 11,
+          "horse_num": 2,
+          "horse_name": "ハイラント",
+          "ai_score": 0.09762946354811933
+        },
+        {
+          "rank": 12,
+          "horse_num": 10,
+          "horse_name": "ブレゲアン",
+          "ai_score": 0.09610848683379611
+        },
+        {
+          "rank": 13,
+          "horse_num": 13,
+          "horse_name": "サザンウォリアー",
+          "ai_score": 0.060491350486518644
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 1,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.7764748669636367,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 4,
+          "horse_name": "ウンディーネ",
+          "ai_score": 0.6554884389269191
+        },
+        {
+          "rank": 2,
+          "horse_num": 5,
+          "horse_name": "ヘスティア",
+          "ai_score": 0.47091397376200966
+        },
+        {
+          "rank": 3,
+          "horse_num": 11,
+          "horse_name": "スティルラブハー",
+          "ai_score": 0.4706852609624286
+        },
+        {
+          "rank": 4,
+          "horse_num": 8,
+          "horse_name": "ルミナスシェリー",
+          "ai_score": 0.26279282062461434
+        },
+        {
+          "rank": 5,
+          "horse_num": 9,
+          "horse_name": "ラブシンフォニー",
+          "ai_score": 0.23396041115515984
+        },
+        {
+          "rank": 6,
+          "horse_num": 1,
+          "horse_name": "ウィザードシチー",
+          "ai_score": 0.22078307301555905
+        },
+        {
+          "rank": 7,
+          "horse_num": 6,
+          "horse_name": "スイトーヨ",
+          "ai_score": 0.20727462855790077
+        },
+        {
+          "rank": 8,
+          "horse_num": 7,
+          "horse_name": "シュライアハフト",
+          "ai_score": 0.17247578267495575
+        },
+        {
+          "rank": 9,
+          "horse_num": 2,
+          "horse_name": "ダイメイアゲイン",
+          "ai_score": 0.14425083802714397
+        },
+        {
+          "rank": 10,
+          "horse_num": 10,
+          "horse_name": "ダイシンレジウス",
+          "ai_score": 0.14030152091003142
+        },
+        {
+          "rank": 11,
+          "horse_num": 3,
+          "horse_name": "カクシンゴールド",
+          "ai_score": 0.06648649443182653
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 2,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.8096840906779182,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 4,
+          "horse_name": "ブレイクガール",
+          "ai_score": 0.7223137572512118
+        },
+        {
+          "rank": 2,
+          "horse_num": 5,
+          "horse_name": "エアロクリスタ",
+          "ai_score": 0.6013547798683123
+        },
+        {
+          "rank": 3,
+          "horse_num": 2,
+          "horse_name": "レイクイーン",
+          "ai_score": 0.5832470512610483
+        },
+        {
+          "rank": 4,
+          "horse_num": 7,
+          "horse_name": "コトテーラー",
+          "ai_score": 0.5705584179396151
+        },
+        {
+          "rank": 5,
+          "horse_num": 1,
+          "horse_name": "コスモクラウン",
+          "ai_score": 0.5701923184123927
+        },
+        {
+          "rank": 6,
+          "horse_num": 3,
+          "horse_name": "ゴルディアス",
+          "ai_score": 0.3357451421124183
+        },
+        {
+          "rank": 7,
+          "horse_num": 6,
+          "horse_name": "ベアヒロシデス",
+          "ai_score": 0.15512196912726728
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 3,
+      "race_title": "3歳未勝利",
+      "race_confidence": 0.37437540771417216,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 11,
+          "horse_name": "ラミエルノムスコ",
+          "ai_score": 0.3646235339171232
+        },
+        {
+          "rank": 2,
+          "horse_num": 5,
+          "horse_name": "クロレ",
+          "ai_score": 0.3378784862448424
+        },
+        {
+          "rank": 3,
+          "horse_num": 9,
+          "horse_name": "ブルーザー",
+          "ai_score": 0.2758595527549014
+        },
+        {
+          "rank": 4,
+          "horse_num": 7,
+          "horse_name": "タガノランパート",
+          "ai_score": 0.2684077871376898
+        },
+        {
+          "rank": 5,
+          "horse_num": 4,
+          "horse_name": "イクオクコウネン",
+          "ai_score": 0.26588613723808874
+        },
+        {
+          "rank": 6,
+          "horse_num": 15,
+          "horse_name": "ロードファイター",
+          "ai_score": 0.2471669513756532
+        },
+        {
+          "rank": 7,
+          "horse_num": 13,
+          "horse_name": "カワキタベレッタ",
+          "ai_score": 0.21491798357403313
+        },
+        {
+          "rank": 8,
+          "horse_num": 16,
+          "horse_name": "グレートアゲイン",
+          "ai_score": 0.20082767156164938
+        },
+        {
+          "rank": 9,
+          "horse_num": 3,
+          "horse_name": "デルマタカチホ",
+          "ai_score": 0.17990529923758122
+        },
+        {
+          "rank": 10,
+          "horse_num": 10,
+          "horse_name": "ダンツアラーム",
+          "ai_score": 0.1783850261303894
+        },
+        {
+          "rank": 11,
+          "horse_num": 14,
+          "horse_name": "スマイルガーデン",
+          "ai_score": 0.1513613252055355
+        },
+        {
+          "rank": 12,
+          "horse_num": 6,
+          "horse_name": "ラッキーモア",
+          "ai_score": 0.07932836564858185
+        },
+        {
+          "rank": 13,
+          "horse_num": 1,
+          "horse_name": "インヴァイト",
+          "ai_score": 0.07586956519021953
+        },
+        {
+          "rank": 14,
+          "horse_num": 8,
+          "horse_name": "サトノシャッツ",
+          "ai_score": 0.05247476142720096
+        },
+        {
+          "rank": 15,
+          "horse_num": 2,
+          "horse_name": "メイショウゲッコウ",
+          "ai_score": 0.04331090780089065
+        },
+        {
+          "rank": 16,
+          "horse_num": 12,
+          "horse_name": "リードアクター",
+          "ai_score": 0.03124933630344378
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 4,
+      "race_title": "3歳未勝利",
+      "race_confidence": 0.8279155695276804,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 16,
+          "horse_name": "ルーチェブリラーレ",
+          "ai_score": 0.6526318373100743
+        },
+        {
+          "rank": 2,
+          "horse_num": 9,
+          "horse_name": "リボンインザスカイ",
+          "ai_score": 0.3840520313660896
+        },
+        {
+          "rank": 3,
+          "horse_num": 15,
+          "horse_name": "クールドリオン",
+          "ai_score": 0.29736712557998035
+        },
+        {
+          "rank": 4,
+          "horse_num": 12,
+          "horse_name": "オープンザパンドラ",
+          "ai_score": 0.21355722625993434
+        },
+        {
+          "rank": 5,
+          "horse_num": 5,
+          "horse_name": "オーマイラッキーン",
+          "ai_score": 0.1985140265531045
+        },
+        {
+          "rank": 6,
+          "horse_num": 1,
+          "horse_name": "レイワノキセキ",
+          "ai_score": 0.19140274593359152
+        },
+        {
+          "rank": 7,
+          "horse_num": 2,
+          "horse_name": "テイエムプレミラン",
+          "ai_score": 0.18033964343831538
+        },
+        {
+          "rank": 8,
+          "horse_num": 10,
+          "horse_name": "ノブレスラブリエ",
+          "ai_score": 0.12563568709464334
+        },
+        {
+          "rank": 9,
+          "horse_num": 14,
+          "horse_name": "ワンダーデリエール",
+          "ai_score": 0.12479195087839948
+        },
+        {
+          "rank": 10,
+          "horse_num": 7,
+          "horse_name": "ヴァンドゥーヴル",
+          "ai_score": 0.11406550831066396
+        },
+        {
+          "rank": 11,
+          "horse_num": 3,
+          "horse_name": "ワンダーシャッフル",
+          "ai_score": 0.10669503471312744
+        },
+        {
+          "rank": 12,
+          "horse_num": 6,
+          "horse_name": "ヴィスメンティス",
+          "ai_score": 0.08621781495056892
+        },
+        {
+          "rank": 13,
+          "horse_num": 4,
+          "horse_name": "シャリキモン",
+          "ai_score": 0.08258133007153062
+        },
+        {
+          "rank": 14,
+          "horse_num": 8,
+          "horse_name": "ダノンオブアイデア",
+          "ai_score": 0.07583373546708817
+        },
+        {
+          "rank": 15,
+          "horse_num": 11,
+          "horse_name": "ロールスワン",
+          "ai_score": 0.0677952804431216
+        },
+        {
+          "rank": 16,
+          "horse_num": 18,
+          "horse_name": "ベルトナリテ",
+          "ai_score": 0.0629012484218346
+        },
+        {
+          "rank": 17,
+          "horse_num": 17,
+          "horse_name": "フローマジック",
+          "ai_score": 0.06200650619564447
+        },
+        {
+          "rank": 18,
+          "horse_num": 13,
+          "horse_name": "ジュンヴァッテッド",
+          "ai_score": 0.03138739579754197
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 6,
+      "race_title": "3歳未勝利",
+      "race_confidence": 0.6153785552780077,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 7,
+          "horse_name": "ビッグヒーロー",
+          "ai_score": 0.5473932879608733
+        },
+        {
+          "rank": 2,
+          "horse_num": 9,
+          "horse_name": "ゴールデンドラゴン",
+          "ai_score": 0.423195076524284
+        },
+        {
+          "rank": 3,
+          "horse_num": 11,
+          "horse_name": "プレデンシア",
+          "ai_score": 0.3950815125440745
+        },
+        {
+          "rank": 4,
+          "horse_num": 2,
+          "horse_name": "ニシノエビガタメ",
+          "ai_score": 0.29748970386011214
+        },
+        {
+          "rank": 5,
+          "horse_num": 14,
+          "horse_name": "ペプチドアロン",
+          "ai_score": 0.23095387002097395
+        },
+        {
+          "rank": 6,
+          "horse_num": 1,
+          "horse_name": "ハナコトバ",
+          "ai_score": 0.2248135647042305
+        },
+        {
+          "rank": 7,
+          "horse_num": 15,
+          "horse_name": "レッドバベル",
+          "ai_score": 0.19943257280135865
+        },
+        {
+          "rank": 8,
+          "horse_num": 13,
+          "horse_name": "ナムラヴンダー",
+          "ai_score": 0.19098007301416764
+        },
+        {
+          "rank": 9,
+          "horse_num": 5,
+          "horse_name": "タガノアルテミス",
+          "ai_score": 0.1640738139773565
+        },
+        {
+          "rank": 10,
+          "horse_num": 4,
+          "horse_name": "メイショウハーブス",
+          "ai_score": 0.10747547926202315
+        },
+        {
+          "rank": 11,
+          "horse_num": 10,
+          "horse_name": "サトノディヴァイン",
+          "ai_score": 0.0862617436445327
+        },
+        {
+          "rank": 12,
+          "horse_num": 3,
+          "horse_name": "ミッキーロビン",
+          "ai_score": 0.0571046061886546
+        },
+        {
+          "rank": 13,
+          "horse_num": 6,
+          "horse_name": "スターチューン",
+          "ai_score": 0.055416947441897936
+        },
+        {
+          "rank": 14,
+          "horse_num": 8,
+          "horse_name": "ハーブドーレ",
+          "ai_score": 0.028208413005571288
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 7,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.6613476563814283,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 15,
+          "horse_name": "バルミラクル",
+          "ai_score": 0.5472110250466379
+        },
+        {
+          "rank": 2,
+          "horse_num": 13,
+          "horse_name": "ヴォンドゥ",
+          "ai_score": 0.3386322024158936
+        },
+        {
+          "rank": 3,
+          "horse_num": 2,
+          "horse_name": "プレダトゥール",
+          "ai_score": 0.2928419790317601
+        },
+        {
+          "rank": 4,
+          "horse_num": 10,
+          "horse_name": "フレイムスター",
+          "ai_score": 0.28266489891338226
+        },
+        {
+          "rank": 5,
+          "horse_num": 16,
+          "horse_name": "ウォーターパラディ",
+          "ai_score": 0.2820197987052233
+        },
+        {
+          "rank": 6,
+          "horse_num": 7,
+          "horse_name": "ハードシングス",
+          "ai_score": 0.24982933880911698
+        },
+        {
+          "rank": 7,
+          "horse_num": 5,
+          "horse_name": "ゲタリア",
+          "ai_score": 0.2194384673616964
+        },
+        {
+          "rank": 8,
+          "horse_num": 6,
+          "horse_name": "ジューンアゲイン",
+          "ai_score": 0.18942676263826733
+        },
+        {
+          "rank": 9,
+          "horse_num": 11,
+          "horse_name": "グランディマージュ",
+          "ai_score": 0.09601859498609111
+        },
+        {
+          "rank": 10,
+          "horse_num": 8,
+          "horse_name": "ロードヴェルテクス",
+          "ai_score": 0.08560108982643545
+        },
+        {
+          "rank": 11,
+          "horse_num": 14,
+          "horse_name": "コンテナライン",
+          "ai_score": 0.07456408016183087
+        },
+        {
+          "rank": 12,
+          "horse_num": 4,
+          "horse_name": "ロイヤルテール",
+          "ai_score": 0.07072815636996513
+        },
+        {
+          "rank": 13,
+          "horse_num": 9,
+          "horse_name": "ワンウェイトゥヘル",
+          "ai_score": 0.060696561073096095
+        },
+        {
+          "rank": 14,
+          "horse_num": 12,
+          "horse_name": "ケイエイト",
+          "ai_score": 0.04393215205315858
+        },
+        {
+          "rank": 15,
+          "horse_num": 1,
+          "horse_name": "シャープインサイト",
+          "ai_score": 0.04092516674034776
+        },
+        {
+          "rank": 16,
+          "horse_num": 3,
+          "horse_name": "ベストレーサー",
+          "ai_score": 0.03022090243358879
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 8,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.5513056848209763,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 2,
+          "horse_name": "ココロヅヨサ",
+          "ai_score": 0.5345044628746366
+        },
+        {
+          "rank": 2,
+          "horse_num": 3,
+          "horse_name": "アスクガンバーレ",
+          "ai_score": 0.5030711950287884
+        },
+        {
+          "rank": 3,
+          "horse_num": 11,
+          "horse_name": "サンライズオスカー",
+          "ai_score": 0.43185818237711227
+        },
+        {
+          "rank": 4,
+          "horse_num": 4,
+          "horse_name": "レッドホット",
+          "ai_score": 0.2807631313680371
+        },
+        {
+          "rank": 5,
+          "horse_num": 8,
+          "horse_name": "アビラーシャ",
+          "ai_score": 0.2445836751998059
+        },
+        {
+          "rank": 6,
+          "horse_num": 5,
+          "horse_name": "メイショウソウテン",
+          "ai_score": 0.22893537788078538
+        },
+        {
+          "rank": 7,
+          "horse_num": 1,
+          "horse_name": "ガイストライヒ",
+          "ai_score": 0.22854984443904178
+        },
+        {
+          "rank": 8,
+          "horse_num": 7,
+          "horse_name": "マーベリックシチー",
+          "ai_score": 0.1537901315865434
+        },
+        {
+          "rank": 9,
+          "horse_num": 9,
+          "horse_name": "メイショウクモイ",
+          "ai_score": 0.14200238890815436
+        },
+        {
+          "rank": 10,
+          "horse_num": 10,
+          "horse_name": "ラッキーベイ",
+          "ai_score": 0.12765225741043737
+        },
+        {
+          "rank": 11,
+          "horse_num": 6,
+          "horse_name": "グランドスウェル",
+          "ai_score": 0.10041912737864186
+        },
+        {
+          "rank": 12,
+          "horse_num": 12,
+          "horse_name": "ブルーストレイル",
+          "ai_score": 0.04780018681187594
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 9,
+      "race_title": "能勢特別",
+      "race_confidence": 0.589741993139504,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 5,
+          "horse_name": "タンテドヴィーヴル",
+          "ai_score": 0.5753379556223597
+        },
+        {
+          "rank": 2,
+          "horse_num": 10,
+          "horse_name": "ミッキージャンプ",
+          "ai_score": 0.5503021703480108
+        },
+        {
+          "rank": 3,
+          "horse_num": 4,
+          "horse_name": "ダイヤモンドハンズ",
+          "ai_score": 0.4957428027385613
+        },
+        {
+          "rank": 4,
+          "horse_num": 2,
+          "horse_name": "マジョレルブルー",
+          "ai_score": 0.391130579488198
+        },
+        {
+          "rank": 5,
+          "horse_num": 7,
+          "horse_name": "シーミハットク",
+          "ai_score": 0.31393755546778523
+        },
+        {
+          "rank": 6,
+          "horse_num": 3,
+          "horse_name": "サンライズバブル",
+          "ai_score": 0.2562929312750852
+        },
+        {
+          "rank": 7,
+          "horse_num": 11,
+          "horse_name": "サミダレナイツ",
+          "ai_score": 0.23940872818955602
+        },
+        {
+          "rank": 8,
+          "horse_num": 9,
+          "horse_name": "バセリーナ",
+          "ai_score": 0.1550693628125729
+        },
+        {
+          "rank": 9,
+          "horse_num": 6,
+          "horse_name": "ヴァイザーバルコ",
+          "ai_score": 0.14420588415066696
+        },
+        {
+          "rank": 10,
+          "horse_num": 8,
+          "horse_name": "コスモスプモーニ",
+          "ai_score": 0.11637838424513684
+        },
+        {
+          "rank": 11,
+          "horse_num": 1,
+          "horse_name": "ヨシヒロ",
+          "ai_score": 0.05828192690662481
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 10,
+      "race_title": "仲秋ステークス",
+      "race_confidence": 0.4300781959531824,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 2,
+          "horse_name": "テラメリタ",
+          "ai_score": 0.4090815692316994
+        },
+        {
+          "rank": 2,
+          "horse_num": 8,
+          "horse_name": "インヴォーグ",
+          "ai_score": 0.35775530987243026
+        },
+        {
+          "rank": 3,
+          "horse_num": 4,
+          "horse_name": "エポックヴィーナス",
+          "ai_score": 0.21062832933783251
+        },
+        {
+          "rank": 4,
+          "horse_num": 13,
+          "horse_name": "レッドアトレーヴ",
+          "ai_score": 0.20962370205174163
+        },
+        {
+          "rank": 5,
+          "horse_num": 6,
+          "horse_name": "ハギノアルデバラン",
+          "ai_score": 0.17007171995727466
+        },
+        {
+          "rank": 6,
+          "horse_num": 15,
+          "horse_name": "コスモアンソロジー",
+          "ai_score": 0.1506643275723537
+        },
+        {
+          "rank": 7,
+          "horse_num": 3,
+          "horse_name": "モアリジット",
+          "ai_score": 0.14280589665370258
+        },
+        {
+          "rank": 8,
+          "horse_num": 9,
+          "horse_name": "サンタンカ",
+          "ai_score": 0.14041199616906014
+        },
+        {
+          "rank": 9,
+          "horse_num": 1,
+          "horse_name": "チェルノボーグ",
+          "ai_score": 0.12544553597373911
+        },
+        {
+          "rank": 10,
+          "horse_num": 7,
+          "horse_name": "ドゥカート",
+          "ai_score": 0.12217382110151301
+        },
+        {
+          "rank": 11,
+          "horse_num": 11,
+          "horse_name": "ヨウシタンレイ",
+          "ai_score": 0.1217157215826939
+        },
+        {
+          "rank": 12,
+          "horse_num": 5,
+          "horse_name": "モンテシート",
+          "ai_score": 0.10883156214253736
+        },
+        {
+          "rank": 13,
+          "horse_num": 10,
+          "horse_name": "リチャードバローズ",
+          "ai_score": 0.08276575942048844
+        },
+        {
+          "rank": 14,
+          "horse_num": 14,
+          "horse_name": "サクセスアイ",
+          "ai_score": 0.07930726706576781
+        },
+        {
+          "rank": 15,
+          "horse_num": 12,
+          "horse_name": "スリリングチェイス",
+          "ai_score": 0.0336854506798732
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 11,
+      "race_title": "関西テレビ放送賞ローズステークス",
+      "race_confidence": 0.7347934121315906,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 7,
+          "horse_name": "モンローウォーク",
+          "ai_score": 0.6364906313551867
+        },
+        {
+          "rank": 2,
+          "horse_num": 6,
+          "horse_name": "イクシード",
+          "ai_score": 0.4820456545813697
+        },
+        {
+          "rank": 3,
+          "horse_num": 2,
+          "horse_name": "エンネ",
+          "ai_score": 0.37224906603993385
+        },
+        {
+          "rank": 4,
+          "horse_num": 12,
+          "horse_name": "タイセイボーグ",
+          "ai_score": 0.3140901724414693
+        },
+        {
+          "rank": 5,
+          "horse_num": 11,
+          "horse_name": "レイクラシック",
+          "ai_score": 0.2036592498603885
+        },
+        {
+          "rank": 6,
+          "horse_num": 1,
+          "horse_name": "アンジュドジョワ",
+          "ai_score": 0.1642279080199134
+        },
+        {
+          "rank": 7,
+          "horse_num": 10,
+          "horse_name": "スウィートハピネス",
+          "ai_score": 0.16160410899233518
+        },
+        {
+          "rank": 8,
+          "horse_num": 3,
+          "horse_name": "スマートプリエール",
+          "ai_score": 0.13023281306011508
+        },
+        {
+          "rank": 9,
+          "horse_num": 8,
+          "horse_name": "ミリタリータトゥー",
+          "ai_score": 0.10602644211274674
+        },
+        {
+          "rank": 10,
+          "horse_num": 5,
+          "horse_name": "ファストフォワード",
+          "ai_score": 0.09534328814916612
+        },
+        {
+          "rank": 11,
+          "horse_num": 9,
+          "horse_name": "ナムラコスモス",
+          "ai_score": 0.07922146608635025
+        },
+        {
+          "rank": 12,
+          "horse_num": 4,
+          "horse_name": "アンディムジーク",
+          "ai_score": 0.041714033757033954
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-13",
+      "predicted_at": "09:01:52",
+      "venue": "阪神",
+      "race_num": 12,
+      "race_title": "3歳以上2勝クラス",
+      "race_confidence": 0.48774197922382023,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 7,
+          "horse_name": "アオイレーギーナ",
+          "ai_score": 0.48304467444533916
+        },
+        {
+          "rank": 2,
+          "horse_num": 14,
+          "horse_name": "ユウトザレン",
+          "ai_score": 0.473320305195487
+        },
+        {
+          "rank": 3,
+          "horse_num": 4,
+          "horse_name": "カーリキュー",
+          "ai_score": 0.3495073740145577
+        },
+        {
+          "rank": 4,
+          "horse_num": 2,
+          "horse_name": "ズバットマサムネ",
+          "ai_score": 0.28902231240459203
+        },
+        {
+          "rank": 5,
+          "horse_num": 6,
+          "horse_name": "ヒラボクカレラ",
+          "ai_score": 0.21536533682594483
+        },
+        {
+          "rank": 6,
+          "horse_num": 9,
+          "horse_name": "メイショウドライブ",
+          "ai_score": 0.2117770207165432
+        },
+        {
+          "rank": 7,
+          "horse_num": 8,
+          "horse_name": "ベンダバール",
+          "ai_score": 0.20760812805161535
+        },
+        {
+          "rank": 8,
+          "horse_num": 1,
+          "horse_name": "フレンズプラス",
+          "ai_score": 0.10841445875180704
+        },
+        {
+          "rank": 9,
+          "horse_num": 5,
+          "horse_name": "ダズリングダンス",
+          "ai_score": 0.100011471187089
+        },
+        {
+          "rank": 10,
+          "horse_num": 12,
+          "horse_name": "ブルーノート",
+          "ai_score": 0.09990130263188605
+        },
+        {
+          "rank": 11,
+          "horse_num": 10,
+          "horse_name": "リードプリンシパル",
+          "ai_score": 0.07485874748071833
+        },
+        {
+          "rank": 12,
+          "horse_num": 11,
+          "horse_name": "バイファーザベスト",
+          "ai_score": 0.052675802575626346
+        },
+        {
+          "rank": 13,
+          "horse_num": 3,
+          "horse_name": "オトメナシャチョウ",
+          "ai_score": 0.04325673551783709
+        },
+        {
+          "rank": 14,
+          "horse_num": 13,
+          "horse_name": "ホープエトワール",
+          "ai_score": 0.033361590103491316
+        }
+      ]
+    }
+  ]
+}
