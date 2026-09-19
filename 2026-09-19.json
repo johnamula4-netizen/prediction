@@ -1028,72 +1028,72 @@
     },
     {
       "race_date": "2026-09-19",
-      "predicted_at": "12:37:34",
+      "predicted_at": "12:40:40",
       "venue": "阪神",
       "race_num": 7,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.6223239084500444,
+      "race_confidence": 0.6291366584298171,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 2,
           "horse_name": "アロマフェリス",
-          "ai_score": 0.5545825845651283
+          "ai_score": 0.558504385598794
         },
         {
           "rank": 2,
           "horse_num": 8,
           "horse_name": "タガノアルトゥーラ",
-          "ai_score": 0.432434277405366
+          "ai_score": 0.4320375669805382
         },
         {
           "rank": 3,
           "horse_num": 9,
           "horse_name": "ゴールドアクセス",
-          "ai_score": 0.41201488116954826
+          "ai_score": 0.4124875228319743
         },
         {
           "rank": 4,
           "horse_num": 1,
           "horse_name": "ボンドマティーニ",
-          "ai_score": 0.27983846325560097
+          "ai_score": 0.2798384632566872
         },
         {
           "rank": 5,
           "horse_num": 4,
           "horse_name": "ベルシュヴァル",
-          "ai_score": 0.21352614138805634
+          "ai_score": 0.21335236474811317
         },
         {
           "rank": 6,
           "horse_num": 7,
           "horse_name": "ストレートブラック",
-          "ai_score": 0.2135158745466053
+          "ai_score": 0.20892566771454765
         },
         {
           "rank": 7,
           "horse_num": 6,
           "horse_name": "フィエールシャンテ",
-          "ai_score": 0.19170068395067819
+          "ai_score": 0.1905447333395693
         },
         {
           "rank": 8,
           "horse_num": 3,
           "horse_name": "パンチャマハブータ",
-          "ai_score": 0.17300585704031435
+          "ai_score": 0.17920561590740514
         },
         {
           "rank": 9,
           "horse_num": 11,
           "horse_name": "サトノビダーヤ",
-          "ai_score": 0.12742552415392489
+          "ai_score": 0.12498959173165662
         },
         {
           "rank": 10,
           "horse_num": 10,
           "horse_name": "ロングホリデー",
-          "ai_score": 0.11724571722693977
+          "ai_score": 0.11720902206727042
         },
         {
           "rank": 11,
@@ -1105,7 +1105,7 @@
           "rank": 12,
           "horse_num": 12,
           "horse_name": "ディアーモルタル",
-          "ai_score": 0.06588925021561856
+          "ai_score": 0.06581659035636236
         }
       ]
     },
