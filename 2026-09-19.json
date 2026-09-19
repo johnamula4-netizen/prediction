@@ -400,66 +400,66 @@
     },
     {
       "race_date": "2026-09-19",
-      "predicted_at": "14:10:47",
+      "predicted_at": "14:13:42",
       "venue": "中山",
       "race_num": 9,
       "race_title": "カンナステークス",
-      "race_confidence": 0.6090882307751783,
+      "race_confidence": 0.6306406000317992,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 2,
           "horse_name": "ジャスパートレノ",
-          "ai_score": 0.597731501443143
+          "ai_score": 0.5977049670442549
         },
         {
           "rank": 2,
           "horse_num": 3,
           "horse_name": "ダイシンドラゴン",
-          "ai_score": 0.578731784505662
+          "ai_score": 0.542601471501268
         },
         {
           "rank": 3,
           "horse_num": 6,
           "horse_name": "ジオパークカツキ",
-          "ai_score": 0.5769850230382351
+          "ai_score": 0.5389683916013599
         },
         {
           "rank": 4,
           "horse_num": 9,
           "horse_name": "ショウナンハーヴェ",
-          "ai_score": 0.43061058193824997
+          "ai_score": 0.488503389506972
         },
         {
           "rank": 5,
-          "horse_num": 4,
-          "horse_name": "セタキト",
-          "ai_score": 0.2784463540860709
+          "horse_num": 5,
+          "horse_name": "ダイメイビッグボス",
+          "ai_score": 0.25705087676912913
         },
         {
           "rank": 6,
-          "horse_num": 1,
-          "horse_name": "マルモリムソウ",
-          "ai_score": 0.2559288405938547
+          "horse_num": 4,
+          "horse_name": "セタキト",
+          "ai_score": 0.2542057263893391
         },
         {
           "rank": 7,
           "horse_num": 8,
           "horse_name": "ニシノイサリビ",
-          "ai_score": 0.23635615898667098
+          "ai_score": 0.23959096063479335
         },
         {
           "rank": 8,
-          "horse_num": 5,
-          "horse_name": "ダイメイビッグボス",
-          "ai_score": 0.22935004913578746
+          "horse_num": 1,
+          "horse_name": "マルモリムソウ",
+          "ai_score": 0.2352485850136933
         },
         {
           "rank": 9,
           "horse_num": 7,
           "horse_name": "ピクニックマーチ",
-          "ai_score": 0.1311484885022801
+          "ai_score": 0.1281552382881013
         }
       ]
     },
@@ -1253,96 +1253,96 @@
     },
     {
       "race_date": "2026-09-19",
-      "predicted_at": "14:10:47",
+      "predicted_at": "14:13:42",
       "venue": "阪神",
       "race_num": 10,
       "race_title": "北摂特別",
-      "race_confidence": 0.548898566942836,
+      "race_confidence": 0.5648885710799022,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 6,
           "horse_name": "リヴァイ",
-          "ai_score": 0.5298637574523684
+          "ai_score": 0.5298637574533824
         },
         {
           "rank": 2,
           "horse_num": 4,
           "horse_name": "ノボリリア",
-          "ai_score": 0.4939397878984046
+          "ai_score": 0.4637622112845048
         },
         {
           "rank": 3,
           "horse_num": 7,
           "horse_name": "タガノアンファン",
-          "ai_score": 0.4030159277590476
+          "ai_score": 0.4031922575399219
         },
         {
           "rank": 4,
           "horse_num": 5,
           "horse_name": "ダノンキラウェア",
-          "ai_score": 0.2927920060745341
+          "ai_score": 0.3063291418660986
         },
         {
           "rank": 5,
           "horse_num": 1,
           "horse_name": "タマモブラウンタイ",
-          "ai_score": 0.26057343104543995
+          "ai_score": 0.26216786315699203
         },
         {
           "rank": 6,
           "horse_num": 10,
           "horse_name": "ヒーローインチーフ",
-          "ai_score": 0.21785061863492763
+          "ai_score": 0.2162845722379733
         },
         {
           "rank": 7,
           "horse_num": 2,
           "horse_name": "スネーフリンガ",
-          "ai_score": 0.21568820400611124
+          "ai_score": 0.2155979832088326
         },
         {
           "rank": 8,
           "horse_num": 3,
           "horse_name": "ハルオーブ",
-          "ai_score": 0.09620980867715037
+          "ai_score": 0.09653073759373249
         },
         {
           "rank": 9,
           "horse_num": 11,
           "horse_name": "ミキノバカラ",
-          "ai_score": 0.09208676569712572
+          "ai_score": 0.09225615125393806
         },
         {
           "rank": 10,
           "horse_num": 15,
           "horse_name": "インフローレ",
-          "ai_score": 0.08356539775329899
+          "ai_score": 0.08303263483768901
         },
         {
           "rank": 11,
           "horse_num": 8,
           "horse_name": "サンライズプルート",
-          "ai_score": 0.057236390563074266
+          "ai_score": 0.05734009599275907
         },
         {
           "rank": 12,
           "horse_num": 13,
           "horse_name": "ウチュウノセカイ",
-          "ai_score": 0.056098131000452384
+          "ai_score": 0.05572476544431738
         },
         {
           "rank": 13,
           "horse_num": 14,
           "horse_name": "ヤマニンレセディ",
-          "ai_score": 0.041109011433887406
+          "ai_score": 0.041117416305968824
         },
         {
           "rank": 14,
           "horse_num": 12,
           "horse_name": "ビーアイフォルテ",
-          "ai_score": 0.03061960968081526
+          "ai_score": 0.03046525924625434
         }
       ]
     },
