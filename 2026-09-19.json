@@ -465,84 +465,84 @@
     },
     {
       "race_date": "2026-09-19",
-      "predicted_at": "14:28:44",
+      "predicted_at": "14:31:50",
       "venue": "中山",
       "race_num": 10,
       "race_title": "九十九里特別",
-      "race_confidence": 0.9484943717794978,
+      "race_confidence": 0.9481620335921779,
       "skipped": false,
       "horses": [
         {
           "rank": 1,
           "horse_num": 9,
           "horse_name": "アロンズロッド",
-          "ai_score": 0.7046501935150036
+          "ai_score": 0.7046501935151022
         },
         {
           "rank": 2,
           "horse_num": 12,
           "horse_name": "マイバレンタイン",
-          "ai_score": 0.35860022360280175
+          "ai_score": 0.35907185930315433
         },
         {
           "rank": 3,
-          "horse_num": 2,
-          "horse_name": "トリニティ",
-          "ai_score": 0.3262227910110208
+          "horse_num": 11,
+          "horse_name": "キンググローリー",
+          "ai_score": 0.32724178127852277
         },
         {
           "rank": 4,
-          "horse_num": 11,
-          "horse_name": "キンググローリー",
-          "ai_score": 0.30422400799386157
+          "horse_num": 2,
+          "horse_name": "トリニティ",
+          "ai_score": 0.32626870611469444
         },
         {
           "rank": 5,
           "horse_num": 1,
           "horse_name": "ノラリクラリ",
-          "ai_score": 0.2519018800735639
+          "ai_score": 0.24951852553888104
         },
         {
           "rank": 6,
           "horse_num": 3,
           "horse_name": "カレンラップスター",
-          "ai_score": 0.2030153549367653
+          "ai_score": 0.19966757422915557
         },
         {
           "rank": 7,
           "horse_num": 10,
           "horse_name": "ダノンピクチャー",
-          "ai_score": 0.19415021414615144
+          "ai_score": 0.1928248676378174
         },
         {
           "rank": 8,
           "horse_num": 7,
           "horse_name": "ブリヤディアマンテ",
-          "ai_score": 0.09560719462876852
+          "ai_score": 0.09493747850547596
         },
         {
           "rank": 9,
-          "horse_num": 8,
-          "horse_name": "リュクスパトロール",
-          "ai_score": 0.08931040729106864
+          "horse_num": 6,
+          "horse_name": "ウイナーズナイン",
+          "ai_score": 0.08736696971745621
         },
         {
           "rank": 10,
-          "horse_num": 6,
-          "horse_name": "ウイナーズナイン",
-          "ai_score": 0.08732726560920655
+          "horse_num": 8,
+          "horse_name": "リュクスパトロール",
+          "ai_score": 0.08576718676533089
         },
         {
           "rank": 11,
           "horse_num": 5,
           "horse_name": "レイヤードレッド",
-          "ai_score": 0.062465990315617136
+          "ai_score": 0.061819914156805676
         },
         {
           "rank": 12,
           "horse_num": 4,
           "horse_name": "モルトマエストーソ",
-          "ai_score": 0.04062844921520367
+          "ai_score": 0.04052468624844855
         }
       ]
     },
@@ -1253,96 +1253,96 @@
     },
     {
       "race_date": "2026-09-19",
-      "predicted_at": "14:28:44",
+      "predicted_at": "14:31:50",
       "venue": "阪神",
       "race_num": 10,
       "race_title": "北摂特別",
-      "race_confidence": 0.53947605169302,
+      "race_confidence": 0.5408904920445186,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 6,
           "horse_name": "リヴァイ",
-          "ai_score": 0.5152173469577092
+          "ai_score": 0.5154576017787724
         },
         {
           "rank": 2,
           "horse_num": 4,
           "horse_name": "ノボリリア",
-          "ai_score": 0.468132937089611
+          "ai_score": 0.4661171901174044
         },
         {
           "rank": 3,
           "horse_num": 7,
           "horse_name": "タガノアンファン",
-          "ai_score": 0.4014674490888118
+          "ai_score": 0.4017767092086453
         },
         {
           "rank": 4,
           "horse_num": 1,
           "horse_name": "タマモブラウンタイ",
-          "ai_score": 0.32074704196676934
+          "ai_score": 0.3271286270959066
         },
         {
           "rank": 5,
           "horse_num": 5,
           "horse_name": "ダノンキラウェア",
-          "ai_score": 0.29297108971333174
+          "ai_score": 0.29220622206736335
         },
         {
           "rank": 6,
-          "horse_num": 10,
-          "horse_name": "ヒーローインチーフ",
-          "ai_score": 0.22887461533189407
+          "horse_num": 2,
+          "horse_name": "スネーフリンガ",
+          "ai_score": 0.22478699182064815
         },
         {
           "rank": 7,
-          "horse_num": 2,
-          "horse_name": "スネーフリンガ",
-          "ai_score": 0.21654351135885366
+          "horse_num": 10,
+          "horse_name": "ヒーローインチーフ",
+          "ai_score": 0.20683002446987997
         },
         {
           "rank": 8,
           "horse_num": 11,
           "horse_name": "ミキノバカラ",
-          "ai_score": 0.09297949013117471
+          "ai_score": 0.09350166230712866
         },
         {
           "rank": 9,
           "horse_num": 3,
           "horse_name": "ハルオーブ",
-          "ai_score": 0.09294954098746978
+          "ai_score": 0.0798654435566028
         },
         {
           "rank": 10,
           "horse_num": 15,
           "horse_name": "インフローレ",
-          "ai_score": 0.08505063227468947
+          "ai_score": 0.07065410570842662
         },
         {
           "rank": 11,
           "horse_num": 8,
           "horse_name": "サンライズプルート",
-          "ai_score": 0.057694715745352586
+          "ai_score": 0.055278256113378534
         },
         {
           "rank": 12,
           "horse_num": 13,
           "horse_name": "ウチュウノセカイ",
-          "ai_score": 0.05257823847368888
+          "ai_score": 0.04311902747217467
         },
         {
           "rank": 13,
           "horse_num": 14,
           "horse_name": "ヤマニンレセディ",
-          "ai_score": 0.03705710322013692
+          "ai_score": 0.03523591305838955
         },
         {
           "rank": 14,
           "horse_num": 12,
           "horse_name": "ビーアイフォルテ",
-          "ai_score": 0.030002407858172323
+          "ai_score": 0.02704745135934128
         }
       ]
     },
