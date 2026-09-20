@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 5,
   "predictions": [
     {
       "race_date": "2026-09-20",
@@ -104,96 +104,96 @@
     },
     {
       "race_date": "2026-09-20",
-      "predicted_at": "10:13:26",
+      "predicted_at": "10:21:44",
       "venue": "中山",
       "race_num": 2,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.7093569120801453,
+      "race_confidence": 0.7221593354646269,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 11,
           "horse_name": "アテナブレイブ",
-          "ai_score": 0.629654019232147
+          "ai_score": 0.6279558866868321
         },
         {
           "rank": 2,
           "horse_num": 3,
           "horse_name": "セレスティナ",
-          "ai_score": 0.5030719751038578
+          "ai_score": 0.4779398572570851
         },
         {
           "rank": 3,
           "horse_num": 12,
           "horse_name": "ジェイエルキール",
-          "ai_score": 0.2802887318881944
+          "ai_score": 0.39727020406315694
         },
         {
           "rank": 4,
           "horse_num": 4,
           "horse_name": "ベールダウン",
-          "ai_score": 0.27903472077936803
+          "ai_score": 0.29554339506010907
         },
         {
           "rank": 5,
           "horse_num": 8,
           "horse_name": "アヴァンデセール",
-          "ai_score": 0.27367157656204755
+          "ai_score": 0.27638052239985916
         },
         {
           "rank": 6,
           "horse_num": 1,
           "horse_name": "ホワイトホール",
-          "ai_score": 0.25187746032480224
+          "ai_score": 0.2391210487359077
         },
         {
           "rank": 7,
           "horse_num": 2,
           "horse_name": "フォンターナドーロ",
-          "ai_score": 0.24636246707851275
+          "ai_score": 0.20659118726903133
         },
         {
           "rank": 8,
           "horse_num": 13,
           "horse_name": "セールデュクール",
-          "ai_score": 0.2055660090930338
+          "ai_score": 0.148866151213456
         },
         {
           "rank": 9,
           "horse_num": 5,
           "horse_name": "リアスハート",
-          "ai_score": 0.11476837128830919
+          "ai_score": 0.12965775156571432
         },
         {
           "rank": 10,
           "horse_num": 7,
           "horse_name": "レイナクリューソス",
-          "ai_score": 0.06911924854362171
+          "ai_score": 0.07007502835388785
         },
         {
           "rank": 11,
           "horse_num": 10,
           "horse_name": "セイウンコハルタ",
-          "ai_score": 0.06761759803346487
+          "ai_score": 0.05129007521339682
         },
         {
           "rank": 12,
           "horse_num": 9,
           "horse_name": "ラヴレイン",
-          "ai_score": 0.05393866169333985
+          "ai_score": 0.050283723698170586
         },
         {
           "rank": 13,
           "horse_num": 6,
           "horse_name": "カラスアゲハ",
-          "ai_score": 0.04884283914006664
+          "ai_score": 0.03563107006988693
         },
         {
           "rank": 14,
           "horse_num": 14,
           "horse_name": "ヌンエリン",
-          "ai_score": 0.03906871858661012
+          "ai_score": 0.03396567421087412
         }
       ]
     },
@@ -366,6 +366,59 @@
           "horse_num": 13,
           "horse_name": "ヤマトデュノール",
           "ai_score": 0.029342817967612445
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-20",
+      "predicted_at": "10:21:44",
+      "venue": "阪神",
+      "race_num": 3,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.8280222891527443,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 7,
+          "horse_name": "ハートノート",
+          "ai_score": 0.7396803549370362
+        },
+        {
+          "rank": 2,
+          "horse_num": 3,
+          "horse_name": "シャローチャンプ",
+          "ai_score": 0.6202477735171498
+        },
+        {
+          "rank": 3,
+          "horse_num": 2,
+          "horse_name": "ジェントル",
+          "ai_score": 0.44658633788056656
+        },
+        {
+          "rank": 4,
+          "horse_num": 4,
+          "horse_name": "ドーンレーサー",
+          "ai_score": 0.37216811907259395
+        },
+        {
+          "rank": 5,
+          "horse_num": 5,
+          "horse_name": "サトノボルテクス",
+          "ai_score": 0.3531899165545724
+        },
+        {
+          "rank": 6,
+          "horse_num": 6,
+          "horse_name": "プリメラエストレラ",
+          "ai_score": 0.32199768783028
+        },
+        {
+          "rank": 7,
+          "horse_num": 1,
+          "horse_name": "ホットリップス",
+          "ai_score": 0.1927069612384565
         }
       ]
     }
