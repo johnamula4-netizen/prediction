@@ -888,108 +888,108 @@
     },
     {
       "race_date": "2026-09-20",
-      "predicted_at": "16:06:30",
+      "predicted_at": "16:12:30",
       "venue": "中山",
       "race_num": 12,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.42891925125400737,
+      "race_confidence": 0.40496847216285514,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 6,
           "horse_name": "エバーラスト",
-          "ai_score": 0.4161358388938803
+          "ai_score": 0.4019769450543757
         },
         {
           "rank": 2,
           "horse_num": 12,
           "horse_name": "カシオペア",
-          "ai_score": 0.3854165132186241
+          "ai_score": 0.39453490852644796
         },
         {
           "rank": 3,
           "horse_num": 16,
           "horse_name": "ファインサマーデイ",
-          "ai_score": 0.37153613258931223
+          "ai_score": 0.3714720837728659
         },
         {
           "rank": 4,
           "horse_num": 1,
           "horse_name": "グランプレジール",
-          "ai_score": 0.23642438834411622
+          "ai_score": 0.24549672181304874
         },
         {
           "rank": 5,
           "horse_num": 9,
           "horse_name": "ラプランセス",
-          "ai_score": 0.2221290211615501
+          "ai_score": 0.21949230240202924
         },
         {
           "rank": 6,
           "horse_num": 8,
           "horse_name": "スプリングデイ",
-          "ai_score": 0.19401801949854694
+          "ai_score": 0.18263363848661163
         },
         {
           "rank": 7,
-          "horse_num": 11,
-          "horse_name": "ビッグフラワー",
-          "ai_score": 0.1610968940214565
+          "horse_num": 13,
+          "horse_name": "フロウアンドライム",
+          "ai_score": 0.141535784254402
         },
         {
           "rank": 8,
-          "horse_num": 13,
-          "horse_name": "フロウアンドライム",
-          "ai_score": 0.16034457817961942
+          "horse_num": 11,
+          "horse_name": "ビッグフラワー",
+          "ai_score": 0.13702170914545816
         },
         {
           "rank": 9,
           "horse_num": 5,
           "horse_name": "ミルトハーバー",
-          "ai_score": 0.11748664816530124
+          "ai_score": 0.1292329950026067
         },
         {
           "rank": 10,
           "horse_num": 2,
           "horse_name": "サツキレジーナ",
-          "ai_score": 0.11388183277610775
+          "ai_score": 0.11221546591948824
         },
         {
           "rank": 11,
           "horse_num": 14,
           "horse_name": "ラブリーガール",
-          "ai_score": 0.1118961978626205
+          "ai_score": 0.10975622100741636
         },
         {
           "rank": 12,
           "horse_num": 3,
           "horse_name": "ショーモッシュ",
-          "ai_score": 0.06160616885799883
+          "ai_score": 0.06218371934289649
         },
         {
           "rank": 13,
           "horse_num": 15,
           "horse_name": "ハッピーサプライズ",
-          "ai_score": 0.05767210965249098
+          "ai_score": 0.058334960900336096
         },
         {
           "rank": 14,
           "horse_num": 7,
           "horse_name": "テリオスルル",
-          "ai_score": 0.041055497841961865
+          "ai_score": 0.04135136461578058
         },
         {
           "rank": 15,
           "horse_num": 10,
           "horse_name": "ランスロット",
-          "ai_score": 0.03838951854531829
+          "ai_score": 0.04093141145131223
         },
         {
           "rank": 16,
           "horse_num": 4,
           "horse_name": "バム",
-          "ai_score": 0.027677850038171182
+          "ai_score": 0.028681259364432155
         }
       ]
     },
