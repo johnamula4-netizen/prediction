@@ -288,96 +288,96 @@
     },
     {
       "race_date": "2026-09-20",
-      "predicted_at": "12:28:27",
+      "predicted_at": "12:37:03",
       "venue": "中山",
       "race_num": 6,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.7303039800555707,
-      "skipped": true,
+      "race_confidence": 0.7484760304274204,
+      "skipped": false,
       "horses": [
         {
           "rank": 1,
           "horse_num": 8,
           "horse_name": "ウリズンベー",
-          "ai_score": 0.6037385857134019
+          "ai_score": 0.6173785687315397
         },
         {
           "rank": 2,
           "horse_num": 2,
           "horse_name": "ブルージャイアント",
-          "ai_score": 0.3941024992727547
+          "ai_score": 0.405033229363456
         },
         {
           "rank": 3,
-          "horse_num": 1,
-          "horse_name": "エタンセル",
-          "ai_score": 0.35170313057267494
+          "horse_num": 7,
+          "horse_name": "ヤングアメリカンズ",
+          "ai_score": 0.3389237905885769
         },
         {
           "rank": 4,
-          "horse_num": 7,
-          "horse_name": "ヤングアメリカンズ",
-          "ai_score": 0.3396631795234125
+          "horse_num": 1,
+          "horse_name": "エタンセル",
+          "ai_score": 0.3158764593865757
         },
         {
           "rank": 5,
           "horse_num": 3,
           "horse_name": "アビヤント",
-          "ai_score": 0.2809013661029908
+          "ai_score": 0.3034810051555216
         },
         {
           "rank": 6,
           "horse_num": 5,
           "horse_name": "ハルノアラシ",
-          "ai_score": 0.22308794235784485
+          "ai_score": 0.21642382112919512
         },
         {
           "rank": 7,
           "horse_num": 12,
           "horse_name": "グランコネクシオン",
-          "ai_score": 0.18772315497444195
+          "ai_score": 0.17729334992327733
         },
         {
           "rank": 8,
           "horse_num": 11,
           "horse_name": "タニセンドリーム",
-          "ai_score": 0.15620850153312363
+          "ai_score": 0.15066880321326093
         },
         {
           "rank": 9,
           "horse_num": 13,
           "horse_name": "ステラデルークス",
-          "ai_score": 0.15406892561799335
+          "ai_score": 0.1506358318794686
         },
         {
           "rank": 10,
-          "horse_num": 14,
-          "horse_name": "タイセイエムロード",
-          "ai_score": 0.1256747802228758
+          "horse_num": 9,
+          "horse_name": "アデルフィー",
+          "ai_score": 0.12242559013211937
         },
         {
           "rank": 11,
-          "horse_num": 9,
-          "horse_name": "アデルフィー",
-          "ai_score": 0.09368255501387902
+          "horse_num": 14,
+          "horse_name": "タイセイエムロード",
+          "ai_score": 0.11869909604125177
         },
         {
           "rank": 12,
           "horse_num": 4,
           "horse_name": "ホールドミーワンス",
-          "ai_score": 0.0521084977224712
+          "ai_score": 0.05337810931631967
         },
         {
           "rank": 13,
           "horse_num": 6,
           "horse_name": "ボールドタワー",
-          "ai_score": 0.05149524421657325
+          "ai_score": 0.048911209170037113
         },
         {
           "rank": 14,
           "horse_num": 10,
           "horse_name": "ナックシュバリエ",
-          "ai_score": 0.0327942745705561
+          "ai_score": 0.03267094452728681
         }
       ]
     },
@@ -608,78 +608,78 @@
     },
     {
       "race_date": "2026-09-20",
-      "predicted_at": "12:28:27",
+      "predicted_at": "12:37:03",
       "venue": "阪神",
       "race_num": 6,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.5909045933633744,
+      "race_confidence": 0.6452647794206454,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 7,
           "horse_name": "キッコベッロ",
-          "ai_score": 0.5811397359305056
+          "ai_score": 0.6204562185444791
         },
         {
           "rank": 2,
           "horse_num": 4,
           "horse_name": "サラコスティ",
-          "ai_score": 0.5643367936618384
+          "ai_score": 0.5804718326447543
         },
         {
           "rank": 3,
           "horse_num": 3,
           "horse_name": "メイショウショカツ",
-          "ai_score": 0.4158663716347108
+          "ai_score": 0.46874384669576624
         },
         {
           "rank": 4,
           "horse_num": 2,
           "horse_name": "エテルノレガーメ",
-          "ai_score": 0.4145255806198622
+          "ai_score": 0.41863500440816726
         },
         {
           "rank": 5,
-          "horse_num": 5,
-          "horse_name": "リガーレ",
-          "ai_score": 0.278401875299487
+          "horse_num": 10,
+          "horse_name": "エイシンビーコン",
+          "ai_score": 0.27820472889001774
         },
         {
           "rank": 6,
-          "horse_num": 10,
-          "horse_name": "エイシンビーコン",
-          "ai_score": 0.25343099281014525
+          "horse_num": 11,
+          "horse_name": "エイシンウィスパー",
+          "ai_score": 0.23519988744024373
         },
         {
           "rank": 7,
-          "horse_num": 11,
-          "horse_name": "エイシンウィスパー",
-          "ai_score": 0.23415577317146116
+          "horse_num": 5,
+          "horse_name": "リガーレ",
+          "ai_score": 0.2252141018155549
         },
         {
           "rank": 8,
           "horse_num": 8,
           "horse_name": "アルペングロー",
-          "ai_score": 0.09832252610882074
+          "ai_score": 0.06750304413943631
         },
         {
           "rank": 9,
           "horse_num": 1,
           "horse_name": "アンビアンス",
-          "ai_score": 0.07280122786859547
+          "ai_score": 0.06521546649114053
         },
         {
           "rank": 10,
-          "horse_num": 6,
-          "horse_name": "グラスベルグ",
-          "ai_score": 0.04573571840348777
+          "horse_num": 9,
+          "horse_name": "アスクメークシェア",
+          "ai_score": 0.035639803985345005
         },
         {
           "rank": 11,
-          "horse_num": 9,
-          "horse_name": "アスクメークシェア",
-          "ai_score": 0.04028273182008796
+          "horse_num": 6,
+          "horse_name": "グラスベルグ",
+          "ai_score": 0.03550865631001172
         }
       ]
     }
