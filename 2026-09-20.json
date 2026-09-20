@@ -513,78 +513,78 @@
     },
     {
       "race_date": "2026-09-20",
-      "predicted_at": "12:09:51",
+      "predicted_at": "12:19:12",
       "venue": "阪神",
       "race_num": 6,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.5950591446251738,
+      "race_confidence": 0.6326660832356661,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 7,
           "horse_name": "キッコベッロ",
-          "ai_score": 0.5838322314596022
+          "ai_score": 0.607409237911396
         },
         {
           "rank": 2,
           "horse_num": 4,
           "horse_name": "サラコスティ",
-          "ai_score": 0.5646025408727978
+          "ai_score": 0.565827971529744
         },
         {
           "rank": 3,
           "horse_num": 3,
           "horse_name": "メイショウショカツ",
-          "ai_score": 0.42512392392320775
+          "ai_score": 0.4237749937100968
         },
         {
           "rank": 4,
           "horse_num": 2,
           "horse_name": "エテルノレガーメ",
-          "ai_score": 0.39169347393061127
+          "ai_score": 0.39189259644694485
         },
         {
           "rank": 5,
           "horse_num": 5,
           "horse_name": "リガーレ",
-          "ai_score": 0.2823207977176742
+          "ai_score": 0.282126843879035
         },
         {
           "rank": 6,
           "horse_num": 11,
           "horse_name": "エイシンウィスパー",
-          "ai_score": 0.2585662363821112
+          "ai_score": 0.2605369525741654
         },
         {
           "rank": 7,
           "horse_num": 10,
           "horse_name": "エイシンビーコン",
-          "ai_score": 0.22959587140515197
+          "ai_score": 0.2280026168127614
         },
         {
           "rank": 8,
           "horse_num": 8,
           "horse_name": "アルペングロー",
-          "ai_score": 0.10082828979381459
+          "ai_score": 0.10077508104544476
         },
         {
           "rank": 9,
           "horse_num": 1,
           "horse_name": "アンビアンス",
-          "ai_score": 0.07290285934143641
+          "ai_score": 0.07000357929925942
         },
         {
           "rank": 10,
           "horse_num": 6,
           "horse_name": "グラスベルグ",
-          "ai_score": 0.04676421830043371
+          "ai_score": 0.046569948939998544
         },
         {
           "rank": 11,
           "horse_num": 9,
           "horse_name": "アスクメークシェア",
-          "ai_score": 0.043154941078880536
+          "ai_score": 0.04261540207534153
         }
       ]
     }
