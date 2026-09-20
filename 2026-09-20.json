@@ -199,90 +199,90 @@
     },
     {
       "race_date": "2026-09-20",
-      "predicted_at": "10:49:22",
+      "predicted_at": "10:58:12",
       "venue": "中山",
       "race_num": 3,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.8679701176697149,
+      "race_confidence": 0.8291205198629528,
       "skipped": false,
       "horses": [
         {
           "rank": 1,
           "horse_num": 13,
           "horse_name": "サウンズオーサム",
-          "ai_score": 0.702124515274808
+          "ai_score": 0.6774011144328004
         },
         {
           "rank": 2,
           "horse_num": 3,
           "horse_name": "セイウンオオゾラ",
-          "ai_score": 0.4659191146842934
+          "ai_score": 0.45342834232245377
         },
         {
           "rank": 3,
           "horse_num": 10,
           "horse_name": "タイセイソアリング",
-          "ai_score": 0.43493607510270227
+          "ai_score": 0.4094095842172316
         },
         {
           "rank": 4,
-          "horse_num": 2,
-          "horse_name": "ハンデンブレイズ",
-          "ai_score": 0.32866533248447305
+          "horse_num": 6,
+          "horse_name": "スーパーユタカ",
+          "ai_score": 0.32579860098609387
         },
         {
           "rank": 5,
-          "horse_num": 6,
-          "horse_name": "スーパーユタカ",
-          "ai_score": 0.3161050201939912
+          "horse_num": 2,
+          "horse_name": "ハンデンブレイズ",
+          "ai_score": 0.32564294253188536
         },
         {
           "rank": 6,
-          "horse_num": 9,
-          "horse_name": "ティアラスピリット",
-          "ai_score": 0.2624954518733754
+          "horse_num": 7,
+          "horse_name": "スカーレットクラン",
+          "ai_score": 0.22336136538089393
         },
         {
           "rank": 7,
-          "horse_num": 7,
-          "horse_name": "スカーレットクラン",
-          "ai_score": 0.22262559082084454
+          "horse_num": 9,
+          "horse_name": "ティアラスピリット",
+          "ai_score": 0.2212660726879795
         },
         {
           "rank": 8,
           "horse_num": 12,
           "horse_name": "タッカーヴィーナス",
-          "ai_score": 0.1689372304371026
+          "ai_score": 0.19018292481816618
         },
         {
           "rank": 9,
           "horse_num": 5,
           "horse_name": "ポッドレーヴ",
-          "ai_score": 0.09875952630081104
+          "ai_score": 0.1383852804003321
         },
         {
           "rank": 10,
-          "horse_num": 4,
-          "horse_name": "オペレッタテソーロ",
-          "ai_score": 0.0722701333264248
+          "horse_num": 8,
+          "horse_name": "マイネルヘルリッヒ",
+          "ai_score": 0.07009422300691448
         },
         {
           "rank": 11,
-          "horse_num": 8,
-          "horse_name": "マイネルヘルリッヒ",
-          "ai_score": 0.07160773227527889
+          "horse_num": 4,
+          "horse_name": "オペレッタテソーロ",
+          "ai_score": 0.05520835640553943
         },
         {
           "rank": 12,
           "horse_num": 1,
           "horse_name": "オオルリ",
-          "ai_score": 0.05659900775207794
+          "ai_score": 0.04808352655576681
         },
         {
           "rank": 13,
           "horse_num": 11,
           "horse_name": "マイネルシードル",
-          "ai_score": 0.05471117371182554
+          "ai_score": 0.04147879686378599
         }
       ]
     },
