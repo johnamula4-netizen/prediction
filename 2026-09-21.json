@@ -721,7 +721,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:14:19",
+      "predicted_at": "15:17:21",
       "venue": "中山",
       "race_num": 11,
       "race_title": "JRAアニバーサリーステークス",
@@ -1564,11 +1564,11 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:14:19",
+      "predicted_at": "15:17:21",
       "venue": "阪神",
       "race_num": 11,
       "race_title": "神戸新聞杯",
-      "race_confidence": 0.9674852891757477,
+      "race_confidence": 0.9423504912725696,
       "skipped": false,
       "horses": [
         {
@@ -1581,7 +1581,7 @@
           "rank": 2,
           "horse_num": 9,
           "horse_name": "グリーンエナジー",
-          "ai_score": 0.3412191108016852
+          "ai_score": 0.37672496537008143
         },
         {
           "rank": 3,
@@ -1593,19 +1593,19 @@
           "rank": 4,
           "horse_num": 3,
           "horse_name": "ゴーラッキー",
-          "ai_score": 0.2752081629409064
+          "ai_score": 0.2755306575512983
         },
         {
           "rank": 5,
           "horse_num": 7,
           "horse_name": "コンジェスタス",
-          "ai_score": 0.2527145523824514
+          "ai_score": 0.2526545331159765
         },
         {
           "rank": 6,
           "horse_num": 2,
           "horse_name": "エイシンインアウト",
-          "ai_score": 0.24590416528057332
+          "ai_score": 0.24675238076356765
         },
         {
           "rank": 7,
@@ -1623,19 +1623,19 @@
           "rank": 9,
           "horse_num": 5,
           "horse_name": "カムアップローゼス",
-          "ai_score": 0.08305673640484816
+          "ai_score": 0.08314910456916061
         },
         {
           "rank": 10,
           "horse_num": 11,
           "horse_name": "ショウナンハヤナミ",
-          "ai_score": 0.0661031263382537
+          "ai_score": 0.06625310309044566
         },
         {
           "rank": 11,
           "horse_num": 8,
           "horse_name": "シートゥサミット",
-          "ai_score": 0.04840991235398656
+          "ai_score": 0.04838332600377563
         }
       ]
     }
