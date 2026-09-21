@@ -828,7 +828,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:44:04",
+      "predicted_at": "15:47:19",
       "venue": "中山",
       "race_num": 12,
       "race_title": "3歳以上1勝クラス",
@@ -1748,102 +1748,102 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:44:04",
+      "predicted_at": "15:47:19",
       "venue": "阪神",
       "race_num": 12,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.8746917628105546,
+      "race_confidence": 0.8737923297499238,
       "skipped": false,
       "horses": [
         {
           "rank": 1,
           "horse_num": 9,
           "horse_name": "エイシンティザー",
-          "ai_score": 0.6604588210104102
+          "ai_score": 0.6604588210156034
         },
         {
           "rank": 2,
           "horse_num": 4,
           "horse_name": "ゴーゴーパンチ",
-          "ai_score": 0.3360889511790136
+          "ai_score": 0.3374507818372147
         },
         {
           "rank": 3,
           "horse_num": 10,
           "horse_name": "リン",
-          "ai_score": 0.3257749891279613
+          "ai_score": 0.3369830033520174
         },
         {
           "rank": 4,
           "horse_num": 7,
           "horse_name": "ディーエストッキー",
-          "ai_score": 0.29837453585355117
+          "ai_score": 0.29885911786487407
         },
         {
           "rank": 5,
           "horse_num": 6,
           "horse_name": "ジャカルタバオ",
-          "ai_score": 0.2436351640920068
+          "ai_score": 0.25617251691004056
         },
         {
           "rank": 6,
           "horse_num": 5,
           "horse_name": "ホットシート",
-          "ai_score": 0.2197297790083031
+          "ai_score": 0.22887167128422437
         },
         {
           "rank": 7,
           "horse_num": 3,
           "horse_name": "メイショウサトノヒ",
-          "ai_score": 0.16162039718943919
+          "ai_score": 0.1632846025463451
         },
         {
           "rank": 8,
           "horse_num": 8,
           "horse_name": "フリッシュ",
-          "ai_score": 0.1201123934361395
+          "ai_score": 0.11473693581463006
         },
         {
           "rank": 9,
           "horse_num": 1,
           "horse_name": "シュネーグロッケン",
-          "ai_score": 0.11121967989577446
+          "ai_score": 0.10374828202460201
         },
         {
           "rank": 10,
           "horse_num": 12,
           "horse_name": "クリノセーラーマン",
-          "ai_score": 0.09809824617851118
+          "ai_score": 0.09920117611910871
         },
         {
           "rank": 11,
           "horse_num": 14,
           "horse_name": "ファイブタンゴ",
-          "ai_score": 0.09612940297892673
+          "ai_score": 0.09676261829394378
         },
         {
           "rank": 12,
           "horse_num": 13,
           "horse_name": "テイクイットオール",
-          "ai_score": 0.0702594243469165
+          "ai_score": 0.0706396483577802
         },
         {
           "rank": 13,
           "horse_num": 2,
           "horse_name": "シャープインサイト",
-          "ai_score": 0.06555149888164678
+          "ai_score": 0.06642782192844907
         },
         {
           "rank": 14,
           "horse_num": 11,
           "horse_name": "ユキノサイエンス",
-          "ai_score": 0.048023605338567754
+          "ai_score": 0.047611371727646505
         },
         {
           "rank": 15,
           "horse_num": 15,
           "horse_name": "プラチナムディスク",
-          "ai_score": 0.03940188494128907
+          "ai_score": 0.038882689233615354
         }
       ]
     }
