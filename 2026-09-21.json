@@ -436,7 +436,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "13:15:16",
+      "predicted_at": "13:18:23",
       "venue": "中山",
       "race_num": 8,
       "race_title": "3歳以上1勝クラス",
@@ -857,120 +857,120 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "13:15:16",
+      "predicted_at": "13:18:23",
       "venue": "阪神",
       "race_num": 7,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.6128912622640723,
+      "race_confidence": 0.6461363425951185,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 12,
           "horse_name": "ケールハイム",
-          "ai_score": 0.5628201649544377
+          "ai_score": 0.5909785167776286
         },
         {
           "rank": 2,
           "horse_num": 2,
           "horse_name": "ダンデノン",
-          "ai_score": 0.47385551793670305
+          "ai_score": 0.49764546954903605
         },
         {
           "rank": 3,
           "horse_num": 6,
           "horse_name": "ヴァージル",
-          "ai_score": 0.3721339676457442
+          "ai_score": 0.3926400448877336
         },
         {
           "rank": 4,
           "horse_num": 10,
           "horse_name": "ペールノエル",
-          "ai_score": 0.2845966054091493
+          "ai_score": 0.2784459005037053
         },
         {
           "rank": 5,
           "horse_num": 17,
           "horse_name": "メイクワンズデイ",
-          "ai_score": 0.2567756993262059
+          "ai_score": 0.25311720220140776
         },
         {
           "rank": 6,
           "horse_num": 5,
           "horse_name": "ベルサンローラン",
-          "ai_score": 0.2227431698807958
+          "ai_score": 0.2095625268991876
         },
         {
           "rank": 7,
           "horse_num": 11,
           "horse_name": "ベルサ",
-          "ai_score": 0.1450027706207346
+          "ai_score": 0.13338922398135308
         },
         {
           "rank": 8,
           "horse_num": 3,
           "horse_name": "ベルセクレト",
-          "ai_score": 0.12961045240978875
+          "ai_score": 0.12759259497014971
         },
         {
           "rank": 9,
           "horse_num": 4,
           "horse_name": "リピ",
-          "ai_score": 0.11608082740361965
+          "ai_score": 0.1118543337296981
         },
         {
           "rank": 10,
-          "horse_num": 16,
-          "horse_name": "ムーンライトダイヤ",
-          "ai_score": 0.09494394729705835
+          "horse_num": 1,
+          "horse_name": "ルクスノア",
+          "ai_score": 0.09225722010080319
         },
         {
           "rank": 11,
-          "horse_num": 1,
-          "horse_name": "ルクスノア",
-          "ai_score": 0.09482797787016593
+          "horse_num": 16,
+          "horse_name": "ムーンライトダイヤ",
+          "ai_score": 0.09148993919304155
         },
         {
           "rank": 12,
           "horse_num": 18,
           "horse_name": "バーケンティン",
-          "ai_score": 0.061761262286727
+          "ai_score": 0.0570330637563383
         },
         {
           "rank": 13,
           "horse_num": 7,
           "horse_name": "ブルーカミング",
-          "ai_score": 0.05129228424527144
+          "ai_score": 0.043508343250723155
         },
         {
           "rank": 14,
           "horse_num": 9,
           "horse_name": "マダムカマラード",
-          "ai_score": 0.03668454052606721
+          "ai_score": 0.0366812651398447
         },
         {
           "rank": 15,
           "horse_num": 8,
           "horse_name": "シャインベック",
-          "ai_score": 0.03245831238378806
+          "ai_score": 0.03137752242729601
         },
         {
           "rank": 16,
           "horse_num": 14,
           "horse_name": "アイスヴィレッジ",
-          "ai_score": 0.03171112759323272
+          "ai_score": 0.030539067318355137
         },
         {
           "rank": 17,
           "horse_num": 15,
           "horse_name": "オーケーダイナ",
-          "ai_score": 0.024423163536232053
+          "ai_score": 0.024384264307388548
         },
         {
           "rank": 18,
           "horse_num": 13,
           "horse_name": "ルディシャ",
-          "ai_score": 0.022867266845133582
+          "ai_score": 0.022846773646335135
         }
       ]
     }
