@@ -436,7 +436,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "13:12:13",
+      "predicted_at": "13:15:16",
       "venue": "中山",
       "race_num": 8,
       "race_title": "3歳以上1勝クラス",
@@ -857,120 +857,120 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "13:12:13",
+      "predicted_at": "13:15:16",
       "venue": "阪神",
       "race_num": 7,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.5255215369036451,
+      "race_confidence": 0.6128912622640723,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 12,
           "horse_name": "ケールハイム",
-          "ai_score": 0.5086094259440685
+          "ai_score": 0.5628201649544377
         },
         {
           "rank": 2,
           "horse_num": 2,
           "horse_name": "ダンデノン",
-          "ai_score": 0.47535775954369713
+          "ai_score": 0.47385551793670305
         },
         {
           "rank": 3,
           "horse_num": 6,
           "horse_name": "ヴァージル",
-          "ai_score": 0.39690166525837295
+          "ai_score": 0.3721339676457442
         },
         {
           "rank": 4,
           "horse_num": 10,
           "horse_name": "ペールノエル",
-          "ai_score": 0.2745652431723226
+          "ai_score": 0.2845966054091493
         },
         {
           "rank": 5,
           "horse_num": 17,
           "horse_name": "メイクワンズデイ",
-          "ai_score": 0.26365387394447587
+          "ai_score": 0.2567756993262059
         },
         {
           "rank": 6,
           "horse_num": 5,
           "horse_name": "ベルサンローラン",
-          "ai_score": 0.22970558927771503
+          "ai_score": 0.2227431698807958
         },
         {
           "rank": 7,
-          "horse_num": 3,
-          "horse_name": "ベルセクレト",
-          "ai_score": 0.13516979279466154
+          "horse_num": 11,
+          "horse_name": "ベルサ",
+          "ai_score": 0.1450027706207346
         },
         {
           "rank": 8,
-          "horse_num": 11,
-          "horse_name": "ベルサ",
-          "ai_score": 0.12774812090469823
+          "horse_num": 3,
+          "horse_name": "ベルセクレト",
+          "ai_score": 0.12961045240978875
         },
         {
           "rank": 9,
           "horse_num": 4,
           "horse_name": "リピ",
-          "ai_score": 0.1177039707367938
+          "ai_score": 0.11608082740361965
         },
         {
           "rank": 10,
-          "horse_num": 1,
-          "horse_name": "ルクスノア",
-          "ai_score": 0.09811630618003495
+          "horse_num": 16,
+          "horse_name": "ムーンライトダイヤ",
+          "ai_score": 0.09494394729705835
         },
         {
           "rank": 11,
-          "horse_num": 16,
-          "horse_name": "ムーンライトダイヤ",
-          "ai_score": 0.09699427117124833
+          "horse_num": 1,
+          "horse_name": "ルクスノア",
+          "ai_score": 0.09482797787016593
         },
         {
           "rank": 12,
           "horse_num": 18,
           "horse_name": "バーケンティン",
-          "ai_score": 0.06363679046849659
+          "ai_score": 0.061761262286727
         },
         {
           "rank": 13,
           "horse_num": 7,
           "horse_name": "ブルーカミング",
-          "ai_score": 0.052718842327883306
+          "ai_score": 0.05129228424527144
         },
         {
           "rank": 14,
           "horse_num": 9,
           "horse_name": "マダムカマラード",
-          "ai_score": 0.03749392004302819
+          "ai_score": 0.03668454052606721
         },
         {
           "rank": 15,
           "horse_num": 8,
           "horse_name": "シャインベック",
-          "ai_score": 0.03302474120092193
+          "ai_score": 0.03245831238378806
         },
         {
           "rank": 16,
           "horse_num": 14,
           "horse_name": "アイスヴィレッジ",
-          "ai_score": 0.03245007773599586
+          "ai_score": 0.03171112759323272
         },
         {
           "rank": 17,
           "horse_num": 15,
           "horse_name": "オーケーダイナ",
-          "ai_score": 0.02507664183817004
+          "ai_score": 0.024423163536232053
         },
         {
           "rank": 18,
           "horse_num": 13,
           "horse_name": "ルディシャ",
-          "ai_score": 0.02316888750882242
+          "ai_score": 0.022867266845133582
         }
       ]
     }
