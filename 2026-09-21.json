@@ -1,0 +1,159 @@
+{
+  "count": 2,
+  "predictions": [
+    {
+      "race_date": "2026-09-21",
+      "predicted_at": "09:34:24",
+      "venue": "中山",
+      "race_num": 1,
+      "race_title": "障害3歳以上未勝利",
+      "race_confidence": 0.05210780885811213,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 14,
+          "horse_name": "グランナヴィール",
+          "ai_score": 0.05203344688971105
+        },
+        {
+          "rank": 2,
+          "horse_num": 2,
+          "horse_name": "カルマンフィルター",
+          "ai_score": 0.0506043282584065
+        },
+        {
+          "rank": 3,
+          "horse_num": 10,
+          "horse_name": "ブランフォルテ",
+          "ai_score": 0.03646605543313536
+        },
+        {
+          "rank": 4,
+          "horse_num": 9,
+          "horse_name": "アバットゥータ",
+          "ai_score": 0.03615298416842341
+        },
+        {
+          "rank": 5,
+          "horse_num": 13,
+          "horse_name": "サトノドルチェ",
+          "ai_score": 0.034930155124139974
+        },
+        {
+          "rank": 6,
+          "horse_num": 5,
+          "horse_name": "ゴーツウキリシマ",
+          "ai_score": 0.030763208465682607
+        },
+        {
+          "rank": 7,
+          "horse_num": 1,
+          "horse_name": "アドアプローズ",
+          "ai_score": 0.03057719425225462
+        },
+        {
+          "rank": 8,
+          "horse_num": 3,
+          "horse_name": "コトブキヘスペラス",
+          "ai_score": 0.030233554306860817
+        },
+        {
+          "rank": 9,
+          "horse_num": 8,
+          "horse_name": "バンデルオーラ",
+          "ai_score": 0.029538282924148108
+        },
+        {
+          "rank": 10,
+          "horse_num": 6,
+          "horse_name": "シュハリ",
+          "ai_score": 0.02807258197782157
+        },
+        {
+          "rank": 11,
+          "horse_num": 12,
+          "horse_name": "ニシノブレイゼスト",
+          "ai_score": 0.02667651313868651
+        },
+        {
+          "rank": 12,
+          "horse_num": 4,
+          "horse_name": "テンプーシャオン",
+          "ai_score": 0.02636658577387912
+        },
+        {
+          "rank": 13,
+          "horse_num": 11,
+          "horse_name": "ロイガヴェーグル",
+          "ai_score": 0.025539577035569402
+        },
+        {
+          "rank": 14,
+          "horse_num": 7,
+          "horse_name": "アルシミスト",
+          "ai_score": 0.024551279363208015
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-21",
+      "predicted_at": "09:34:24",
+      "venue": "阪神",
+      "race_num": 1,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.7433190904375779,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 3,
+          "horse_name": "ポカポカヨウキ",
+          "ai_score": 0.7206097215860839
+        },
+        {
+          "rank": 2,
+          "horse_num": 8,
+          "horse_name": "エコロラーダ",
+          "ai_score": 0.6890956187767157
+        },
+        {
+          "rank": 3,
+          "horse_num": 6,
+          "horse_name": "ランズエンド",
+          "ai_score": 0.5528995875700105
+        },
+        {
+          "rank": 4,
+          "horse_num": 5,
+          "horse_name": "ガヤーズサムライ",
+          "ai_score": 0.5314805818492159
+        },
+        {
+          "rank": 5,
+          "horse_num": 1,
+          "horse_name": "ハイネスプラウド",
+          "ai_score": 0.3511963242148367
+        },
+        {
+          "rank": 6,
+          "horse_num": 2,
+          "horse_name": "マコトブリッツ",
+          "ai_score": 0.3383051874949642
+        },
+        {
+          "rank": 7,
+          "horse_num": 4,
+          "horse_name": "ワンダーラヴグッド",
+          "ai_score": 0.16510460028888904
+        },
+        {
+          "rank": 8,
+          "horse_num": 7,
+          "horse_name": "ゴルディアス",
+          "ai_score": 0.16288391636481067
+        }
+      ]
+    }
+  ]
+}
