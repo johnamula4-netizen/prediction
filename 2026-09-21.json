@@ -3,7 +3,7 @@
   "predictions": [
     {
       "race_date": "2026-09-21",
-      "predicted_at": "09:34:24",
+      "predicted_at": "09:38:07",
       "venue": "中山",
       "race_num": 1,
       "race_title": "障害3歳以上未勝利",
@@ -98,11 +98,11 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "09:34:24",
+      "predicted_at": "09:38:07",
       "venue": "阪神",
       "race_num": 1,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.7433190904375779,
+      "race_confidence": 0.7435756329194428,
       "skipped": false,
       "horses": [
         {
@@ -115,43 +115,43 @@
           "rank": 2,
           "horse_num": 8,
           "horse_name": "エコロラーダ",
-          "ai_score": 0.6890956187767157
+          "ai_score": 0.6887396112539472
         },
         {
           "rank": 3,
           "horse_num": 6,
           "horse_name": "ランズエンド",
-          "ai_score": 0.5528995875700105
+          "ai_score": 0.5547957462888319
         },
         {
           "rank": 4,
           "horse_num": 5,
           "horse_name": "ガヤーズサムライ",
-          "ai_score": 0.5314805818492159
+          "ai_score": 0.5391200770346797
         },
         {
           "rank": 5,
           "horse_num": 1,
           "horse_name": "ハイネスプラウド",
-          "ai_score": 0.3511963242148367
+          "ai_score": 0.352110991253052
         },
         {
           "rank": 6,
           "horse_num": 2,
           "horse_name": "マコトブリッツ",
-          "ai_score": 0.3383051874949642
+          "ai_score": 0.35180742068884835
         },
         {
           "rank": 7,
-          "horse_num": 4,
-          "horse_name": "ワンダーラヴグッド",
-          "ai_score": 0.16510460028888904
+          "horse_num": 7,
+          "horse_name": "ゴルディアス",
+          "ai_score": 0.16146834249308595
         },
         {
           "rank": 8,
-          "horse_num": 7,
-          "horse_name": "ゴルディアス",
-          "ai_score": 0.16288391636481067
+          "horse_num": 4,
+          "horse_name": "ワンダーラヴグッド",
+          "ai_score": 0.1547163684957974
         }
       ]
     }
