@@ -341,7 +341,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "12:39:37",
+      "predicted_at": "12:45:38",
       "venue": "中山",
       "race_num": 7,
       "race_title": "3歳以上1勝クラス",
@@ -655,102 +655,102 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "12:39:37",
+      "predicted_at": "12:45:38",
       "venue": "阪神",
       "race_num": 6,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.6005195069435348,
+      "race_confidence": 0.6190138718186085,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 11,
           "horse_name": "メイショウジンライ",
-          "ai_score": 0.5532909952279054
+          "ai_score": 0.5674019574796056
         },
         {
           "rank": 2,
           "horse_num": 6,
           "horse_name": "エイユーファイヤー",
-          "ai_score": 0.4679317319776953
+          "ai_score": 0.4764401381579691
         },
         {
           "rank": 3,
           "horse_num": 8,
           "horse_name": "ルシタニア",
-          "ai_score": 0.3491785178208336
+          "ai_score": 0.341412595324814
         },
         {
           "rank": 4,
           "horse_num": 13,
           "horse_name": "カイラーサ",
-          "ai_score": 0.2851237707121003
+          "ai_score": 0.26759155293942805
         },
         {
           "rank": 5,
           "horse_num": 4,
           "horse_name": "ゴールドコット",
-          "ai_score": 0.2527648851642472
+          "ai_score": 0.25824776391519155
         },
         {
           "rank": 6,
           "horse_num": 14,
           "horse_name": "フィサブロス",
-          "ai_score": 0.23171533068021535
+          "ai_score": 0.23409157743356612
         },
         {
           "rank": 7,
           "horse_num": 5,
           "horse_name": "ジーティーアメリカ",
-          "ai_score": 0.1602922171306194
+          "ai_score": 0.22695126708933436
         },
         {
           "rank": 8,
-          "horse_num": 15,
-          "horse_name": "クラッチスラッガー",
-          "ai_score": 0.12742514385147002
+          "horse_num": 10,
+          "horse_name": "ロットブラータ",
+          "ai_score": 0.14164319982088477
         },
         {
           "rank": 9,
-          "horse_num": 10,
-          "horse_name": "ロットブラータ",
-          "ai_score": 0.12405787764331283
+          "horse_num": 15,
+          "horse_name": "クラッチスラッガー",
+          "ai_score": 0.12635465056517103
         },
         {
           "rank": 10,
-          "horse_num": 3,
-          "horse_name": "ドメイン",
-          "ai_score": 0.11106366868439786
+          "horse_num": 7,
+          "horse_name": "クイノールト",
+          "ai_score": 0.08536310786063611
         },
         {
           "rank": 11,
-          "horse_num": 7,
-          "horse_name": "クイノールト",
-          "ai_score": 0.08547960326947274
+          "horse_num": 12,
+          "horse_name": "ディープサミット",
+          "ai_score": 0.08212474397449684
         },
         {
           "rank": 12,
-          "horse_num": 12,
-          "horse_name": "ディープサミット",
-          "ai_score": 0.07622108452878665
+          "horse_num": 3,
+          "horse_name": "ドメイン",
+          "ai_score": 0.07284541814390093
         },
         {
           "rank": 13,
-          "horse_num": 9,
-          "horse_name": "マジックブルー",
-          "ai_score": 0.05474386615631328
+          "horse_num": 2,
+          "horse_name": "スコーピオンイメル",
+          "ai_score": 0.05054283306798972
         },
         {
           "rank": 14,
-          "horse_num": 2,
-          "horse_name": "スコーピオンイメル",
-          "ai_score": 0.05148686944659914
+          "horse_num": 1,
+          "horse_name": "ビゾー",
+          "ai_score": 0.04748165847813224
         },
         {
           "rank": 15,
-          "horse_num": 1,
-          "horse_name": "ビゾー",
-          "ai_score": 0.037285987019670626
+          "horse_num": 9,
+          "horse_name": "マジックブルー",
+          "ai_score": 0.04169015064016471
         }
       ]
     }
