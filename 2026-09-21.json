@@ -828,7 +828,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:47:19",
+      "predicted_at": "15:49:57",
       "venue": "中山",
       "race_num": 12,
       "race_title": "3歳以上1勝クラス",
@@ -1748,7 +1748,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:47:19",
+      "predicted_at": "15:49:57",
       "venue": "阪神",
       "race_num": 12,
       "race_title": "3歳以上1勝クラス",
@@ -1771,55 +1771,55 @@
           "rank": 3,
           "horse_num": 10,
           "horse_name": "リン",
-          "ai_score": 0.3369830033520174
+          "ai_score": 0.33539243574320243
         },
         {
           "rank": 4,
           "horse_num": 7,
           "horse_name": "ディーエストッキー",
-          "ai_score": 0.29885911786487407
+          "ai_score": 0.2964477129725083
         },
         {
           "rank": 5,
           "horse_num": 6,
           "horse_name": "ジャカルタバオ",
-          "ai_score": 0.25617251691004056
+          "ai_score": 0.2573749015342193
         },
         {
           "rank": 6,
           "horse_num": 5,
           "horse_name": "ホットシート",
-          "ai_score": 0.22887167128422437
+          "ai_score": 0.2093450925040862
         },
         {
           "rank": 7,
           "horse_num": 3,
           "horse_name": "メイショウサトノヒ",
-          "ai_score": 0.1632846025463451
+          "ai_score": 0.16072874306520543
         },
         {
           "rank": 8,
           "horse_num": 8,
           "horse_name": "フリッシュ",
-          "ai_score": 0.11473693581463006
+          "ai_score": 0.11469710462986529
         },
         {
           "rank": 9,
           "horse_num": 1,
           "horse_name": "シュネーグロッケン",
-          "ai_score": 0.10374828202460201
+          "ai_score": 0.10354315023960753
         },
         {
           "rank": 10,
           "horse_num": 12,
           "horse_name": "クリノセーラーマン",
-          "ai_score": 0.09920117611910871
+          "ai_score": 0.09844882380922582
         },
         {
           "rank": 11,
           "horse_num": 14,
           "horse_name": "ファイブタンゴ",
-          "ai_score": 0.09676261829394378
+          "ai_score": 0.09530840701480942
         },
         {
           "rank": 12,
@@ -1831,13 +1831,13 @@
           "rank": 13,
           "horse_num": 2,
           "horse_name": "シャープインサイト",
-          "ai_score": 0.06642782192844907
+          "ai_score": 0.0661526430121248
         },
         {
           "rank": 14,
           "horse_num": 11,
           "horse_name": "ユキノサイエンス",
-          "ai_score": 0.047611371727646505
+          "ai_score": 0.0475395059423546
         },
         {
           "rank": 15,
