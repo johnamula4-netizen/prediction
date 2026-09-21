@@ -98,7 +98,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "09:49:55",
+      "predicted_at": "09:53:06",
       "venue": "中山",
       "race_num": 2,
       "race_title": "2歳未勝利",
@@ -193,60 +193,60 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "09:49:55",
+      "predicted_at": "09:53:06",
       "venue": "阪神",
       "race_num": 1,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.7171607678337736,
+      "race_confidence": 0.728759211624474,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 3,
           "horse_name": "ポカポカヨウキ",
-          "ai_score": 0.71392836979173
+          "ai_score": 0.7206097215872902
         },
         {
           "rank": 2,
           "horse_num": 8,
           "horse_name": "エコロラーダ",
-          "ai_score": 0.7094007474435853
+          "ai_score": 0.7093005624224196
         },
         {
           "rank": 3,
-          "horse_num": 5,
-          "horse_name": "ガヤーズサムライ",
-          "ai_score": 0.5576553595751121
+          "horse_num": 6,
+          "horse_name": "ランズエンド",
+          "ai_score": 0.5716456532747759
         },
         {
           "rank": 4,
-          "horse_num": 6,
-          "horse_name": "ランズエンド",
-          "ai_score": 0.539681116760796
+          "horse_num": 5,
+          "horse_name": "ガヤーズサムライ",
+          "ai_score": 0.5561783073042399
         },
         {
           "rank": 5,
           "horse_num": 2,
           "horse_name": "マコトブリッツ",
-          "ai_score": 0.33711210313794604
+          "ai_score": 0.3102691903469535
         },
         {
           "rank": 6,
           "horse_num": 1,
           "horse_name": "ハイネスプラウド",
-          "ai_score": 0.32121884320335975
+          "ai_score": 0.30029433132959327
         },
         {
           "rank": 7,
           "horse_num": 7,
           "horse_name": "ゴルディアス",
-          "ai_score": 0.1584288640174591
+          "ai_score": 0.15803345833474966
         },
         {
           "rank": 8,
           "horse_num": 4,
           "horse_name": "ワンダーラヴグッド",
-          "ai_score": 0.15810260424691513
+          "ai_score": 0.15553201198806307
         }
       ]
     }
