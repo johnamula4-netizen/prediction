@@ -828,7 +828,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:29:16",
+      "predicted_at": "15:32:03",
       "venue": "中山",
       "race_num": 12,
       "race_title": "3歳以上1勝クラス",
@@ -1671,78 +1671,78 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:29:16",
+      "predicted_at": "15:32:03",
       "venue": "阪神",
       "race_num": 11,
       "race_title": "神戸新聞杯",
-      "race_confidence": 0.9561009712981315,
+      "race_confidence": 0.9560465211912494,
       "skipped": false,
       "horses": [
         {
           "rank": 1,
           "horse_num": 1,
           "horse_name": "ロブチェン",
-          "ai_score": 0.707905730159882
+          "ai_score": 0.7079057301600898
         },
         {
           "rank": 2,
           "horse_num": 9,
           "horse_name": "グリーンエナジー",
-          "ai_score": 0.3573007970959923
+          "ai_score": 0.35737771426870313
         },
         {
           "rank": 3,
           "horse_num": 4,
           "horse_name": "アルトラムス",
-          "ai_score": 0.31794639883384374
+          "ai_score": 0.3150437000404597
         },
         {
           "rank": 4,
           "horse_num": 3,
           "horse_name": "ゴーラッキー",
-          "ai_score": 0.27849758834566685
+          "ai_score": 0.27807642608942107
         },
         {
           "rank": 5,
           "horse_num": 7,
           "horse_name": "コンジェスタス",
-          "ai_score": 0.2520717341556239
+          "ai_score": 0.25187314193199095
         },
         {
           "rank": 6,
           "horse_num": 2,
           "horse_name": "エイシンインアウト",
-          "ai_score": 0.24246944372202062
+          "ai_score": 0.24350592475272576
         },
         {
           "rank": 7,
           "horse_num": 6,
           "horse_name": "エムズビギン",
-          "ai_score": 0.11499261336245284
+          "ai_score": 0.10441917639639539
         },
         {
           "rank": 8,
           "horse_num": 10,
           "horse_name": "カフジエメンタール",
-          "ai_score": 0.10562740342952441
+          "ai_score": 0.0903036546550354
         },
         {
           "rank": 9,
           "horse_num": 5,
           "horse_name": "カムアップローゼス",
-          "ai_score": 0.08729115396781381
+          "ai_score": 0.08300473172690127
         },
         {
           "rank": 10,
           "horse_num": 11,
           "horse_name": "ショウナンハヤナミ",
-          "ai_score": 0.06621715675745744
+          "ai_score": 0.06503384246320776
         },
         {
           "rank": 11,
           "horse_num": 8,
           "horse_name": "シートゥサミット",
-          "ai_score": 0.047102327676623236
+          "ai_score": 0.04685885612711216
         }
       ]
     }
