@@ -193,7 +193,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "10:21:57",
+      "predicted_at": "10:27:26",
       "venue": "中山",
       "race_num": 3,
       "race_title": "2歳未勝利",
@@ -329,72 +329,72 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "10:21:57",
+      "predicted_at": "10:27:26",
       "venue": "阪神",
       "race_num": 2,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.6709746704932631,
+      "race_confidence": 0.6793833814147592,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 5,
           "horse_name": "リアンフィニ",
-          "ai_score": 0.6473437588326248
+          "ai_score": 0.6499516153421117
         },
         {
           "rank": 2,
           "horse_num": 1,
           "horse_name": "マリアンデール",
-          "ai_score": 0.6108393338834254
+          "ai_score": 0.6046686044565157
         },
         {
           "rank": 3,
           "horse_num": 9,
           "horse_name": "ラガッタレアーレ",
-          "ai_score": 0.5732050933592399
+          "ai_score": 0.578520175045937
         },
         {
           "rank": 4,
           "horse_num": 3,
           "horse_name": "ハマナスノサクコロ",
-          "ai_score": 0.45558316478835637
+          "ai_score": 0.40434839736375255
         },
         {
           "rank": 5,
           "horse_num": 8,
           "horse_name": "パルフェクシオン",
-          "ai_score": 0.40025756476883256
+          "ai_score": 0.3637115324846783
         },
         {
           "rank": 6,
           "horse_num": 7,
           "horse_name": "イテルム",
-          "ai_score": 0.32254419118822486
+          "ai_score": 0.32843872336383284
         },
         {
           "rank": 7,
           "horse_num": 2,
           "horse_name": "ジーティーハルカゼ",
-          "ai_score": 0.15299644258352454
+          "ai_score": 0.15228341102123424
         },
         {
           "rank": 8,
           "horse_num": 10,
           "horse_name": "スターリーデー",
-          "ai_score": 0.09024321036391798
+          "ai_score": 0.09554947741555071
         },
         {
           "rank": 9,
           "horse_num": 6,
           "horse_name": "ルージュムーサ",
-          "ai_score": 0.06036821681781647
+          "ai_score": 0.0595569887591473
         },
         {
           "rank": 10,
           "horse_num": 4,
           "horse_name": "ドリームリボン",
-          "ai_score": 0.03222118712062287
+          "ai_score": 0.03178858878445626
         }
       ]
     }
