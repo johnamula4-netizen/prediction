@@ -721,7 +721,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:08:07",
+      "predicted_at": "15:11:10",
       "venue": "中山",
       "race_num": 11,
       "race_title": "JRAアニバーサリーステークス",
@@ -1564,11 +1564,11 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:08:07",
+      "predicted_at": "15:11:10",
       "venue": "阪神",
       "race_num": 11,
       "race_title": "神戸新聞杯",
-      "race_confidence": 0.9770933554294015,
+      "race_confidence": 0.9771616362257995,
       "skipped": false,
       "horses": [
         {
@@ -1581,7 +1581,7 @@
           "rank": 2,
           "horse_num": 9,
           "horse_name": "グリーンエナジー",
-          "ai_score": 0.32764658857329293
+          "ai_score": 0.3275501339275834
         },
         {
           "rank": 3,
@@ -1599,13 +1599,13 @@
           "rank": 5,
           "horse_num": 2,
           "horse_name": "エイシンインアウト",
-          "ai_score": 0.2620658535801989
+          "ai_score": 0.2615763831260915
         },
         {
           "rank": 6,
           "horse_num": 7,
           "horse_name": "コンジェスタス",
-          "ai_score": 0.2539566261221399
+          "ai_score": 0.2517420055262762
         },
         {
           "rank": 7,
@@ -1623,19 +1623,19 @@
           "rank": 9,
           "horse_num": 5,
           "horse_name": "カムアップローゼス",
-          "ai_score": 0.08244791891930281
+          "ai_score": 0.08243156064858284
         },
         {
           "rank": 10,
           "horse_num": 11,
           "horse_name": "ショウナンハヤナミ",
-          "ai_score": 0.06658778896491017
+          "ai_score": 0.06584755413193932
         },
         {
           "rank": 11,
           "horse_num": 8,
           "horse_name": "シートゥサミット",
-          "ai_score": 0.060982136534849705
+          "ai_score": 0.0492624221744417
         }
       ]
     }
