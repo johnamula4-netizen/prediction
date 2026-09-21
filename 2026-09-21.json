@@ -721,7 +721,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:02:46",
+      "predicted_at": "15:05:05",
       "venue": "中山",
       "race_num": 11,
       "race_title": "JRAアニバーサリーステークス",
@@ -1564,11 +1564,11 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "15:02:46",
+      "predicted_at": "15:05:05",
       "venue": "阪神",
       "race_num": 11,
       "race_title": "神戸新聞杯",
-      "race_confidence": 0.9680892150341239,
+      "race_confidence": 0.9770933554294015,
       "skipped": false,
       "horses": [
         {
@@ -1581,7 +1581,7 @@
           "rank": 2,
           "horse_num": 9,
           "horse_name": "グリーンエナジー",
-          "ai_score": 0.3403659945784913
+          "ai_score": 0.32764658857329293
         },
         {
           "rank": 3,
@@ -1593,7 +1593,7 @@
           "rank": 4,
           "horse_num": 3,
           "horse_name": "ゴーラッキー",
-          "ai_score": 0.27433876481433417
+          "ai_score": 0.2738624661634335
         },
         {
           "rank": 5,
@@ -1605,7 +1605,7 @@
           "rank": 6,
           "horse_num": 7,
           "horse_name": "コンジェスタス",
-          "ai_score": 0.25066878406614124
+          "ai_score": 0.25141984581930044
         },
         {
           "rank": 7,
@@ -1617,25 +1617,25 @@
           "rank": 8,
           "horse_num": 10,
           "horse_name": "カフジエメンタール",
-          "ai_score": 0.09238619889098591
+          "ai_score": 0.09250958775569558
         },
         {
           "rank": 9,
           "horse_num": 5,
           "horse_name": "カムアップローゼス",
-          "ai_score": 0.08253661906832538
+          "ai_score": 0.08251850767274821
         },
         {
           "rank": 10,
           "horse_num": 11,
           "horse_name": "ショウナンハヤナミ",
-          "ai_score": 0.06724805289793445
+          "ai_score": 0.06672318179749243
         },
         {
           "rank": 11,
           "horse_num": 8,
           "horse_name": "シートゥサミット",
-          "ai_score": 0.06106242579817287
+          "ai_score": 0.060982136534849705
         }
       ]
     }
