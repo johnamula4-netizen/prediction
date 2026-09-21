@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 10,
   "predictions": [
     {
       "race_date": "2026-09-21",
@@ -341,7 +341,7 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "12:51:10",
+      "predicted_at": "12:54:32",
       "venue": "中山",
       "race_num": 7,
       "race_title": "3歳以上1勝クラス",
@@ -751,6 +751,125 @@
           "horse_num": 9,
           "horse_name": "マジックブルー",
           "ai_score": 0.03964227384632309
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-21",
+      "predicted_at": "12:54:32",
+      "venue": "阪神",
+      "race_num": 7,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.5429118521681184,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 12,
+          "horse_name": "ケールハイム",
+          "ai_score": 0.5015101888104823
+        },
+        {
+          "rank": 2,
+          "horse_num": 2,
+          "horse_name": "ダンデノン",
+          "ai_score": 0.41895620629651653
+        },
+        {
+          "rank": 3,
+          "horse_num": 6,
+          "horse_name": "ヴァージル",
+          "ai_score": 0.3305000109113887
+        },
+        {
+          "rank": 4,
+          "horse_num": 5,
+          "horse_name": "ベルサンローラン",
+          "ai_score": 0.2637520074743729
+        },
+        {
+          "rank": 5,
+          "horse_num": 17,
+          "horse_name": "メイクワンズデイ",
+          "ai_score": 0.2556821857880903
+        },
+        {
+          "rank": 6,
+          "horse_num": 10,
+          "horse_name": "ペールノエル",
+          "ai_score": 0.23181443035746532
+        },
+        {
+          "rank": 7,
+          "horse_num": 3,
+          "horse_name": "ベルセクレト",
+          "ai_score": 0.1483282045303322
+        },
+        {
+          "rank": 8,
+          "horse_num": 11,
+          "horse_name": "ベルサ",
+          "ai_score": 0.13446543225700955
+        },
+        {
+          "rank": 9,
+          "horse_num": 4,
+          "horse_name": "リピ",
+          "ai_score": 0.11870762905582687
+        },
+        {
+          "rank": 10,
+          "horse_num": 16,
+          "horse_name": "ムーンライトダイヤ",
+          "ai_score": 0.09989637749172477
+        },
+        {
+          "rank": 11,
+          "horse_num": 1,
+          "horse_name": "ルクスノア",
+          "ai_score": 0.09964606512624043
+        },
+        {
+          "rank": 12,
+          "horse_num": 18,
+          "horse_name": "バーケンティン",
+          "ai_score": 0.07429867473572328
+        },
+        {
+          "rank": 13,
+          "horse_num": 7,
+          "horse_name": "ブルーカミング",
+          "ai_score": 0.054125590175609674
+        },
+        {
+          "rank": 14,
+          "horse_num": 14,
+          "horse_name": "アイスヴィレッジ",
+          "ai_score": 0.03976550122392868
+        },
+        {
+          "rank": 15,
+          "horse_num": 9,
+          "horse_name": "マダムカマラード",
+          "ai_score": 0.03923399461951979
+        },
+        {
+          "rank": 16,
+          "horse_num": 8,
+          "horse_name": "シャインベック",
+          "ai_score": 0.03350143085679974
+        },
+        {
+          "rank": 17,
+          "horse_num": 15,
+          "horse_name": "オーケーダイナ",
+          "ai_score": 0.027244517552651205
+        },
+        {
+          "rank": 18,
+          "horse_num": 13,
+          "horse_name": "ルディシャ",
+          "ai_score": 0.02380078987700803
         }
       ]
     }
