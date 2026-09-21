@@ -3,7 +3,7 @@
   "predictions": [
     {
       "race_date": "2026-09-21",
-      "predicted_at": "09:38:07",
+      "predicted_at": "09:41:09",
       "venue": "中山",
       "race_num": 1,
       "race_title": "障害3歳以上未勝利",
@@ -98,60 +98,60 @@
     },
     {
       "race_date": "2026-09-21",
-      "predicted_at": "09:38:07",
+      "predicted_at": "09:41:09",
       "venue": "阪神",
       "race_num": 1,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.7435756329194428,
+      "race_confidence": 0.7432721190664954,
       "skipped": false,
       "horses": [
         {
           "rank": 1,
           "horse_num": 3,
           "horse_name": "ポカポカヨウキ",
-          "ai_score": 0.7206097215860839
+          "ai_score": 0.7206097215861137
         },
         {
           "rank": 2,
           "horse_num": 8,
           "horse_name": "エコロラーダ",
-          "ai_score": 0.6887396112539472
+          "ai_score": 0.6891608015930554
         },
         {
           "rank": 3,
-          "horse_num": 6,
-          "horse_name": "ランズエンド",
-          "ai_score": 0.5547957462888319
+          "horse_num": 5,
+          "horse_name": "ガヤーズサムライ",
+          "ai_score": 0.5743593893910113
         },
         {
           "rank": 4,
-          "horse_num": 5,
-          "horse_name": "ガヤーズサムライ",
-          "ai_score": 0.5391200770346797
+          "horse_num": 6,
+          "horse_name": "ランズエンド",
+          "ai_score": 0.5555933004835534
         },
         {
           "rank": 5,
-          "horse_num": 1,
-          "horse_name": "ハイネスプラウド",
-          "ai_score": 0.352110991253052
+          "horse_num": 2,
+          "horse_name": "マコトブリッツ",
+          "ai_score": 0.3561589062255604
         },
         {
           "rank": 6,
-          "horse_num": 2,
-          "horse_name": "マコトブリッツ",
-          "ai_score": 0.35180742068884835
+          "horse_num": 1,
+          "horse_name": "ハイネスプラウド",
+          "ai_score": 0.3395348369487571
         },
         {
           "rank": 7,
           "horse_num": 7,
           "horse_name": "ゴルディアス",
-          "ai_score": 0.16146834249308595
+          "ai_score": 0.1609799911712325
         },
         {
           "rank": 8,
           "horse_num": 4,
           "horse_name": "ワンダーラヴグッド",
-          "ai_score": 0.1547163684957974
+          "ai_score": 0.14669429094541458
         }
       ]
     }
