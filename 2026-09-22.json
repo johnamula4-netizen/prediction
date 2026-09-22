@@ -644,78 +644,78 @@
     },
     {
       "race_date": "2026-09-22",
-      "predicted_at": "14:41:24",
+      "predicted_at": "14:44:04",
       "venue": "中山",
       "race_num": 10,
       "race_title": "2006メモリアル ディープインパクトカップ",
-      "race_confidence": 0.6689818561204118,
+      "race_confidence": 0.6674244974555292,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 5,
           "horse_name": "デイトナチャンプ",
-          "ai_score": 0.6109795274466266
+          "ai_score": 0.6103562381198023
         },
         {
           "rank": 2,
           "horse_num": 9,
           "horse_name": "アルデトップガン",
-          "ai_score": 0.5160461850543121
+          "ai_score": 0.5168563182836011
         },
         {
           "rank": 3,
           "horse_num": 11,
           "horse_name": "プリムツァール",
-          "ai_score": 0.39940467207099806
+          "ai_score": 0.41090286003458987
         },
         {
           "rank": 4,
           "horse_num": 7,
           "horse_name": "アロンソア",
-          "ai_score": 0.3285770663633667
+          "ai_score": 0.3557208009082601
         },
         {
           "rank": 5,
           "horse_num": 2,
           "horse_name": "レッドレナート",
-          "ai_score": 0.22765415036856942
+          "ai_score": 0.22825397854189808
         },
         {
           "rank": 6,
           "horse_num": 6,
           "horse_name": "セブンマイスター",
-          "ai_score": 0.19027241560477606
+          "ai_score": 0.19067962616531087
         },
         {
           "rank": 7,
           "horse_num": 8,
           "horse_name": "ロゼル",
-          "ai_score": 0.17939926956779323
+          "ai_score": 0.15185777533269396
         },
         {
           "rank": 8,
           "horse_num": 1,
           "horse_name": "フミサウンド",
-          "ai_score": 0.14712087622686473
+          "ai_score": 0.14497099479283118
         },
         {
           "rank": 9,
           "horse_num": 3,
           "horse_name": "ジャルディニエ",
-          "ai_score": 0.0982140296144572
+          "ai_score": 0.07881384749350147
         },
         {
           "rank": 10,
           "horse_num": 4,
           "horse_name": "エリム",
-          "ai_score": 0.0544382701932097
+          "ai_score": 0.05386948351367616
         },
         {
           "rank": 11,
           "horse_num": 10,
           "horse_name": "サヴァビアン",
-          "ai_score": 0.040199122565090145
+          "ai_score": 0.04010670277582667
         }
       ]
     }
