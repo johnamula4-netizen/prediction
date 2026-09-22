@@ -3,11 +3,11 @@
   "predictions": [
     {
       "race_date": "2026-09-22",
-      "predicted_at": "09:02:09",
+      "predicted_at": "09:04:55",
       "venue": "中山",
       "race_num": 1,
       "race_title": "障害3歳以上未勝利",
-      "race_confidence": 0.6391710057132605,
+      "race_confidence": 0.6331704022688857,
       "skipped": true,
       "horses": [
         {
@@ -20,7 +20,7 @@
           "rank": 2,
           "horse_num": 9,
           "horse_name": "アバットゥータ",
-          "ai_score": 0.3751939939094151
+          "ai_score": 0.3861851545680651
         },
         {
           "rank": 3,
@@ -32,25 +32,25 @@
           "rank": 4,
           "horse_num": 2,
           "horse_name": "カルマンフィルター",
-          "ai_score": 0.27028064331309387
+          "ai_score": 0.2711965108075091
         },
         {
           "rank": 5,
           "horse_num": 8,
           "horse_name": "バンデルオーラ",
-          "ai_score": 0.20637234268895255
+          "ai_score": 0.2062428738558643
         },
         {
           "rank": 6,
           "horse_num": 5,
           "horse_name": "ゴーツウキリシマ",
-          "ai_score": 0.19750112797916722
+          "ai_score": 0.1964126317153639
         },
         {
           "rank": 7,
           "horse_num": 7,
           "horse_name": "アルシミスト",
-          "ai_score": 0.17440101019038984
+          "ai_score": 0.1716318504699943
         },
         {
           "rank": 8,
@@ -68,7 +68,7 @@
           "rank": 10,
           "horse_num": 12,
           "horse_name": "ニシノブレイゼスト",
-          "ai_score": 0.09104714177626963
+          "ai_score": 0.09806179864429038
         },
         {
           "rank": 11,
@@ -80,7 +80,7 @@
           "rank": 12,
           "horse_num": 3,
           "horse_name": "コトブキヘスペラス",
-          "ai_score": 0.055812001626144
+          "ai_score": 0.055998888061620275
         },
         {
           "rank": 13,
