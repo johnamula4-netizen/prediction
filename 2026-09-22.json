@@ -98,96 +98,96 @@
     },
     {
       "race_date": "2026-09-22",
-      "predicted_at": "10:02:19",
+      "predicted_at": "10:05:12",
       "venue": "中山",
       "race_num": 2,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.6229435550984488,
+      "race_confidence": 0.6458781562331158,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 8,
           "horse_name": "バタフライ",
-          "ai_score": 0.5928389748448484
+          "ai_score": 0.6062145451859636
         },
         {
           "rank": 2,
           "horse_num": 4,
           "horse_name": "スペシャルサンクス",
-          "ai_score": 0.5420586086223355
+          "ai_score": 0.5407862057273896
         },
         {
           "rank": 3,
           "horse_num": 13,
           "horse_name": "トーセンルルド",
-          "ai_score": 0.46370409035210874
+          "ai_score": 0.4485490147614765
         },
         {
           "rank": 4,
           "horse_num": 9,
           "horse_name": "ニシノムホウモノ",
-          "ai_score": 0.36211693824625374
+          "ai_score": 0.38596342443574383
         },
         {
           "rank": 5,
           "horse_num": 12,
           "horse_name": "ダンシングアワー",
-          "ai_score": 0.22615894733778383
+          "ai_score": 0.22604906493709157
         },
         {
           "rank": 6,
-          "horse_num": 10,
-          "horse_name": "ニシノアトール",
-          "ai_score": 0.17525812711816996
+          "horse_num": 7,
+          "horse_name": "シジマ",
+          "ai_score": 0.1915891083543573
         },
         {
           "rank": 7,
-          "horse_num": 7,
-          "horse_name": "シジマ",
-          "ai_score": 0.1676356004916886
+          "horse_num": 10,
+          "horse_name": "ニシノアトール",
+          "ai_score": 0.1838102058043437
         },
         {
           "rank": 8,
           "horse_num": 2,
           "horse_name": "ゴータマ",
-          "ai_score": 0.12516057972183006
+          "ai_score": 0.12457697550635977
         },
         {
           "rank": 9,
           "horse_num": 5,
           "horse_name": "ナリタライズ",
-          "ai_score": 0.09461180554236115
+          "ai_score": 0.09450302872308994
         },
         {
           "rank": 10,
-          "horse_num": 14,
-          "horse_name": "タワーウマザンマイ",
-          "ai_score": 0.0656378224661171
+          "horse_num": 3,
+          "horse_name": "ナナレイ",
+          "ai_score": 0.06469208659889876
         },
         {
           "rank": 11,
-          "horse_num": 3,
-          "horse_name": "ナナレイ",
-          "ai_score": 0.06531166712143174
+          "horse_num": 14,
+          "horse_name": "タワーウマザンマイ",
+          "ai_score": 0.06326692156495814
         },
         {
           "rank": 12,
           "horse_num": 6,
           "horse_name": "ニシノタカオ",
-          "ai_score": 0.05251401613665483
+          "ai_score": 0.05226074156944275
         },
         {
           "rank": 13,
           "horse_num": 1,
           "horse_name": "スノーキャップ",
-          "ai_score": 0.0480615460119912
+          "ai_score": 0.04774540614366586
         },
         {
           "rank": 14,
           "horse_num": 11,
           "horse_name": "ハミングリップス",
-          "ai_score": 0.04136181678923425
+          "ai_score": 0.04081982508997731
         }
       ]
     }
