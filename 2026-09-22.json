@@ -193,11 +193,11 @@
     },
     {
       "race_date": "2026-09-22",
-      "predicted_at": "10:17:04",
+      "predicted_at": "10:19:56",
       "venue": "中山",
       "race_num": 3,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.8160544041945806,
+      "race_confidence": 0.7960603233433975,
       "skipped": false,
       "horses": [
         {
@@ -208,39 +208,39 @@
         },
         {
           "rank": 2,
-          "horse_num": 6,
-          "horse_name": "ベアアミーチ",
-          "ai_score": 0.5443898763439522
+          "horse_num": 8,
+          "horse_name": "ギムナシオン",
+          "ai_score": 0.57279729650087
         },
         {
           "rank": 3,
-          "horse_num": 8,
-          "horse_name": "ギムナシオン",
-          "ai_score": 0.525936478452413
+          "horse_num": 6,
+          "horse_name": "ベアアミーチ",
+          "ai_score": 0.5424729838002522
         },
         {
           "rank": 4,
           "horse_num": 7,
           "horse_name": "スウィット",
-          "ai_score": 0.26793003317641767
+          "ai_score": 0.2743688792215448
         },
         {
           "rank": 5,
           "horse_num": 4,
           "horse_name": "シュアシング",
-          "ai_score": 0.22744759268595732
+          "ai_score": 0.22709539448180993
         },
         {
           "rank": 6,
           "horse_num": 3,
           "horse_name": "ソウラスフロス",
-          "ai_score": 0.21822315482944707
+          "ai_score": 0.21800934146711298
         },
         {
           "rank": 7,
           "horse_num": 10,
           "horse_name": "ダンシングリリー",
-          "ai_score": 0.14042453880685538
+          "ai_score": 0.14088551544748154
         },
         {
           "rank": 8,
@@ -252,7 +252,7 @@
           "rank": 9,
           "horse_num": 9,
           "horse_name": "ヤマニンスペッキオ",
-          "ai_score": 0.11775688618981418
+          "ai_score": 0.11869946308817475
         },
         {
           "rank": 10,
