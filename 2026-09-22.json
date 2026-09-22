@@ -436,11 +436,11 @@
     },
     {
       "race_date": "2026-09-22",
-      "predicted_at": "13:11:24",
+      "predicted_at": "13:14:38",
       "venue": "中山",
       "race_num": 8,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.5582367505609666,
+      "race_confidence": 0.5549409755201924,
       "skipped": true,
       "horses": [
         {
@@ -453,31 +453,31 @@
           "rank": 2,
           "horse_num": 7,
           "horse_name": "マーゴットソラーレ",
-          "ai_score": 0.4120329207833076
+          "ai_score": 0.4185088675594664
         },
         {
           "rank": 3,
           "horse_num": 5,
           "horse_name": "メアヴィア",
-          "ai_score": 0.319083264076964
+          "ai_score": 0.32476502773476024
         },
         {
           "rank": 4,
           "horse_num": 16,
           "horse_name": "ベルウッドクレド",
-          "ai_score": 0.25659251299429314
+          "ai_score": 0.25593922491476784
         },
         {
           "rank": 5,
           "horse_num": 4,
           "horse_name": "ラルガメンテ",
-          "ai_score": 0.24404183159211654
+          "ai_score": 0.24413377651266085
         },
         {
           "rank": 6,
           "horse_num": 11,
           "horse_name": "テイキットイージー",
-          "ai_score": 0.22606494371272642
+          "ai_score": 0.22587069300589915
         },
         {
           "rank": 7,
@@ -489,25 +489,25 @@
           "rank": 8,
           "horse_num": 13,
           "horse_name": "ブリックアブラック",
-          "ai_score": 0.19578766774340994
+          "ai_score": 0.19570195877952049
         },
         {
           "rank": 9,
           "horse_num": 1,
           "horse_name": "プルーヴンウィナー",
-          "ai_score": 0.13876379291765983
+          "ai_score": 0.13862047332628064
         },
         {
           "rank": 10,
           "horse_num": 2,
           "horse_name": "リリエンフェルト",
-          "ai_score": 0.13243781115716047
+          "ai_score": 0.13829986195187685
         },
         {
           "rank": 11,
           "horse_num": 9,
           "horse_name": "ピースヒロフェイス",
-          "ai_score": 0.11527206384776441
+          "ai_score": 0.11514859793537355
         },
         {
           "rank": 12,
@@ -519,19 +519,19 @@
           "rank": 13,
           "horse_num": 8,
           "horse_name": "ウイントリベルガ",
-          "ai_score": 0.04735118681934363
+          "ai_score": 0.04717997399713252
         },
         {
           "rank": 14,
-          "horse_num": 14,
-          "horse_name": "マルカベント",
-          "ai_score": 0.02823806747619667
-        },
-        {
-          "rank": 15,
           "horse_num": 3,
           "horse_name": "コウセイケンタロス",
           "ai_score": 0.0282302107954489
+        },
+        {
+          "rank": 15,
+          "horse_num": 14,
+          "horse_name": "マルカベント",
+          "ai_score": 0.028099546472777442
         }
       ]
     }
