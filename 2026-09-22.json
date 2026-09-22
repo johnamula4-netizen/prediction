@@ -193,78 +193,78 @@
     },
     {
       "race_date": "2026-09-22",
-      "predicted_at": "10:35:18",
+      "predicted_at": "10:38:18",
       "venue": "中山",
       "race_num": 3,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.8479272017740155,
+      "race_confidence": 0.8077117706435177,
       "skipped": false,
       "horses": [
         {
           "rank": 1,
           "horse_num": 5,
           "horse_name": "ドナビッグベン",
-          "ai_score": 0.7112468841917786
+          "ai_score": 0.7109178561781305
         },
         {
           "rank": 2,
           "horse_num": 8,
           "horse_name": "ギムナシオン",
-          "ai_score": 0.519076878782823
+          "ai_score": 0.5747644122545976
         },
         {
           "rank": 3,
           "horse_num": 6,
           "horse_name": "ベアアミーチ",
-          "ai_score": 0.46691733728505774
+          "ai_score": 0.45910758727641743
         },
         {
           "rank": 4,
           "horse_num": 3,
           "horse_name": "ソウラスフロス",
-          "ai_score": 0.2820289435336452
+          "ai_score": 0.2982827924238579
         },
         {
           "rank": 5,
           "horse_num": 7,
           "horse_name": "スウィット",
-          "ai_score": 0.27772909750674024
+          "ai_score": 0.2789106838548434
         },
         {
           "rank": 6,
           "horse_num": 4,
           "horse_name": "シュアシング",
-          "ai_score": 0.21343995595464652
+          "ai_score": 0.20981223775917654
         },
         {
           "rank": 7,
           "horse_num": 10,
           "horse_name": "ダンシングリリー",
-          "ai_score": 0.14969464474866953
+          "ai_score": 0.18260915001257194
         },
         {
           "rank": 8,
           "horse_num": 2,
           "horse_name": "モミスケ",
-          "ai_score": 0.100696073928885
+          "ai_score": 0.10032492153486813
         },
         {
           "rank": 9,
           "horse_num": 1,
           "horse_name": "ビスクヴィート",
-          "ai_score": 0.09576590197163763
+          "ai_score": 0.0944283204307676
         },
         {
           "rank": 10,
           "horse_num": 9,
           "horse_name": "ヤマニンスペッキオ",
-          "ai_score": 0.08964669651313446
+          "ai_score": 0.09137042563499129
         },
         {
           "rank": 11,
           "horse_num": 11,
           "horse_name": "ヒーローシー",
-          "ai_score": 0.05517656143615595
+          "ai_score": 0.05399546719725696
         }
       ]
     }
