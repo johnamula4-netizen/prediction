@@ -341,96 +341,96 @@
     },
     {
       "race_date": "2026-09-22",
-      "predicted_at": "12:47:00",
+      "predicted_at": "12:49:54",
       "venue": "中山",
       "race_num": 7,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.9099460156423155,
+      "race_confidence": 0.9093519868771389,
       "skipped": false,
       "horses": [
         {
           "rank": 1,
           "horse_num": 7,
           "horse_name": "ユアフェリシティ",
-          "ai_score": 0.7272039961103658
+          "ai_score": 0.7272039961106375
         },
         {
           "rank": 2,
           "horse_num": 1,
           "horse_name": "サムシングニュー",
-          "ai_score": 0.47590997062454404
+          "ai_score": 0.4767268373756774
         },
         {
           "rank": 3,
           "horse_num": 3,
           "horse_name": "タケルムサシ",
-          "ai_score": 0.2982203981515853
+          "ai_score": 0.3120119777683858
         },
         {
           "rank": 4,
-          "horse_num": 12,
-          "horse_name": "レボルシオン",
-          "ai_score": 0.267648876986964
+          "horse_num": 14,
+          "horse_name": "アンシュウマト",
+          "ai_score": 0.2891162809751432
         },
         {
           "rank": 5,
-          "horse_num": 14,
-          "horse_name": "アンシュウマト",
-          "ai_score": 0.2625338585655315
+          "horse_num": 12,
+          "horse_name": "レボルシオン",
+          "ai_score": 0.2450528612384349
         },
         {
           "rank": 6,
-          "horse_num": 2,
-          "horse_name": "ブレスドナイル",
-          "ai_score": 0.22326622616845043
+          "horse_num": 13,
+          "horse_name": "ナックスプレンダー",
+          "ai_score": 0.22518388524170982
         },
         {
           "rank": 7,
-          "horse_num": 13,
-          "horse_name": "ナックスプレンダー",
-          "ai_score": 0.2056548683852452
+          "horse_num": 2,
+          "horse_name": "ブレスドナイル",
+          "ai_score": 0.2202829807530399
         },
         {
           "rank": 8,
           "horse_num": 10,
           "horse_name": "サムワンライクユー",
-          "ai_score": 0.119129492531159
+          "ai_score": 0.10925881551695683
         },
         {
           "rank": 9,
           "horse_num": 8,
           "horse_name": "ホーナー",
-          "ai_score": 0.06981838297830115
+          "ai_score": 0.06948796413063604
         },
         {
           "rank": 10,
           "horse_num": 4,
           "horse_name": "ビリオネアボーイ",
-          "ai_score": 0.05622225432443781
+          "ai_score": 0.05564924621317028
         },
         {
           "rank": 11,
           "horse_num": 9,
           "horse_name": "オウケンヴィーナス",
-          "ai_score": 0.040171729048174704
+          "ai_score": 0.04004351018798078
         },
         {
           "rank": 12,
           "horse_num": 6,
           "horse_name": "メトロポリターナ",
-          "ai_score": 0.03945016274177652
+          "ai_score": 0.0393466908063437
         },
         {
           "rank": 13,
           "horse_num": 11,
           "horse_name": "クリノゴッホ",
-          "ai_score": 0.03563226278442994
+          "ai_score": 0.03211437677246714
         },
         {
           "rank": 14,
           "horse_num": 5,
           "horse_name": "ペルヴォルム",
-          "ai_score": 0.03144350227783851
+          "ai_score": 0.027972816449900965
         }
       ]
     }
