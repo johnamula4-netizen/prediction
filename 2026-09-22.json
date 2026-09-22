@@ -721,7 +721,7 @@
     },
     {
       "race_date": "2026-09-22",
-      "predicted_at": "14:47:16",
+      "predicted_at": "14:50:15",
       "venue": "中山",
       "race_num": 11,
       "race_title": "JRAアニバーサリーステークス",
@@ -756,7 +756,7 @@
           "rank": 5,
           "horse_num": 15,
           "horse_name": "ゲキザル",
-          "ai_score": 0.21566638599237045
+          "ai_score": 0.21589710861893135
         },
         {
           "rank": 6,
@@ -768,13 +768,13 @@
           "rank": 7,
           "horse_num": 14,
           "horse_name": "レディーフランシス",
-          "ai_score": 0.1679426215240614
+          "ai_score": 0.1690930146862115
         },
         {
           "rank": 8,
           "horse_num": 13,
           "horse_name": "ハッスルダンク",
-          "ai_score": 0.14084207287340597
+          "ai_score": 0.13901176821485112
         },
         {
           "rank": 9,
@@ -792,31 +792,31 @@
           "rank": 11,
           "horse_num": 4,
           "horse_name": "グレイテストソング",
-          "ai_score": 0.0861437547037091
+          "ai_score": 0.08813433112830286
         },
         {
           "rank": 12,
           "horse_num": 16,
           "horse_name": "ルーラーリッチ",
-          "ai_score": 0.060312529273136295
+          "ai_score": 0.060223439804441434
         },
         {
           "rank": 13,
           "horse_num": 6,
           "horse_name": "タンゴバイラリン",
-          "ai_score": 0.057028143666736315
+          "ai_score": 0.05689388628166717
         },
         {
           "rank": 14,
           "horse_num": 1,
           "horse_name": "マーシヴィガラス",
-          "ai_score": 0.052170906384715644
+          "ai_score": 0.052151369674095505
         },
         {
           "rank": 15,
           "horse_num": 8,
           "horse_name": "ブロッケンボウ",
-          "ai_score": 0.046780998021417504
+          "ai_score": 0.04676289627886586
         },
         {
           "rank": 16,
