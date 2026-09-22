@@ -721,108 +721,108 @@
     },
     {
       "race_date": "2026-09-22",
-      "predicted_at": "15:14:26",
+      "predicted_at": "15:17:19",
       "venue": "中山",
       "race_num": 11,
       "race_title": "JRAアニバーサリーステークス",
-      "race_confidence": 0.4527123217912376,
+      "race_confidence": 0.4467891256655145,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 3,
           "horse_name": "ディーズゴールド",
-          "ai_score": 0.4414065539645158
+          "ai_score": 0.4394911793011145
         },
         {
           "rank": 2,
           "horse_num": 12,
           "horse_name": "リフレックス",
-          "ai_score": 0.4157935046674937
+          "ai_score": 0.4228857348505448
         },
         {
           "rank": 3,
           "horse_num": 2,
           "horse_name": "キョウエイフロイデ",
-          "ai_score": 0.3489728792241282
+          "ai_score": 0.33865195956910765
         },
         {
           "rank": 4,
           "horse_num": 5,
           "horse_name": "サノノワンダー",
-          "ai_score": 0.2355639960051994
+          "ai_score": 0.2600023832217761
         },
         {
           "rank": 5,
           "horse_num": 15,
           "horse_name": "ゲキザル",
-          "ai_score": 0.2092970579731981
+          "ai_score": 0.20445757467418105
         },
         {
           "rank": 6,
           "horse_num": 10,
           "horse_name": "ブルータス",
-          "ai_score": 0.19951496980201264
+          "ai_score": 0.1981246257060644
         },
         {
           "rank": 7,
           "horse_num": 14,
           "horse_name": "レディーフランシス",
-          "ai_score": 0.1764372214675149
+          "ai_score": 0.17259062969743466
         },
         {
           "rank": 8,
           "horse_num": 11,
           "horse_name": "ダカラフェスティヴ",
-          "ai_score": 0.12759728585037186
+          "ai_score": 0.12510705253505164
         },
         {
           "rank": 9,
           "horse_num": 13,
           "horse_name": "ハッスルダンク",
-          "ai_score": 0.12490624240449136
+          "ai_score": 0.1122703688103564
         },
         {
           "rank": 10,
           "horse_num": 9,
           "horse_name": "ラオラシオン",
-          "ai_score": 0.10923920783435367
+          "ai_score": 0.10730392951890556
         },
         {
           "rank": 11,
           "horse_num": 4,
           "horse_name": "グレイテストソング",
-          "ai_score": 0.07413445889565663
+          "ai_score": 0.072714984407385
         },
         {
           "rank": 12,
           "horse_num": 6,
           "horse_name": "タンゴバイラリン",
-          "ai_score": 0.05386244723958388
+          "ai_score": 0.05393673933500549
         },
         {
           "rank": 13,
           "horse_num": 16,
           "horse_name": "ルーラーリッチ",
-          "ai_score": 0.05303188165762518
+          "ai_score": 0.05231236303909214
         },
         {
           "rank": 14,
           "horse_num": 1,
           "horse_name": "マーシヴィガラス",
-          "ai_score": 0.04984960883396005
+          "ai_score": 0.04930654953211283
         },
         {
           "rank": 15,
           "horse_num": 8,
           "horse_name": "ブロッケンボウ",
-          "ai_score": 0.04030684057419061
+          "ai_score": 0.03916498738645906
         },
         {
           "rank": 16,
           "horse_num": 7,
           "horse_name": "オレデイイノカ",
-          "ai_score": 0.03152484978981671
+          "ai_score": 0.03127306517416899
         }
       ]
     }
