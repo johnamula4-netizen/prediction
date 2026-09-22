@@ -270,72 +270,72 @@
     },
     {
       "race_date": "2026-09-22",
-      "predicted_at": "11:05:13",
+      "predicted_at": "11:07:58",
       "venue": "中山",
       "race_num": 4,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.7859483854473,
+      "race_confidence": 0.7873633224113694,
       "skipped": false,
       "horses": [
         {
           "rank": 1,
           "horse_num": 4,
           "horse_name": "キャピタルストーン",
-          "ai_score": 0.7073598932456039
+          "ai_score": 0.7085197441703535
         },
         {
           "rank": 2,
           "horse_num": 6,
           "horse_name": "クシェドゥソレイユ",
-          "ai_score": 0.5962587508821238
+          "ai_score": 0.5972404483007112
         },
         {
           "rank": 3,
           "horse_num": 3,
           "horse_name": "アニエーネ",
-          "ai_score": 0.49493246218569154
+          "ai_score": 0.49505041661976795
         },
         {
           "rank": 4,
           "horse_num": 7,
           "horse_name": "ドナリー",
-          "ai_score": 0.3539740655925865
+          "ai_score": 0.3555267089226811
         },
         {
           "rank": 5,
           "horse_num": 9,
           "horse_name": "コスモバルムンク",
-          "ai_score": 0.34238759686675535
+          "ai_score": 0.34034554607600204
         },
         {
           "rank": 6,
           "horse_num": 5,
           "horse_name": "トーセンシントラ",
-          "ai_score": 0.3024193219461795
+          "ai_score": 0.2987087065379458
         },
         {
           "rank": 7,
           "horse_num": 8,
           "horse_name": "エレスレイプニル",
-          "ai_score": 0.2236096051342074
+          "ai_score": 0.2566112110120444
         },
         {
           "rank": 8,
           "horse_num": 1,
           "horse_name": "サンアンドスターズ",
-          "ai_score": 0.17559205347299697
+          "ai_score": 0.1665252590631225
         },
         {
           "rank": 9,
           "horse_num": 2,
           "horse_name": "マイネルアルディ",
-          "ai_score": 0.0720865023616253
+          "ai_score": 0.07200503061275479
         },
         {
           "rank": 10,
           "horse_num": 10,
           "horse_name": "キャッチアップ",
-          "ai_score": 0.0373117727407299
+          "ai_score": 0.03750701497756063
         }
       ]
     }
