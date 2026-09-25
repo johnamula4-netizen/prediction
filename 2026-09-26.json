@@ -3,7 +3,7 @@
   "predictions": [
     {
       "race_date": "2026-09-26",
-      "predicted_at": "08:04:48",
+      "predicted_at": "08:09:02",
       "venue": "中山",
       "race_num": 1,
       "race_title": "2歳未勝利",
@@ -26,19 +26,19 @@
           "rank": 3,
           "horse_num": 4,
           "horse_name": "リコルディオーロ",
-          "ai_score": 0.2661542403639838
+          "ai_score": 0.2662947494115629
         },
         {
           "rank": 4,
-          "horse_num": 3,
-          "horse_name": "アンミツ",
-          "ai_score": 0.11176300804687386
+          "horse_num": 10,
+          "horse_name": "ハイトラクション",
+          "ai_score": 0.10710079887656063
         },
         {
           "rank": 5,
-          "horse_num": 10,
-          "horse_name": "ハイトラクション",
-          "ai_score": 0.10628032476982648
+          "horse_num": 3,
+          "horse_name": "アンミツ",
+          "ai_score": 0.1030810735204995
         },
         {
           "rank": 6,
@@ -56,25 +56,25 @@
           "rank": 8,
           "horse_num": 13,
           "horse_name": "ファイアリーボルト",
-          "ai_score": 0.05986724707936507
+          "ai_score": 0.06155620236863996
         },
         {
           "rank": 9,
           "horse_num": 11,
           "horse_name": "ハクタカ",
-          "ai_score": 0.05916866301700844
+          "ai_score": 0.06045351230156225
         },
         {
           "rank": 10,
           "horse_num": 6,
           "horse_name": "クリアマインド",
-          "ai_score": 0.05253345649915538
+          "ai_score": 0.05257571813950502
         },
         {
           "rank": 11,
           "horse_num": 8,
           "horse_name": "スヴァラ",
-          "ai_score": 0.034890356639322107
+          "ai_score": 0.03699081924385235
         },
         {
           "rank": 12,
@@ -86,17 +86,17 @@
           "rank": 13,
           "horse_num": 7,
           "horse_name": "ヴァンデエス",
-          "ai_score": 0.0311208615315903
+          "ai_score": 0.031098698171381323
         }
       ]
     },
     {
       "race_date": "2026-09-26",
-      "predicted_at": "08:04:48",
+      "predicted_at": "08:09:02",
       "venue": "阪神",
       "race_num": 1,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.7560231660932709,
+      "race_confidence": 0.7535481667156716,
       "skipped": false,
       "horses": [
         {
@@ -109,25 +109,25 @@
           "rank": 2,
           "horse_num": 5,
           "horse_name": "ウルスチャージ",
-          "ai_score": 0.36839643107415415
+          "ai_score": 0.3724586824271956
         },
         {
           "rank": 3,
           "horse_num": 8,
           "horse_name": "テーオーダーウィン",
-          "ai_score": 0.3321472741591639
+          "ai_score": 0.33301709982234134
         },
         {
           "rank": 4,
           "horse_num": 4,
           "horse_name": "サウンドエフォート",
-          "ai_score": 0.15842436065107207
+          "ai_score": 0.15926513187980618
         },
         {
           "rank": 5,
           "horse_num": 7,
           "horse_name": "シュライアハフト",
-          "ai_score": 0.11171070886575105
+          "ai_score": 0.1117621567907923
         },
         {
           "rank": 6,
@@ -151,7 +151,7 @@
           "rank": 9,
           "horse_num": 9,
           "horse_name": "ウィザードシチー",
-          "ai_score": 0.07277248408769066
+          "ai_score": 0.07269158534890892
         },
         {
           "rank": 10,
