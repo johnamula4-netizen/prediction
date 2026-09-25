@@ -1,0 +1,171 @@
+{
+  "count": 2,
+  "predictions": [
+    {
+      "race_date": "2026-09-26",
+      "predicted_at": "08:04:48",
+      "venue": "中山",
+      "race_num": 1,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.7057516982250563,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 1,
+          "horse_name": "アルビオンライズ",
+          "ai_score": 0.6284908770729062
+        },
+        {
+          "rank": 2,
+          "horse_num": 12,
+          "horse_name": "アーバーバイティ",
+          "ai_score": 0.5055601807484348
+        },
+        {
+          "rank": 3,
+          "horse_num": 4,
+          "horse_name": "リコルディオーロ",
+          "ai_score": 0.2661542403639838
+        },
+        {
+          "rank": 4,
+          "horse_num": 3,
+          "horse_name": "アンミツ",
+          "ai_score": 0.11176300804687386
+        },
+        {
+          "rank": 5,
+          "horse_num": 10,
+          "horse_name": "ハイトラクション",
+          "ai_score": 0.10628032476982648
+        },
+        {
+          "rank": 6,
+          "horse_num": 9,
+          "horse_name": "アイビーカイロス",
+          "ai_score": 0.09781751019372628
+        },
+        {
+          "rank": 7,
+          "horse_num": 5,
+          "horse_name": "コウソクレムリア",
+          "ai_score": 0.06441491325546024
+        },
+        {
+          "rank": 8,
+          "horse_num": 13,
+          "horse_name": "ファイアリーボルト",
+          "ai_score": 0.05986724707936507
+        },
+        {
+          "rank": 9,
+          "horse_num": 11,
+          "horse_name": "ハクタカ",
+          "ai_score": 0.05916866301700844
+        },
+        {
+          "rank": 10,
+          "horse_num": 6,
+          "horse_name": "クリアマインド",
+          "ai_score": 0.05253345649915538
+        },
+        {
+          "rank": 11,
+          "horse_num": 8,
+          "horse_name": "スヴァラ",
+          "ai_score": 0.034890356639322107
+        },
+        {
+          "rank": 12,
+          "horse_num": 2,
+          "horse_name": "トパーズヘッド",
+          "ai_score": 0.03335859706051235
+        },
+        {
+          "rank": 13,
+          "horse_num": 7,
+          "horse_name": "ヴァンデエス",
+          "ai_score": 0.0311208615315903
+        }
+      ]
+    },
+    {
+      "race_date": "2026-09-26",
+      "predicted_at": "08:04:48",
+      "venue": "阪神",
+      "race_num": 1,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.7560231660932709,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 10,
+          "horse_name": "スカイメテオ",
+          "ai_score": 0.6092679065135123
+        },
+        {
+          "rank": 2,
+          "horse_num": 5,
+          "horse_name": "ウルスチャージ",
+          "ai_score": 0.36839643107415415
+        },
+        {
+          "rank": 3,
+          "horse_num": 8,
+          "horse_name": "テーオーダーウィン",
+          "ai_score": 0.3321472741591639
+        },
+        {
+          "rank": 4,
+          "horse_num": 4,
+          "horse_name": "サウンドエフォート",
+          "ai_score": 0.15842436065107207
+        },
+        {
+          "rank": 5,
+          "horse_num": 7,
+          "horse_name": "シュライアハフト",
+          "ai_score": 0.11171070886575105
+        },
+        {
+          "rank": 6,
+          "horse_num": 2,
+          "horse_name": "リアルメッセージ",
+          "ai_score": 0.10476186949450751
+        },
+        {
+          "rank": 7,
+          "horse_num": 1,
+          "horse_name": "ガヤーズランボー",
+          "ai_score": 0.08474626170349421
+        },
+        {
+          "rank": 8,
+          "horse_num": 3,
+          "horse_name": "ルーストカール",
+          "ai_score": 0.07815094332457632
+        },
+        {
+          "rank": 9,
+          "horse_num": 9,
+          "horse_name": "ウィザードシチー",
+          "ai_score": 0.07277248408769066
+        },
+        {
+          "rank": 10,
+          "horse_num": 11,
+          "horse_name": "ユイリノベーション",
+          "ai_score": 0.06653300480539398
+        },
+        {
+          "rank": 11,
+          "horse_num": 6,
+          "horse_name": "ヤマトクオーレ",
+          "ai_score": 0.036196565440462326
+        }
+      ]
+    }
+  ]
+}
