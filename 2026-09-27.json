@@ -573,7 +573,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "14:05:31",
+      "predicted_at": "14:11:25",
       "venue": "中山",
       "race_num": 9,
       "race_title": "サフラン賞",
@@ -1486,18 +1486,18 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "14:11:25",
       "venue": "阪神",
       "race_num": 10,
       "race_title": "堺ステークス",
-      "race_confidence": 0.35240164543872204,
+      "race_confidence": 0.35228805571167016,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 10,
           "horse_name": "ショウナンバンライ",
-          "ai_score": 0.338861955106194
+          "ai_score": 0.33877956824391714
         },
         {
           "rank": 2,
