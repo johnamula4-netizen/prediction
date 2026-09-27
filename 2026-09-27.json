@@ -852,30 +852,30 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "15:39:56",
       "venue": "中山",
       "race_num": 12,
       "race_title": "外房ステークス",
-      "race_confidence": 0.4367891930739906,
+      "race_confidence": 0.43684678399817595,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 9,
           "horse_name": "ワンダラー",
-          "ai_score": 0.3960521491043006
+          "ai_score": 0.3961155614744159
         },
         {
           "rank": 2,
           "horse_num": 2,
           "horse_name": "ローズカリス",
-          "ai_score": 0.29319437125403597
+          "ai_score": 0.29328894599849054
         },
         {
           "rank": 3,
           "horse_num": 4,
           "horse_name": "イノセントキャット",
-          "ai_score": 0.22443263191540938
+          "ai_score": 0.22454381204238136
         },
         {
           "rank": 4,
@@ -893,7 +893,7 @@
           "rank": 6,
           "horse_num": 13,
           "horse_name": "ライトニングゼウス",
-          "ai_score": 0.14467279552503623
+          "ai_score": 0.14637094681384022
         },
         {
           "rank": 7,
@@ -911,49 +911,49 @@
           "rank": 9,
           "horse_num": 7,
           "horse_name": "マーゴットゲイン",
-          "ai_score": 0.12617368973590076
+          "ai_score": 0.12626851519245014
         },
         {
           "rank": 10,
           "horse_num": 6,
           "horse_name": "キタノソワレ",
-          "ai_score": 0.11905884591539001
+          "ai_score": 0.1190725374190633
         },
         {
           "rank": 11,
           "horse_num": 8,
           "horse_name": "スプランドゥール",
-          "ai_score": 0.1059313537694536
+          "ai_score": 0.10589382579237945
         },
         {
           "rank": 12,
           "horse_num": 15,
           "horse_name": "ランウインディ",
-          "ai_score": 0.07536032634462192
+          "ai_score": 0.07486632255474064
         },
         {
           "rank": 13,
           "horse_num": 5,
           "horse_name": "コパノヴィンセント",
-          "ai_score": 0.06722314623412991
+          "ai_score": 0.06723101718022746
         },
         {
           "rank": 14,
           "horse_num": 1,
           "horse_name": "アイアムユウシュン",
-          "ai_score": 0.06566505380217116
+          "ai_score": 0.06571512813110825
         },
         {
           "rank": 15,
           "horse_num": 16,
           "horse_name": "ポッドソル",
-          "ai_score": 0.0594896037007633
+          "ai_score": 0.05949285355176284
         },
         {
           "rank": 16,
           "horse_num": 11,
           "horse_name": "ホワイトガーベラ",
-          "ai_score": 0.046970393367087665
+          "ai_score": 0.04696356084756659
         }
       ]
     },
@@ -1676,7 +1676,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "15:31:03",
+      "predicted_at": "15:39:56",
       "venue": "阪神",
       "race_num": 12,
       "race_title": "3歳以上2勝クラス",
