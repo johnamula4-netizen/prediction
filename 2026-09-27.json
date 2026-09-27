@@ -626,7 +626,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "14:41:26",
+      "predicted_at": "14:47:39",
       "venue": "中山",
       "race_num": 10,
       "race_title": "茨城新聞杯",
@@ -1569,7 +1569,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "14:47:39",
       "venue": "阪神",
       "race_num": 11,
       "race_title": "ポートアイランドステークス",
@@ -1610,13 +1610,13 @@
           "rank": 6,
           "horse_num": 4,
           "horse_name": "ヤマニンサンパ",
-          "ai_score": 0.13468672945868265
+          "ai_score": 0.1348373186666
         },
         {
           "rank": 7,
           "horse_num": 2,
           "horse_name": "エイシンディード",
-          "ai_score": 0.10949234653126108
+          "ai_score": 0.1095410865133728
         },
         {
           "rank": 8,
@@ -1640,7 +1640,7 @@
           "rank": 11,
           "horse_num": 12,
           "horse_name": "ファインライン",
-          "ai_score": 0.09723491584630274
+          "ai_score": 0.09726440423277596
         },
         {
           "rank": 12,
@@ -1658,7 +1658,7 @@
           "rank": 14,
           "horse_num": 3,
           "horse_name": "スカイロケット",
-          "ai_score": 0.0727016671534021
+          "ai_score": 0.0727468433197521
         },
         {
           "rank": 15,
