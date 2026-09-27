@@ -365,7 +365,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "13:05:25",
+      "predicted_at": "13:11:16",
       "venue": "中山",
       "race_num": 7,
       "race_title": "3歳以上1勝クラス",
@@ -1326,7 +1326,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "13:11:16",
       "venue": "阪神",
       "race_num": 8,
       "race_title": "3歳以上1勝クラス",
@@ -1355,7 +1355,7 @@
           "rank": 4,
           "horse_num": 2,
           "horse_name": "コウギョク",
-          "ai_score": 0.2753864050701657
+          "ai_score": 0.2752112377643509
         },
         {
           "rank": 5,
@@ -1379,19 +1379,19 @@
           "rank": 8,
           "horse_num": 5,
           "horse_name": "ヴィーナスバブル",
-          "ai_score": 0.111138745463415
+          "ai_score": 0.11110609372377518
         },
         {
           "rank": 9,
           "horse_num": 8,
           "horse_name": "ワンダーイロネ",
-          "ai_score": 0.0919872377423815
+          "ai_score": 0.09214207048561944
         },
         {
           "rank": 10,
           "horse_num": 7,
           "horse_name": "ドーギッド",
-          "ai_score": 0.08278814514564412
+          "ai_score": 0.08272260356046635
         },
         {
           "rank": 11,
