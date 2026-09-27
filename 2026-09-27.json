@@ -472,7 +472,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "13:35:24",
+      "predicted_at": "13:41:28",
       "venue": "中山",
       "race_num": 8,
       "race_title": "3歳以上2勝クラス",
@@ -1409,7 +1409,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "13:41:28",
       "venue": "阪神",
       "race_num": 9,
       "race_title": "兵庫特別",
@@ -1480,7 +1480,7 @@
           "rank": 11,
           "horse_num": 5,
           "horse_name": "バンフィエルド",
-          "ai_score": 0.04745831903829207
+          "ai_score": 0.04746466840877021
         }
       ]
     },
