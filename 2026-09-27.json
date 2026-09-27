@@ -3,7 +3,7 @@
   "predictions": [
     {
       "race_date": "2026-09-27",
-      "predicted_at": "09:41:30",
+      "predicted_at": "09:47:21",
       "venue": "中山",
       "race_num": 1,
       "race_title": "2歳未勝利",
@@ -1042,7 +1042,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "09:47:21",
       "venue": "阪神",
       "race_num": 2,
       "race_title": "2歳未勝利",
@@ -1065,7 +1065,7 @@
           "rank": 3,
           "horse_num": 7,
           "horse_name": "カローナ",
-          "ai_score": 0.3954020422190336
+          "ai_score": 0.3953357380627796
         },
         {
           "rank": 4,
@@ -1083,7 +1083,7 @@
           "rank": 6,
           "horse_num": 1,
           "horse_name": "プレシャスタイム",
-          "ai_score": 0.20067540786228702
+          "ai_score": 0.200648808953581
         },
         {
           "rank": 7,
