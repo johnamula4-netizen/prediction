@@ -258,7 +258,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "12:23:18",
       "venue": "中山",
       "race_num": 6,
       "race_title": "3歳以上1勝クラス",
@@ -323,13 +323,13 @@
           "rank": 10,
           "horse_num": 3,
           "horse_name": "タルタロス",
-          "ai_score": 0.10186529182620183
+          "ai_score": 0.10192645135620719
         },
         {
           "rank": 11,
           "horse_num": 13,
           "horse_name": "ガンハンマー",
-          "ai_score": 0.08230099442186331
+          "ai_score": 0.08233128079132526
         },
         {
           "rank": 12,
