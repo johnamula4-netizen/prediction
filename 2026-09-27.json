@@ -745,7 +745,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "15:11:44",
+      "predicted_at": "15:17:40",
       "venue": "中山",
       "race_num": 11,
       "race_title": "スプリンターズステークス",
@@ -1676,30 +1676,30 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "15:17:40",
       "venue": "阪神",
       "race_num": 12,
       "race_title": "3歳以上2勝クラス",
-      "race_confidence": 0.3876720477044678,
+      "race_confidence": 0.3878407645206148,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 4,
           "horse_name": "ソウルアンドジャズ",
-          "ai_score": 0.353264385391522
+          "ai_score": 0.3533468448775479
         },
         {
           "rank": 2,
           "horse_num": 6,
           "horse_name": "マクノス",
-          "ai_score": 0.25586520297801085
+          "ai_score": 0.25572627703288314
         },
         {
           "rank": 3,
           "horse_num": 2,
           "horse_name": "タガノヘラクレス",
-          "ai_score": 0.18844658378464685
+          "ai_score": 0.1885784321546318
         },
         {
           "rank": 4,
@@ -1723,13 +1723,13 @@
           "rank": 7,
           "horse_num": 5,
           "horse_name": "レッドボブ",
-          "ai_score": 0.14054342907135856
+          "ai_score": 0.14072463739051969
         },
         {
           "rank": 8,
           "horse_num": 11,
           "horse_name": "テンエースワン",
-          "ai_score": 0.13400918004171306
+          "ai_score": 0.13408655447989945
         },
         {
           "rank": 9,
@@ -1753,7 +1753,7 @@
           "rank": 12,
           "horse_num": 12,
           "horse_name": "エンマ",
-          "ai_score": 0.07076591241413835
+          "ai_score": 0.07068226263093737
         }
       ]
     }
