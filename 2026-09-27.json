@@ -745,7 +745,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "14:59:51",
       "venue": "中山",
       "race_num": 11,
       "race_title": "スプリンターズステークス",
@@ -774,7 +774,7 @@
           "rank": 4,
           "horse_num": 10,
           "horse_name": "レイピア",
-          "ai_score": 0.21413065490531866
+          "ai_score": 0.21426043385818197
         },
         {
           "rank": 5,
@@ -834,7 +834,7 @@
           "rank": 14,
           "horse_num": 2,
           "horse_name": "アイサンサン",
-          "ai_score": 0.06609051227911285
+          "ai_score": 0.06609467852541408
         },
         {
           "rank": 15,
@@ -1569,7 +1569,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "14:53:33",
+      "predicted_at": "14:59:51",
       "venue": "阪神",
       "race_num": 11,
       "race_title": "ポートアイランドステークス",
