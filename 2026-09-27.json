@@ -110,7 +110,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "09:59:26",
       "venue": "中山",
       "race_num": 2,
       "race_title": "2歳未勝利",
@@ -145,7 +145,7 @@
           "rank": 5,
           "horse_num": 4,
           "horse_name": "ニューロファイター",
-          "ai_score": 0.21574889454808807
+          "ai_score": 0.21544514752440846
         },
         {
           "rank": 6,
@@ -1042,7 +1042,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "09:53:28",
+      "predicted_at": "09:59:26",
       "venue": "阪神",
       "race_num": 2,
       "race_title": "2歳未勝利",
