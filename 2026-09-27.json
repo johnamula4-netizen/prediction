@@ -110,7 +110,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "10:11:21",
+      "predicted_at": "10:17:15",
       "venue": "中山",
       "race_num": 2,
       "race_title": "2歳未勝利",
@@ -1101,7 +1101,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "10:17:15",
       "venue": "阪神",
       "race_num": 3,
       "race_title": "2歳未勝利",
@@ -1130,13 +1130,13 @@
           "rank": 4,
           "horse_num": 7,
           "horse_name": "ナオミガサイキョウ",
-          "ai_score": 0.29676829022838713
+          "ai_score": 0.2967856073864411
         },
         {
           "rank": 5,
           "horse_num": 8,
           "horse_name": "ダンスコマンド",
-          "ai_score": 0.15350373821436442
+          "ai_score": 0.15314220204817486
         },
         {
           "rank": 6,
@@ -1160,7 +1160,7 @@
           "rank": 9,
           "horse_num": 4,
           "horse_name": "カクシンゴールド",
-          "ai_score": 0.07431062843979798
+          "ai_score": 0.0741998963418593
         }
       ]
     },
