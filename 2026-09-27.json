@@ -258,7 +258,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "12:35:21",
+      "predicted_at": "12:41:22",
       "venue": "中山",
       "race_num": 6,
       "race_title": "3歳以上1勝クラス",
@@ -1219,18 +1219,18 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "12:41:22",
       "venue": "阪神",
       "race_num": 7,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.37104971365418055,
+      "race_confidence": 0.3702831005450268,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 6,
           "horse_name": "ハグレジョー",
-          "ai_score": 0.3652398830044645
+          "ai_score": 0.364684604261745
         },
         {
           "rank": 2,
@@ -1320,7 +1320,7 @@
           "rank": 16,
           "horse_num": 11,
           "horse_name": "ジーヴル",
-          "ai_score": 0.04404915059633043
+          "ai_score": 0.04404828410137858
         }
       ]
     },
