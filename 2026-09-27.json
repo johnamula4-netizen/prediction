@@ -626,7 +626,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "14:23:38",
       "venue": "中山",
       "race_num": 10,
       "race_title": "茨城新聞杯",
@@ -649,7 +649,7 @@
           "rank": 3,
           "horse_num": 5,
           "horse_name": "ハニードレス",
-          "ai_score": 0.196413107330669
+          "ai_score": 0.19640072618351753
         },
         {
           "rank": 4,
@@ -679,13 +679,13 @@
           "rank": 8,
           "horse_num": 16,
           "horse_name": "トレミニョン",
-          "ai_score": 0.12748709363153432
+          "ai_score": 0.12742220706283522
         },
         {
           "rank": 9,
           "horse_num": 13,
           "horse_name": "ジェットブレード",
-          "ai_score": 0.11392232419530848
+          "ai_score": 0.11397524714070383
         },
         {
           "rank": 10,
@@ -715,7 +715,7 @@
           "rank": 14,
           "horse_num": 15,
           "horse_name": "マイネルバーテクス",
-          "ai_score": 0.07551771998718868
+          "ai_score": 0.0755026843536934
         },
         {
           "rank": 15,
@@ -1486,7 +1486,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "14:17:34",
+      "predicted_at": "14:23:38",
       "venue": "阪神",
       "race_num": 10,
       "race_title": "堺ステークス",
