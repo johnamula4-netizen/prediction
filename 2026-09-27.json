@@ -193,7 +193,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "10:41:25",
+      "predicted_at": "10:47:28",
       "venue": "中山",
       "race_num": 3,
       "race_title": "2歳未勝利",
@@ -1166,7 +1166,7 @@
     },
     {
       "race_date": "2026-09-27",
-      "predicted_at": "22:18:07",
+      "predicted_at": "10:47:28",
       "venue": "阪神",
       "race_num": 4,
       "race_title": "2歳未勝利",
@@ -1201,7 +1201,7 @@
           "rank": 5,
           "horse_num": 1,
           "horse_name": "ロクメイカン",
-          "ai_score": 0.16788802008467557
+          "ai_score": 0.16788930539204222
         },
         {
           "rank": 6,
