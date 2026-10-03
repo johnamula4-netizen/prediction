@@ -502,78 +502,78 @@
     },
     {
       "race_date": "2026-10-03",
-      "predicted_at": "13:08:42",
+      "predicted_at": "13:14:34",
       "venue": "京都",
       "race_num": 8,
       "race_title": "3歳以上2勝クラス",
-      "race_confidence": 0.5032429513609281,
+      "race_confidence": 0.5053766813319951,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 7,
           "horse_name": "イベントホライゾン",
-          "ai_score": 0.49629243394536504
+          "ai_score": 0.49662115273889385
         },
         {
           "rank": 2,
           "horse_num": 4,
           "horse_name": "サトノアイボリー",
-          "ai_score": 0.4822875510574502
+          "ai_score": 0.47899095606923126
         },
         {
           "rank": 3,
           "horse_num": 5,
           "horse_name": "ブレットパス",
-          "ai_score": 0.35890584108844753
+          "ai_score": 0.3588189597550758
         },
         {
           "rank": 4,
           "horse_num": 9,
           "horse_name": "アクロフェイズ",
-          "ai_score": 0.3544683983514795
+          "ai_score": 0.3543545790540584
         },
         {
           "rank": 5,
           "horse_num": 11,
           "horse_name": "ミカエルパシャ",
-          "ai_score": 0.21880686987186587
+          "ai_score": 0.21903474192178737
         },
         {
           "rank": 6,
           "horse_num": 3,
           "horse_name": "オモイヲノセテ",
-          "ai_score": 0.21068852665647064
+          "ai_score": 0.21335584189523296
         },
         {
           "rank": 7,
           "horse_num": 6,
           "horse_name": "サミダレナイツ",
-          "ai_score": 0.16142786853515112
+          "ai_score": 0.1604466736620412
         },
         {
           "rank": 8,
           "horse_num": 2,
           "horse_name": "エコテーラー",
-          "ai_score": 0.1075738717204643
+          "ai_score": 0.10670266270266374
         },
         {
           "rank": 9,
           "horse_num": 1,
           "horse_name": "ロゼル",
-          "ai_score": 0.09398795191613181
+          "ai_score": 0.09396290222855683
         },
         {
           "rank": 10,
           "horse_num": 10,
           "horse_name": "キタノファーンヒル",
-          "ai_score": 0.05008442199666134
+          "ai_score": 0.04994088298364595
         },
         {
           "rank": 11,
           "horse_num": 8,
           "horse_name": "ヨシヒロ",
-          "ai_score": 0.048475914769126105
+          "ai_score": 0.048462067341957904
         }
       ]
     },
@@ -947,7 +947,7 @@
     },
     {
       "race_date": "2026-10-03",
-      "predicted_at": "13:08:42",
+      "predicted_at": "13:14:34",
       "venue": "東京",
       "race_num": 7,
       "race_title": "3歳以上1勝クラス",
@@ -994,7 +994,7 @@
           "rank": 7,
           "horse_num": 9,
           "horse_name": "ソナタン",
-          "ai_score": 0.10234996042778048
+          "ai_score": 0.10240205074518562
         },
         {
           "rank": 8,
