@@ -104,24 +104,24 @@
     },
     {
       "race_date": "2026-10-03",
-      "predicted_at": "09:48:25",
+      "predicted_at": "09:54:26",
       "venue": "京都",
       "race_num": 2,
       "race_title": "2歳未勝利",
-      "race_confidence": 0.4314164057742022,
+      "race_confidence": 0.4317415442437473,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 10,
           "horse_name": "ウィクフォード",
-          "ai_score": 0.42359778454880714
+          "ai_score": 0.42373266178195906
         },
         {
           "rank": 2,
           "horse_num": 1,
           "horse_name": "イッペイ",
-          "ai_score": 0.4051401308249496
+          "ai_score": 0.40483187082544453
         },
         {
           "rank": 3,
@@ -133,25 +133,25 @@
           "rank": 4,
           "horse_num": 3,
           "horse_name": "メイショウジェード",
-          "ai_score": 0.371642818406978
+          "ai_score": 0.37164709807870117
         },
         {
           "rank": 5,
           "horse_num": 5,
           "horse_name": "コルサロ",
-          "ai_score": 0.23749445682842607
+          "ai_score": 0.23779727765916459
         },
         {
           "rank": 6,
           "horse_num": 7,
           "horse_name": "リーベラーリア",
-          "ai_score": 0.14506872654082198
+          "ai_score": 0.14490938963285951
         },
         {
           "rank": 7,
           "horse_num": 4,
           "horse_name": "レイデアルマス",
-          "ai_score": 0.1324607170387832
+          "ai_score": 0.13235720263860742
         },
         {
           "rank": 8,
@@ -169,13 +169,13 @@
           "rank": 10,
           "horse_num": 6,
           "horse_name": "ワッザイカ",
-          "ai_score": 0.058875603709822304
+          "ai_score": 0.058903953124653095
         }
       ]
     },
     {
       "race_date": "2026-10-03",
-      "predicted_at": "09:48:25",
+      "predicted_at": "09:54:26",
       "venue": "東京",
       "race_num": 1,
       "race_title": "2歳未勝利",
