@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 6,
   "predictions": [
     {
       "race_date": "2026-10-03",
@@ -455,6 +455,89 @@
           "horse_num": 9,
           "horse_name": "ウカテンセイ",
           "ai_score": 0.04623742222608655
+        }
+      ]
+    },
+    {
+      "race_date": "2026-10-03",
+      "predicted_at": "11:03:07",
+      "venue": "東京",
+      "race_num": 4,
+      "race_title": "障害3歳以上オープン",
+      "race_confidence": 0.31409683715998554,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 9,
+          "horse_name": "サトノエピック",
+          "ai_score": 0.29503433283290853
+        },
+        {
+          "rank": 2,
+          "horse_num": 7,
+          "horse_name": "ブラックバラード",
+          "ai_score": 0.23042319370194855
+        },
+        {
+          "rank": 3,
+          "horse_num": 11,
+          "horse_name": "ハイウェイスター",
+          "ai_score": 0.20441963000841046
+        },
+        {
+          "rank": 4,
+          "horse_num": 3,
+          "horse_name": "ブライトマン",
+          "ai_score": 0.18130676359331444
+        },
+        {
+          "rank": 5,
+          "horse_num": 12,
+          "horse_name": "ロードオールライト",
+          "ai_score": 0.17511228717457486
+        },
+        {
+          "rank": 6,
+          "horse_num": 2,
+          "horse_name": "メイショウソウセキ",
+          "ai_score": 0.14625285625374607
+        },
+        {
+          "rank": 7,
+          "horse_num": 10,
+          "horse_name": "ベイビーベリッシモ",
+          "ai_score": 0.14134721871888842
+        },
+        {
+          "rank": 8,
+          "horse_num": 8,
+          "horse_name": "セイウンパシュート",
+          "ai_score": 0.12273099337769684
+        },
+        {
+          "rank": 9,
+          "horse_num": 6,
+          "horse_name": "トーアマリシテン",
+          "ai_score": 0.10900579122572078
+        },
+        {
+          "rank": 10,
+          "horse_num": 4,
+          "horse_name": "エーオーキング",
+          "ai_score": 0.1054110544430748
+        },
+        {
+          "rank": 11,
+          "horse_num": 1,
+          "horse_name": "ゴールドブリーズ",
+          "ai_score": 0.09152051573302017
+        },
+        {
+          "rank": 12,
+          "horse_num": 5,
+          "horse_name": "グラニットピーク",
+          "ai_score": 0.06509697224435546
         }
       ]
     }
