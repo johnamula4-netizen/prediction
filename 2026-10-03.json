@@ -1,5 +1,5 @@
 {
-  "count": 8,
+  "count": 9,
   "predictions": [
     {
       "race_date": "2026-10-03",
@@ -395,6 +395,113 @@
     },
     {
       "race_date": "2026-10-03",
+      "predicted_at": "12:38:53",
+      "venue": "京都",
+      "race_num": 7,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.5311049054248689,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 14,
+          "horse_name": "ペプチドレオン",
+          "ai_score": 0.4673708087715933
+        },
+        {
+          "rank": 2,
+          "horse_num": 11,
+          "horse_name": "フレイムスター",
+          "ai_score": 0.3310035058568261
+        },
+        {
+          "rank": 3,
+          "horse_num": 7,
+          "horse_name": "ブロンテス",
+          "ai_score": 0.2857216131281293
+        },
+        {
+          "rank": 4,
+          "horse_num": 13,
+          "horse_name": "セヴェンヌ",
+          "ai_score": 0.14905447912822262
+        },
+        {
+          "rank": 5,
+          "horse_num": 15,
+          "horse_name": "ゴディアンフィンチ",
+          "ai_score": 0.1435615605605585
+        },
+        {
+          "rank": 6,
+          "horse_num": 5,
+          "horse_name": "パンサーズ",
+          "ai_score": 0.13665252641583198
+        },
+        {
+          "rank": 7,
+          "horse_num": 9,
+          "horse_name": "マテンロウミラクル",
+          "ai_score": 0.1361980057025325
+        },
+        {
+          "rank": 8,
+          "horse_num": 16,
+          "horse_name": "オーライカモン",
+          "ai_score": 0.1199588275765016
+        },
+        {
+          "rank": 9,
+          "horse_num": 4,
+          "horse_name": "ダノンクロム",
+          "ai_score": 0.10510278942359338
+        },
+        {
+          "rank": 10,
+          "horse_num": 12,
+          "horse_name": "クリコファルコン",
+          "ai_score": 0.1046242195246953
+        },
+        {
+          "rank": 11,
+          "horse_num": 8,
+          "horse_name": "リーグナイト",
+          "ai_score": 0.10310435848307258
+        },
+        {
+          "rank": 12,
+          "horse_num": 6,
+          "horse_name": "メイショウハッブル",
+          "ai_score": 0.09245200199003666
+        },
+        {
+          "rank": 13,
+          "horse_num": 2,
+          "horse_name": "テーオーノーベル",
+          "ai_score": 0.06759511958557443
+        },
+        {
+          "rank": 14,
+          "horse_num": 1,
+          "horse_name": "スズノソレイユ",
+          "ai_score": 0.060577617018448146
+        },
+        {
+          "rank": 15,
+          "horse_num": 10,
+          "horse_name": "サンライズタイソン",
+          "ai_score": 0.05025651140206164
+        },
+        {
+          "rank": 16,
+          "horse_num": 3,
+          "horse_name": "ジーティーシップ",
+          "ai_score": 0.04950972041916781
+        }
+      ]
+    },
+    {
+      "race_date": "2026-10-03",
       "predicted_at": "09:59:25",
       "venue": "東京",
       "race_num": 1,
@@ -656,7 +763,7 @@
     },
     {
       "race_date": "2026-10-03",
-      "predicted_at": "12:32:54",
+      "predicted_at": "12:38:53",
       "venue": "東京",
       "race_num": 6,
       "race_title": "3歳以上1勝クラス",
