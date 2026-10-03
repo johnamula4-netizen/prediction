@@ -1,5 +1,5 @@
 {
-  "count": 11,
+  "count": 12,
   "predictions": [
     {
       "race_date": "2026-10-03",
@@ -502,7 +502,7 @@
     },
     {
       "race_date": "2026-10-03",
-      "predicted_at": "13:20:47",
+      "predicted_at": "13:26:22",
       "venue": "京都",
       "race_num": 8,
       "race_title": "3歳以上2勝クラス",
@@ -1061,6 +1061,113 @@
           "horse_num": 11,
           "horse_name": "ヘルモソブレード",
           "ai_score": 0.055794246549388846
+        }
+      ]
+    },
+    {
+      "race_date": "2026-10-03",
+      "predicted_at": "13:26:22",
+      "venue": "東京",
+      "race_num": 8,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.5766561113848798,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 2,
+          "horse_name": "プレースメント",
+          "ai_score": 0.4999441694904281
+        },
+        {
+          "rank": 2,
+          "horse_num": 3,
+          "horse_name": "マサッチェハマー",
+          "ai_score": 0.34650315232116896
+        },
+        {
+          "rank": 3,
+          "horse_num": 5,
+          "horse_name": "エドワードバローズ",
+          "ai_score": 0.17636186288913167
+        },
+        {
+          "rank": 4,
+          "horse_num": 10,
+          "horse_name": "ジーティーブラック",
+          "ai_score": 0.1576978522561816
+        },
+        {
+          "rank": 5,
+          "horse_num": 14,
+          "horse_name": "コーシューパンジャ",
+          "ai_score": 0.15574601992630796
+        },
+        {
+          "rank": 6,
+          "horse_num": 15,
+          "horse_name": "ファンタイムギフト",
+          "ai_score": 0.1542621307295496
+        },
+        {
+          "rank": 7,
+          "horse_num": 8,
+          "horse_name": "ピースサイン",
+          "ai_score": 0.13374221197107466
+        },
+        {
+          "rank": 8,
+          "horse_num": 11,
+          "horse_name": "タキノボリ",
+          "ai_score": 0.12625274681761406
+        },
+        {
+          "rank": 9,
+          "horse_num": 16,
+          "horse_name": "サトノシャムロック",
+          "ai_score": 0.11404964535227195
+        },
+        {
+          "rank": 10,
+          "horse_num": 6,
+          "horse_name": "コッレヴェッキオ",
+          "ai_score": 0.11148545527541658
+        },
+        {
+          "rank": 11,
+          "horse_num": 12,
+          "horse_name": "スターエンブレム",
+          "ai_score": 0.06850926045236365
+        },
+        {
+          "rank": 12,
+          "horse_num": 9,
+          "horse_name": "カシノスパーク",
+          "ai_score": 0.06807541857367255
+        },
+        {
+          "rank": 13,
+          "horse_num": 7,
+          "horse_name": "キングクレオール",
+          "ai_score": 0.06271214345404633
+        },
+        {
+          "rank": 14,
+          "horse_num": 4,
+          "horse_name": "ウインドワンピース",
+          "ai_score": 0.061193751394685705
+        },
+        {
+          "rank": 15,
+          "horse_num": 1,
+          "horse_name": "カンレイスキー",
+          "ai_score": 0.053605099912347534
+        },
+        {
+          "rank": 16,
+          "horse_num": 13,
+          "horse_name": "オブシディアン",
+          "ai_score": 0.04407882031545957
         }
       ]
     }
