@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 5,
   "predictions": [
     {
       "race_date": "2026-10-03",
@@ -175,6 +175,113 @@
     },
     {
       "race_date": "2026-10-03",
+      "predicted_at": "10:30:26",
+      "venue": "京都",
+      "race_num": 3,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.5396813235031176,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 1,
+          "horse_name": "スターフュージョン",
+          "ai_score": 0.4946187082507484
+        },
+        {
+          "rank": 2,
+          "horse_num": 14,
+          "horse_name": "ダンシングドール",
+          "ai_score": 0.40351294435488577
+        },
+        {
+          "rank": 3,
+          "horse_num": 2,
+          "horse_name": "ワイズギャング",
+          "ai_score": 0.3478544489883126
+        },
+        {
+          "rank": 4,
+          "horse_num": 11,
+          "horse_name": "ヒルノプーリア",
+          "ai_score": 0.32958484321495585
+        },
+        {
+          "rank": 5,
+          "horse_num": 7,
+          "horse_name": "イーブンベター",
+          "ai_score": 0.1636170526600094
+        },
+        {
+          "rank": 6,
+          "horse_num": 13,
+          "horse_name": "キンダープンシュ",
+          "ai_score": 0.13538437271664772
+        },
+        {
+          "rank": 7,
+          "horse_num": 15,
+          "horse_name": "ヴァカンツァ",
+          "ai_score": 0.13363339538099342
+        },
+        {
+          "rank": 8,
+          "horse_num": 10,
+          "horse_name": "リンゲルブルーメ",
+          "ai_score": 0.10390728449127774
+        },
+        {
+          "rank": 9,
+          "horse_num": 12,
+          "horse_name": "ショウナンラウール",
+          "ai_score": 0.08870792239817048
+        },
+        {
+          "rank": 10,
+          "horse_num": 4,
+          "horse_name": "トゥインクルピカ",
+          "ai_score": 0.06750666456698519
+        },
+        {
+          "rank": 11,
+          "horse_num": 5,
+          "horse_name": "インピッシュ",
+          "ai_score": 0.0655590066924177
+        },
+        {
+          "rank": 12,
+          "horse_num": 6,
+          "horse_name": "チリーゴールド",
+          "ai_score": 0.0635164087631045
+        },
+        {
+          "rank": 13,
+          "horse_num": 3,
+          "horse_name": "メイショウホダワラ",
+          "ai_score": 0.060112236555805464
+        },
+        {
+          "rank": 14,
+          "horse_num": 16,
+          "horse_name": "ルルフィーユ",
+          "ai_score": 0.057765031053687195
+        },
+        {
+          "rank": 15,
+          "horse_num": 8,
+          "horse_name": "テーオーアンジェラ",
+          "ai_score": 0.05574393754677131
+        },
+        {
+          "rank": 16,
+          "horse_num": 9,
+          "horse_name": "オンザマーチ",
+          "ai_score": 0.051454179981208055
+        }
+      ]
+    },
+    {
+      "race_date": "2026-10-03",
       "predicted_at": "09:59:25",
       "venue": "東京",
       "race_num": 1,
@@ -276,7 +383,7 @@
     },
     {
       "race_date": "2026-10-03",
-      "predicted_at": "10:21:45",
+      "predicted_at": "10:30:27",
       "venue": "東京",
       "race_num": 2,
       "race_title": "2歳未勝利",
