@@ -282,11 +282,11 @@
     },
     {
       "race_date": "2026-10-03",
-      "predicted_at": "12:26:58",
+      "predicted_at": "12:32:53",
       "venue": "京都",
       "race_num": 6,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.363482744733272,
+      "race_confidence": 0.3635534948703375,
       "skipped": true,
       "horses": [
         {
@@ -299,7 +299,7 @@
           "rank": 2,
           "horse_num": 1,
           "horse_name": "ノンブルドール",
-          "ai_score": 0.35855340792629564
+          "ai_score": 0.35835805845255664
         },
         {
           "rank": 3,
@@ -656,108 +656,108 @@
     },
     {
       "race_date": "2026-10-03",
-      "predicted_at": "12:26:58",
+      "predicted_at": "12:32:53",
       "venue": "東京",
       "race_num": 6,
       "race_title": "3歳以上1勝クラス",
-      "race_confidence": 0.31341311767470953,
+      "race_confidence": 0.30840956283021354,
       "skipped": true,
       "horses": [
         {
           "rank": 1,
           "horse_num": 8,
           "horse_name": "クラリネットソナタ",
-          "ai_score": 0.2939994967340712
+          "ai_score": 0.28998574117294
         },
         {
           "rank": 2,
           "horse_num": 7,
           "horse_name": "チームユートピア",
-          "ai_score": 0.22796665941190958
+          "ai_score": 0.226452197824386
         },
         {
           "rank": 3,
           "horse_num": 6,
           "horse_name": "ロジザボード",
-          "ai_score": 0.2207794848770449
+          "ai_score": 0.22409447330628388
         },
         {
           "rank": 4,
           "horse_num": 13,
           "horse_name": "ローズブーケ",
-          "ai_score": 0.19721718814296954
+          "ai_score": 0.19432815852904906
         },
         {
           "rank": 5,
           "horse_num": 1,
           "horse_name": "ミヤエスケープ",
-          "ai_score": 0.1832520747836414
+          "ai_score": 0.1821771474117686
         },
         {
           "rank": 6,
           "horse_num": 11,
           "horse_name": "オーシャンステラ",
-          "ai_score": 0.16975725728115648
+          "ai_score": 0.17406324293902253
         },
         {
           "rank": 7,
           "horse_num": 3,
           "horse_name": "ケイツープラ",
-          "ai_score": 0.14320111072096103
+          "ai_score": 0.14310967798834007
         },
         {
           "rank": 8,
           "horse_num": 14,
           "horse_name": "ガンバレベアー",
-          "ai_score": 0.130481895958357
+          "ai_score": 0.12854970726861248
         },
         {
           "rank": 9,
-          "horse_num": 4,
-          "horse_name": "コウユーニポポニコ",
-          "ai_score": 0.09319434312933919
+          "horse_num": 15,
+          "horse_name": "オテンバプリンセス",
+          "ai_score": 0.09236745406681557
         },
         {
           "rank": 10,
-          "horse_num": 15,
-          "horse_name": "オテンバプリンセス",
-          "ai_score": 0.09283948991253549
+          "horse_num": 4,
+          "horse_name": "コウユーニポポニコ",
+          "ai_score": 0.09216182561363992
         },
         {
           "rank": 11,
           "horse_num": 12,
           "horse_name": "フクチャンヒメ",
-          "ai_score": 0.0891784213783232
+          "ai_score": 0.08869654055564843
         },
         {
           "rank": 12,
           "horse_num": 10,
           "horse_name": "エジプシャンマウ",
-          "ai_score": 0.0836858179817261
+          "ai_score": 0.08341404776659071
         },
         {
           "rank": 13,
           "horse_num": 9,
           "horse_name": "オオゾラヒバリ",
-          "ai_score": 0.07886919827429718
+          "ai_score": 0.07919438012979274
         },
         {
           "rank": 14,
           "horse_num": 16,
           "horse_name": "キカオクベシ",
-          "ai_score": 0.057164811906210804
+          "ai_score": 0.05718008256107656
         },
         {
           "rank": 15,
           "horse_num": 2,
           "horse_name": "デルマケセラセラ",
-          "ai_score": 0.05706758891421747
+          "ai_score": 0.05679803121950181
         },
         {
           "rank": 16,
           "horse_num": 5,
           "horse_name": "マナマカナ",
-          "ai_score": 0.045536940026089906
+          "ai_score": 0.04554203595671314
         }
       ]
     }
