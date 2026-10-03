@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 4,
   "predictions": [
     {
       "race_date": "2026-10-03",
@@ -104,7 +104,7 @@
     },
     {
       "race_date": "2026-10-03",
-      "predicted_at": "09:59:25",
+      "predicted_at": "10:06:27",
       "venue": "京都",
       "race_num": 2,
       "race_title": "2歳未勝利",
@@ -271,6 +271,83 @@
           "horse_num": 14,
           "horse_name": "ヴェットビルズ",
           "ai_score": 0.05383673880155322
+        }
+      ]
+    },
+    {
+      "race_date": "2026-10-03",
+      "predicted_at": "10:06:27",
+      "venue": "東京",
+      "race_num": 2,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.5783495517779891,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 6,
+          "horse_name": "ロゼプレミア",
+          "ai_score": 0.4889636680558062
+        },
+        {
+          "rank": 2,
+          "horse_num": 8,
+          "horse_name": "シアルナーレ",
+          "ai_score": 0.3061568675473046
+        },
+        {
+          "rank": 3,
+          "horse_num": 11,
+          "horse_name": "スターマイン",
+          "ai_score": 0.295953969766428
+        },
+        {
+          "rank": 4,
+          "horse_num": 4,
+          "horse_name": "インテルラゴス",
+          "ai_score": 0.2870145251300113
+        },
+        {
+          "rank": 5,
+          "horse_num": 2,
+          "horse_name": "ラルコ",
+          "ai_score": 0.28111155518643427
+        },
+        {
+          "rank": 6,
+          "horse_num": 10,
+          "horse_name": "ウイニングレイ",
+          "ai_score": 0.2536615778083786
+        },
+        {
+          "rank": 7,
+          "horse_num": 5,
+          "horse_name": "トパーズプレミア",
+          "ai_score": 0.14345413638224108
+        },
+        {
+          "rank": 8,
+          "horse_num": 3,
+          "horse_name": "ゼノスフィア",
+          "ai_score": 0.13024297306570967
+        },
+        {
+          "rank": 9,
+          "horse_num": 1,
+          "horse_name": "セイウンオオゾラ",
+          "ai_score": 0.11167342430402001
+        },
+        {
+          "rank": 10,
+          "horse_num": 7,
+          "horse_name": "スカイミラー",
+          "ai_score": 0.0905948510653341
+        },
+        {
+          "rank": 11,
+          "horse_num": 9,
+          "horse_name": "ウカテンセイ",
+          "ai_score": 0.04623727162300238
         }
       ]
     }
