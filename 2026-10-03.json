@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 10,
   "predictions": [
     {
       "race_date": "2026-10-03",
@@ -395,7 +395,7 @@
     },
     {
       "race_date": "2026-10-03",
-      "predicted_at": "12:50:45",
+      "predicted_at": "12:56:39",
       "venue": "京都",
       "race_num": 7,
       "race_title": "3歳以上1勝クラス",
@@ -865,6 +865,125 @@
           "horse_num": 5,
           "horse_name": "マナマカナ",
           "ai_score": 0.045541013620749214
+        }
+      ]
+    },
+    {
+      "race_date": "2026-10-03",
+      "predicted_at": "12:56:39",
+      "venue": "東京",
+      "race_num": 7,
+      "race_title": "3歳以上1勝クラス",
+      "race_confidence": 0.47164870927766195,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 14,
+          "horse_name": "ワディアルリヤハ",
+          "ai_score": 0.4706902316388803
+        },
+        {
+          "rank": 2,
+          "horse_num": 7,
+          "horse_name": "アイアンパイク",
+          "ai_score": 0.46865390801379797
+        },
+        {
+          "rank": 3,
+          "horse_num": 2,
+          "horse_name": "グリオンヴール",
+          "ai_score": 0.44136901414475244
+        },
+        {
+          "rank": 4,
+          "horse_num": 18,
+          "horse_name": "カフェラバー",
+          "ai_score": 0.14665391870714012
+        },
+        {
+          "rank": 5,
+          "horse_num": 4,
+          "horse_name": "アトリウムチャペル",
+          "ai_score": 0.1323131639608693
+        },
+        {
+          "rank": 6,
+          "horse_num": 1,
+          "horse_name": "タイキプレジール",
+          "ai_score": 0.12424916592755016
+        },
+        {
+          "rank": 7,
+          "horse_num": 9,
+          "horse_name": "ソナタン",
+          "ai_score": 0.10238409137121443
+        },
+        {
+          "rank": 8,
+          "horse_num": 10,
+          "horse_name": "ダイユウアレグロ",
+          "ai_score": 0.10092602014231433
+        },
+        {
+          "rank": 9,
+          "horse_num": 12,
+          "horse_name": "リラ",
+          "ai_score": 0.09942315011356902
+        },
+        {
+          "rank": 10,
+          "horse_num": 3,
+          "horse_name": "アルマロクザン",
+          "ai_score": 0.09889217797937273
+        },
+        {
+          "rank": 11,
+          "horse_num": 15,
+          "horse_name": "コルチェスター",
+          "ai_score": 0.09262610656610752
+        },
+        {
+          "rank": 12,
+          "horse_num": 16,
+          "horse_name": "ピエドゥラパン",
+          "ai_score": 0.08775013647459137
+        },
+        {
+          "rank": 13,
+          "horse_num": 6,
+          "horse_name": "ノーブルクロンヌ",
+          "ai_score": 0.07814946450586413
+        },
+        {
+          "rank": 14,
+          "horse_num": 8,
+          "horse_name": "ナックホワイト",
+          "ai_score": 0.07446586583005135
+        },
+        {
+          "rank": 15,
+          "horse_num": 5,
+          "horse_name": "リネンタイリン",
+          "ai_score": 0.06013475955468815
+        },
+        {
+          "rank": 16,
+          "horse_num": 17,
+          "horse_name": "ニシノイストワール",
+          "ai_score": 0.059490671729938924
+        },
+        {
+          "rank": 17,
+          "horse_num": 13,
+          "horse_name": "ヤジロベエバランス",
+          "ai_score": 0.05614606450957835
+        },
+        {
+          "rank": 18,
+          "horse_num": 11,
+          "horse_name": "ヘルモソブレード",
+          "ai_score": 0.05581097139759904
         }
       ]
     }
