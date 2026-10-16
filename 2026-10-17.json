@@ -1,0 +1,88 @@
+{
+  "count": 1,
+  "predictions": [
+    {
+      "race_date": "2026-10-17",
+      "predicted_at": "08:15:18",
+      "venue": "東京",
+      "race_num": 1,
+      "race_title": "2歳未勝利",
+      "race_confidence": 0.7016689026516265,
+      "skipped": false,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 2,
+          "horse_name": "ワレモコウ",
+          "ai_score": 0.5768622413620229
+        },
+        {
+          "rank": 2,
+          "horse_num": 3,
+          "horse_name": "アフィーリア",
+          "ai_score": 0.3605078809259438
+        },
+        {
+          "rank": 3,
+          "horse_num": 8,
+          "horse_name": "パルセノスミハ",
+          "ai_score": 0.13249491967689045
+        },
+        {
+          "rank": 4,
+          "horse_num": 11,
+          "horse_name": "ココニイルヨ",
+          "ai_score": 0.13036620912058672
+        },
+        {
+          "rank": 5,
+          "horse_num": 4,
+          "horse_name": "ピウモッソ",
+          "ai_score": 0.09862816333328915
+        },
+        {
+          "rank": 6,
+          "horse_num": 6,
+          "horse_name": "ロイヤルグルーヴ",
+          "ai_score": 0.09331558576295947
+        },
+        {
+          "rank": 7,
+          "horse_num": 5,
+          "horse_name": "キタノバトゥーキ",
+          "ai_score": 0.07648047148464127
+        },
+        {
+          "rank": 8,
+          "horse_num": 1,
+          "horse_name": "ライヴバーボン",
+          "ai_score": 0.07380262321087858
+        },
+        {
+          "rank": 9,
+          "horse_num": 12,
+          "horse_name": "イチゴワタアメ",
+          "ai_score": 0.06816647372311184
+        },
+        {
+          "rank": 10,
+          "horse_num": 10,
+          "horse_name": "アブリコース",
+          "ai_score": 0.06710441713146012
+        },
+        {
+          "rank": 11,
+          "horse_num": 7,
+          "horse_name": "ラヴトリガー",
+          "ai_score": 0.06295421536204007
+        },
+        {
+          "rank": 12,
+          "horse_num": 9,
+          "horse_name": "ラブマイティー",
+          "ai_score": 0.04880989528463242
+        }
+      ]
+    }
+  ]
+}
