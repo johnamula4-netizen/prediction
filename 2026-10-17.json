@@ -1,5 +1,5 @@
 {
-  "count": 1,
+  "count": 2,
   "predictions": [
     {
       "race_date": "2026-10-17",
@@ -81,6 +81,101 @@
           "horse_num": 9,
           "horse_name": "ラブマイティー",
           "ai_score": 0.04880989528463242
+        }
+      ]
+    },
+    {
+      "race_date": "2026-10-17",
+      "predicted_at": "16:14:09",
+      "venue": "東京",
+      "race_num": 12,
+      "race_title": "3歳以上2勝クラス",
+      "race_confidence": 0.40374213991474533,
+      "skipped": true,
+      "horses": [
+        {
+          "rank": 1,
+          "horse_num": 12,
+          "horse_name": "タイキブリッツェン",
+          "ai_score": 0.3797331529050945
+        },
+        {
+          "rank": 2,
+          "horse_num": 2,
+          "horse_name": "ショーリバース",
+          "ai_score": 0.3165072090390573
+        },
+        {
+          "rank": 3,
+          "horse_num": 5,
+          "horse_name": "ダノンキラウェア",
+          "ai_score": 0.2740531259661362
+        },
+        {
+          "rank": 4,
+          "horse_num": 7,
+          "horse_name": "バルダンツァ",
+          "ai_score": 0.23090049679822158
+        },
+        {
+          "rank": 5,
+          "horse_num": 9,
+          "horse_name": "ワーズワース",
+          "ai_score": 0.18261736365891743
+        },
+        {
+          "rank": 6,
+          "horse_num": 14,
+          "horse_name": "エムティエスターテ",
+          "ai_score": 0.13253894282436288
+        },
+        {
+          "rank": 7,
+          "horse_num": 8,
+          "horse_name": "メモリーグラス",
+          "ai_score": 0.10884836858599327
+        },
+        {
+          "rank": 8,
+          "horse_num": 11,
+          "horse_name": "ベルブリエ",
+          "ai_score": 0.10453997350215702
+        },
+        {
+          "rank": 9,
+          "horse_num": 6,
+          "horse_name": "シーニックビュー",
+          "ai_score": 0.08287526559072192
+        },
+        {
+          "rank": 10,
+          "horse_num": 1,
+          "horse_name": "メッエフアパラ",
+          "ai_score": 0.08085330737782255
+        },
+        {
+          "rank": 11,
+          "horse_num": 4,
+          "horse_name": "フィーチャリング",
+          "ai_score": 0.08024958610236947
+        },
+        {
+          "rank": 12,
+          "horse_num": 10,
+          "horse_name": "テンクウジョー",
+          "ai_score": 0.06420848048922206
+        },
+        {
+          "rank": 13,
+          "horse_num": 3,
+          "horse_name": "キングクー",
+          "ai_score": 0.05546228410819742
+        },
+        {
+          "rank": 14,
+          "horse_num": 13,
+          "horse_name": "グラスブランシュ",
+          "ai_score": 0.05094485675825182
         }
       ]
     }
